@@ -28,8 +28,8 @@ jobs:
           pip install pygithub
       - name: Run update script
         env:
-          - MYTHIC_AGENTS_GITHUB_TOKEN: ${{ secrets.MYTHIC_AGENTS_GITHUB_TOKEN }}
-          - MYTHIC_C2_GITHUB_TOKEN: ${{ secrets.MYTHIC_C2_GITHUB_TOKEN }}
+          MYTHIC_AGENTS_GITHUB_TOKEN: ${{ secrets.MYTHIC_AGENTS_GITHUB_TOKEN }}
+          MYTHIC_C2_GITHUB_TOKEN: ${{ secrets.MYTHIC_C2_GITHUB_TOKEN }}
         run: |
           python get_repo_data.py
 
