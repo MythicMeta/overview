@@ -55,10 +55,13 @@ with open(agent_repos) as f:
                         "commit_date": branch.commit.commit.author.date,
                         "icon": latest["icon"]
                     }
-                    files = proj.get_contents("agent_icons")
-                    for file in files:
-                        if file.name != ".keep" and file.name != ".gitkeep":
-                            latest["icon"] = file.download_url
+                    try:
+                        files = proj.get_contents("agent_icons")
+                        for file in files:
+                            if file.name != ".keep" and file.name != ".gitkeep":
+                                latest["icon"] = file.download_url
+                    except Exception as e:
+                        print(f"Failed to find agent_icons folder for {url} - {e}")
             result = requests.get(url, headers=headers)
             if result.status_code == 200:
                 repo_data_json = json.loads(result.text)
@@ -71,10 +74,16 @@ with open(agent_repos) as f:
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
                 repo_data_json['category'] = category
-                clones = proj.get_clones_traffic()
-                repo_data_json["clones"] = {}
-                repo_data_json["clones"]["count"] = clones["count"]
-                repo_data_json["clones"]["uniques"] = clones["uniques"]
+                repo_data_json["clones"] = {
+                    "count": -1,
+                    "uniques": -1
+                }
+                try:
+                    clones = proj.get_clones_traffic()
+                    repo_data_json["clones"]["count"] = clones["count"]
+                    repo_data_json["clones"]["uniques"] = clones["uniques"]
+                except Exception as e:
+                    print(f"Failed to get traffic for {url} - {e}")
                 repo_data_json["latest"]["commit_date"] = time.mktime(
                     repo_data_json["latest"]["commit_date"].timetuple())
 
