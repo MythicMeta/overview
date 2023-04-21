@@ -150,7 +150,7 @@
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "bumping pypi version",
-        "commit_date": 1681956842.0,
+        "commit_date": 1681974842.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
@@ -227,13 +227,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
       "updated_at": "2023-04-09T02:41:16Z",
-      "pushed_at": "2023-04-20T14:26:40Z",
+      "pushed_at": "2023-04-21T02:25:26Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
-      "size": 20821,
+      "size": 20827,
       "stargazers_count": 377,
       "watchers_count": 377,
       "language": "C#",
@@ -314,14 +314,14 @@
       "subscribers_count": 17,
       "latest": {
         "branch": "v3.0.0",
-        "commit_message": "removed some debugging on builds",
-        "commit_date": 1682000798.0,
+        "commit_message": "update build file to use T/F instead of true/false",
+        "commit_date": 1682061924.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 217,
-        "uniques": 128
+        "count": 220,
+        "uniques": 130
       }
     },
     {
@@ -398,7 +398,7 @@
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 11339,
+      "size": 11344,
       "stargazers_count": 111,
       "watchers_count": 111,
       "language": "C#",
@@ -479,8 +479,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 137,
-        "uniques": 77
+        "count": 139,
+        "uniques": 79
       }
     },
     {
@@ -633,7 +633,7 @@
       "latest": {
         "branch": "V3.0.0",
         "commit_message": "debugging windows payload build",
-        "commit_date": 1681920423.0,
+        "commit_date": 1681938423.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/freyja/master/agent_icons/freyja.svg"
       },
       "category": "Agent",
@@ -792,13 +792,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "added support for arm64 + universal payloads",
-        "commit_date": 1661365077.0,
+        "commit_date": 1661383077.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hermes/main/agent_icons/hermes.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 30,
-        "uniques": 15
+        "count": 33,
+        "uniques": 18
       }
     },
     {
@@ -950,8 +950,8 @@
       "subscribers_count": 4,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #3 from MythicAgents/v2.3-testing\n\nsomehow the agent icon was removed",
-        "commit_date": 1644966916.0,
+        "commit_message": "Merge pull request #3 from MythicAgents/v2.3-testing\n\nsomeho...",
+        "commit_date": 1644988516.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/leviathan/master/agent_icons/leviathan.svg"
       },
       "category": "Agent",
@@ -1109,14 +1109,14 @@
       "subscribers_count": 9,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #17 from coldwaterq/master\n\nAdd support for MythicAgents/pickle_wrapper",
-        "commit_date": 1660992359.0,
+        "commit_message": "Merge pull request #17 from coldwaterq/master\n\nAdd support f...",
+        "commit_date": 1661010359.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Medusa/master/agent_icons/medusa.svg"
       },
       "category": "Agent",
       "clones": {
         "count": 102,
-        "uniques": 66
+        "uniques": 67
       }
     },
     {
@@ -1275,7 +1275,7 @@
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "v3.0.0 initial commit",
-        "commit_date": 1679666520.0,
+        "commit_date": 1679684520.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/merlin/main/agent_icons/merlin.svg"
       },
       "category": "Agent",
@@ -1351,7 +1351,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/orthrus/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/orthrus/deployments",
       "created_at": "2021-08-05T11:31:22Z",
-      "updated_at": "2023-03-18T17:33:36Z",
+      "updated_at": "2023-04-21T12:54:12Z",
       "pushed_at": "2021-10-12T09:29:28Z",
       "git_url": "git://github.com/MythicAgents/orthrus.git",
       "ssh_url": "git@github.com:MythicAgents/orthrus.git",
@@ -1359,8 +1359,8 @@
       "svn_url": "https://github.com/MythicAgents/orthrus",
       "homepage": null,
       "size": 55,
-      "stargazers_count": 39,
-      "watchers_count": 39,
+      "stargazers_count": 40,
+      "watchers_count": 40,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1381,7 +1381,7 @@
       "visibility": "public",
       "forks": 10,
       "open_issues": 2,
-      "watchers": 39,
+      "watchers": 40,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1434,7 +1434,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
-        "commit_date": 1634030968.0,
+        "commit_date": 1634048968.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/orthrus/main/agent_icons/orthrus.svg"
       },
       "category": "Agent",
@@ -1527,11 +1527,11 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 19,
+      "forks_count": 20,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 3,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -1544,8 +1544,8 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 19,
-      "open_issues": 2,
+      "forks": 20,
+      "open_issues": 3,
       "watchers": 64,
       "default_branch": "master",
       "permissions": {
@@ -1594,12 +1594,12 @@
           "status": "disabled"
         }
       },
-      "network_count": 19,
+      "network_count": 20,
       "subscribers_count": 6,
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "bumping container verison and pulling in updates from Main",
-        "commit_date": 1681144681.0,
+        "commit_date": 1681162681.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
       },
       "category": "Agent",
@@ -1758,12 +1758,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "Fix image references in documentation",
-        "commit_date": 1679938489.0,
+        "commit_date": 1679956489.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/tetanus/main/agent_icons/tetanus.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 40,
+        "count": 41,
         "uniques": 29
       }
     },
@@ -1917,7 +1917,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #2 from sclow/mythic-2.3\n\nMythic 2.3",
-        "commit_date": 1676044418.0,
+        "commit_date": 1676066018.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/typhon/main/agent_icons/typhon.svg"
       },
       "category": "Agent",
@@ -2086,9 +2086,9 @@
       "network_count": 6,
       "subscribers_count": 3,
       "latest": {
-        "branch": "dependabot/npm_and_yarn/Payload_Type/venus/agent_code/minimist-1.2.8",
-        "commit_message": "Bump minimist from 1.2.5 to 1.2.8 in /Payload_Type/venus/agent_code\n\nBumps [minimist](https://github.com/minimistjs/minimist) from 1.2.5 to 1.2.8.\n- [Release notes](https://github.com/minimistjs/minimist/releases)\n- [Changelog](https://github.com/minimistjs/minimist/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/minimistjs/minimist/compare/v1.2.5...v1.2.8)\n\n---\nupdated-dependencies:\n- dependency-name: minimist\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
-        "commit_date": 1678033967.0,
+        "branch": "dependabot/npm_and_y...",
+        "commit_message": "Bump minimist from 1.2.5 to 1.2.8 in /Payload_Type/venus/age...",
+        "commit_date": 1678055567.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/venus/main/agent_icons/venus.svg"
       },
       "category": "Agent",
@@ -2253,7 +2253,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "readme touch-up",
-        "commit_date": 1651017921.0,
+        "commit_date": 1651035921.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/zippy/main/agent_icons/zippy.svg"
       },
       "category": "Agent",
@@ -2419,8 +2419,8 @@
       "subscribers_count": 11,
       "latest": {
         "branch": "v2.3",
-        "commit_message": "Merge pull request #8 from BAbrandon/v2.3\n\nAdded removal of padding to allow for json parsing",
-        "commit_date": 1644858412.0,
+        "commit_message": "Merge pull request #8 from BAbrandon/v2.3\n\nAdded removal of ...",
+        "commit_date": 1644880012.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Nimplant/main/agent_icons/nimplant.svg"
       },
       "category": "Agent",
@@ -2580,8 +2580,8 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 testing",
-        "commit_date": 1643906362.0,
+        "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 t...",
+        "commit_date": 1643927962.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/atlas/master/agent_icons/atlas.svg"
       },
       "category": "Agent",
@@ -2749,13 +2749,13 @@
       "latest": {
         "branch": "main",
         "commit_message": "fixed the builder.py for exercise 4/5 to use set vs $env",
-        "commit_date": 1666978187.0,
+        "commit_date": 1666996187.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hercules/main/agent_icons/hercules.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 11
+        "count": 21,
+        "uniques": 12
       }
     },
     {
@@ -2908,12 +2908,12 @@
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "bumping the pypi version",
-        "commit_date": 1681480684.0,
+        "commit_date": 1681498684.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/service_wrapper/master/agent_icons/service_wrapper.svg"
       },
       "category": "Wrapper",
       "clones": {
-        "count": 17,
+        "count": 18,
         "uniques": 11
       }
     },
@@ -2985,13 +2985,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/scarecrow_wrapper/deployments",
       "created_at": "2021-07-31T16:05:13Z",
       "updated_at": "2022-05-27T18:22:34Z",
-      "pushed_at": "2022-02-01T22:33:49Z",
+      "pushed_at": "2023-04-21T01:30:37Z",
       "git_url": "git://github.com/MythicAgents/scarecrow_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/scarecrow_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/scarecrow_wrapper.git",
       "svn_url": "https://github.com/MythicAgents/scarecrow_wrapper",
       "homepage": null,
-      "size": 4818,
+      "size": 5170,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Go",
@@ -3065,15 +3065,15 @@
       "network_count": 5,
       "subscribers_count": 3,
       "latest": {
-        "branch": "main",
-        "commit_message": "Merge pull request #3 from who1smrrobot/who1smrrobot\n\nUpdate ScareCrow to v3.0.1, update ScareCrow configuration optinons, update Go to latest version",
-        "commit_date": 1643754829.0,
+        "branch": "v3.0.0",
+        "commit_message": "update for v3.0.0",
+        "commit_date": 1682058631.0,
         "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
       },
       "category": "Wrapper",
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -3226,7 +3226,7 @@
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "fix some bad brackets in mod rewrite rules",
-        "commit_date": 1681997926.0,
+        "commit_date": 1682015926.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
@@ -3385,13 +3385,13 @@
       "latest": {
         "branch": "v3.0.0",
         "commit_message": "Merge pull request #1 from checkymander/v3.0.0\n\nv3 initial commit",
-        "commit_date": 1681915295.0,
+        "commit_date": 1681933295.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 43,
-        "uniques": 32
+        "count": 45,
+        "uniques": 34
       }
     },
     {
@@ -3544,7 +3544,7 @@
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #1 from jeffmcjunkin/patch-1\n\nREADME.md: Update installation instructions",
-        "commit_date": 1673577111.0,
+        "commit_date": 1673598711.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
@@ -3703,13 +3703,13 @@
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #3 from DarkC0ntributor/master\n\nDev docs",
-        "commit_date": 1656076571.0,
+        "commit_date": 1656094571.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
         "count": 59,
-        "uniques": 30
+        "uniques": 31
       }
     },
     {
@@ -3862,7 +3862,7 @@
       "latest": {
         "branch": "3.0.0",
         "commit_message": "modified some development variables, added confirmation message for server start",
-        "commit_date": 1681477926.0,
+        "commit_date": 1681495926.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
@@ -4021,7 +4021,7 @@
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #1 from DarkC0ntributor/main\n\nadded sequence diagram",
-        "commit_date": 1656625707.0,
+        "commit_date": 1656643707.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
@@ -4186,12 +4186,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "bumping the docker container version to 0.0.2",
-        "commit_date": 1680209413.0,
+        "commit_date": 1680227413.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "clones": {
-        "count": 7,
+        "count": 8,
         "uniques": 6
       }
     },
@@ -4351,12 +4351,12 @@
       "latest": {
         "branch": "main",
         "commit_message": "bumping the docker image version to 0.0.2",
-        "commit_date": 1680209428.0,
+        "commit_date": 1680227428.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Logger",
       "clones": {
-        "count": 3,
+        "count": 4,
         "uniques": 2
       }
     }
