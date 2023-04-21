@@ -8,8 +8,8 @@ $(document).ready(function() {
 
     $('#cckit_table').DataTable( {
         "order": [[ 0, "desc" ]],
-        "pageLength": 100,
-
+        "pageLength": 50,
+    scrollX: true,
     ajax: {
         url: 'data.json',
         dataSrc: 'data'

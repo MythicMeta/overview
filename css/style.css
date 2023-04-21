@@ -2,10 +2,6 @@ body {
   font-family: 'lato', sans-serif !important;
 }
 
-.container {
-  max-width: 100%;
-}
-
 .container-fluid {
   max-width: 90%;
 }
@@ -37,6 +33,28 @@ body {
   /* Red */
 }
 
+.container {
+  max-width: 100%;
+}
+
 .breakwords {
   word-break: break-all;
+}
+
+.my_table_layout {
+}
+/* default to scrolling for mobile and small screens */
+th, td { white-space: nowrap; }
+
+@media (min-width: 576px) {
+  .my_table_layout {
+  }
+}
+/* wordbreak and fit to screen for large screens*/
+@media (min-width: 1400px) {
+
+  .my_table_layout {
+    table-layout: fixed;
+  }
+  th, td { white-space: unset; }
 }

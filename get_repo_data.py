@@ -64,6 +64,10 @@ with open(agent_repos) as f:
                 repo_data_json = json.loads(result.text)
                 if latest["icon"] == "":
                     latest["icon"] = repo_data_json["owner"]["avatar_url"]
+                if len(latest["branch"]) > 20:
+                    latest["branch"] = latest["branch"][:20] + "..."
+                if len(latest["commit_message"]) > 60:
+                    latest["commit_message"] = latest["commit_message"][:60] + "..."
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
                 repo_data_json['category'] = category
