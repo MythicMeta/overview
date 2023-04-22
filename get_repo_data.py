@@ -21,6 +21,10 @@ git_repo_base = "https://github.com/"
 datajson = "data.json"
 jsonbase = {"data": []}
 
+stats_file = "stats.json"
+with open(stats_file) as f:
+    stats_data = json.load(f)
+
 #  Walk through MythicAgents list
 with open(agent_repos) as f:
     headers = {"authorization": "Bearer " + MYTHIC_AGENTS_GITHUB_TOKEN,
@@ -82,6 +86,42 @@ with open(agent_repos) as f:
                     clones = proj.get_clones_traffic()
                     repo_data_json["clones"]["count"] = clones["count"]
                     repo_data_json["clones"]["uniques"] = clones["uniques"]
+                    print(clones)
+                    if url not in stats_data:
+                        stats_data[url] = {}
+                    for clone in clones["clones"]:
+                        stats_data[url][clone.timestamp.strftime("%Y-%m-%d")] = {
+                            "clones": {
+                                "unique": clone.uniques,
+                                "count": clone.count
+                            },
+                            "traffic": {
+                                "count": 0,
+                                "unique": 0
+                            }
+                        }
+                    traffic = proj.get_views_traffic()
+                    print(traffic)
+                    for t in traffic['views']:
+                        if t.timestamp.strftime("%Y-%m-%d") in stats_data[url]:
+                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
+                                **stats_data[url][t.timestamp.strftime("%Y-%m-%d")],
+                                "traffic": {
+                                    "count": t.count,
+                                    "unique": t.uniques
+                                }
+                            }
+                        else:
+                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
+                                "traffic": {
+                                    "count": t.count,
+                                    "unique": t.uniques
+                                },
+                                "clones": {
+                                    "unique": 0,
+                                    "count": 0
+                                }
+                            }
                 except Exception as e:
                     print(f"Failed to get traffic for {url} - {e}")
                 repo_data_json["latest"]["commit_date"] = time.mktime(
@@ -131,10 +171,49 @@ with open(c2_repos) as f:
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
                 repo_data_json['category'] = category
-                clones = proj.get_clones_traffic()
-                repo_data_json["clones"] = {}
-                repo_data_json["clones"]["count"] = clones["count"]
-                repo_data_json["clones"]["uniques"] = clones["uniques"]
+                try:
+                    clones = proj.get_clones_traffic()
+                    repo_data_json["clones"] = {}
+                    repo_data_json["clones"]["count"] = clones["count"]
+                    repo_data_json["clones"]["uniques"] = clones["uniques"]
+                    print(clones)
+                    if url not in stats_data:
+                        stats_data[url] = {}
+                    for clone in clones["clones"]:
+                        stats_data[url][clone.timestamp.strftime("%Y-%m-%d")] = {
+                            "clones": {
+                                "unique": clone.uniques,
+                                "count": clone.count
+                            },
+                            "traffic": {
+                                "count": 0,
+                                "unique": 0
+                            }
+                        }
+                    traffic = proj.get_views_traffic()
+                    print(traffic)
+                    for t in traffic['views']:
+                        if t.timestamp.strftime("%Y-%m-%d") in stats_data[url]:
+                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
+                                **stats_data[url][t.timestamp.strftime("%Y-%m-%d")],
+                                "traffic": {
+                                    "count": t.count,
+                                    "unique": t.uniques
+                                }
+                            }
+                        else:
+                            stats_data[url][t.timestamp.strftime("%Y-%m-%d")] = {
+                                "traffic": {
+                                    "count": t.count,
+                                    "unique": t.uniques
+                                },
+                                "clones": {
+                                    "unique": 0,
+                                    "count": 0
+                                }
+                            }
+                except Exception as e:
+                    print(f"Failed to get traffic for {url} - {e}")
                 repo_data_json["latest"]["commit_date"] = time.mktime(
                     repo_data_json["latest"]["commit_date"].timetuple())
 
@@ -145,3 +224,5 @@ with open(c2_repos) as f:
 
 with open(datajson, 'w') as f:
     f.write(json.dumps(jsonbase, indent=2))
+with open(stats_file, 'w') as f:
+    f.write(json.dumps(stats_data, indent=2))
