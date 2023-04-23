@@ -13,7 +13,7 @@
     "2023-04-09": {
       "clones": {
         "unique": 5,
-        "count": 290
+        "count": 266
       },
       "traffic": {
         "count": 53,
@@ -143,7 +143,7 @@
     "2023-04-22": {
       "clones": {
         "unique": 4,
-        "count": 267
+        "count": 290
       },
       "traffic": {
         "count": 22,
@@ -300,8 +300,8 @@
         "count": 4
       },
       "traffic": {
-        "count": 21,
-        "unique": 5
+        "count": 20,
+        "unique": 4
       }
     },
     "2023-04-10": {
@@ -448,8 +448,8 @@
     },
     "2023-04-09": {
       "clones": {
-        "unique": 64,
-        "count": 125
+        "unique": 60,
+        "count": 115
       },
       "traffic": {
         "count": 1,
@@ -578,8 +578,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 58,
-        "count": 112
+        "unique": 60,
+        "count": 116
       },
       "traffic": {
         "count": 6,
@@ -1116,8 +1116,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 83,
-        "count": 161
+        "unique": 89,
+        "count": 178
       },
       "traffic": {
         "count": 4,
@@ -1241,7 +1241,7 @@
     "2023-04-09": {
       "clones": {
         "unique": 12,
-        "count": 295
+        "count": 271
       },
       "traffic": {
         "count": 56,
@@ -1370,8 +1370,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 88,
-        "count": 431
+        "unique": 93,
+        "count": 471
       },
       "traffic": {
         "count": 39,
@@ -1506,8 +1506,8 @@
         "count": 2
       },
       "traffic": {
-        "count": 5,
-        "unique": 2
+        "count": 62,
+        "unique": 3
       }
     },
     "2023-04-16": {
@@ -1603,13 +1603,13 @@
       }
     },
     "2023-04-22": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
       "traffic": {
         "count": 1,
         "unique": 1
-      },
-      "clones": {
-        "unique": 0,
-        "count": 0
       }
     }
   },
@@ -1808,8 +1808,8 @@
     },
     "2023-04-22": {
       "traffic": {
-        "count": 2,
-        "unique": 1
+        "count": 3,
+        "unique": 2
       },
       "clones": {
         "unique": 0,
@@ -2573,7 +2573,7 @@
     "2023-04-09": {
       "clones": {
         "unique": 9,
-        "count": 299
+        "count": 275
       },
       "traffic": {
         "count": 3,
@@ -2702,8 +2702,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 3,
-        "count": 270
+        "unique": 4,
+        "count": 295
       },
       "traffic": {
         "count": 0,
@@ -2824,8 +2824,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 1,
-        "count": 1
+        "unique": 2,
+        "count": 2
       },
       "traffic": {
         "count": 2,
@@ -3099,7 +3099,7 @@
     "2023-04-22": {
       "clones": {
         "unique": 2,
-        "count": 4
+        "count": 5
       },
       "traffic": {
         "count": 3,
@@ -3210,8 +3210,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 1,
-        "count": 1
+        "unique": 2,
+        "count": 2
       },
       "traffic": {
         "count": 1,
@@ -3336,8 +3336,8 @@
         "count": 2
       },
       "traffic": {
-        "count": 1,
-        "unique": 1
+        "count": 5,
+        "unique": 2
       }
     },
     "2023-04-16": {
@@ -3471,6 +3471,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-22": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/basic_logger": {
@@ -3552,6 +3562,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-22": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   }
