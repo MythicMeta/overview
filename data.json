@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2023-04-19T04:53:40Z",
-      "pushed_at": "2023-04-20T02:14:04Z",
+      "pushed_at": "2023-04-24T19:22:42Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 766,
+      "size": 660,
       "stargazers_count": 31,
       "watchers_count": 31,
       "language": "Python",
@@ -149,13 +149,13 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "v3.0.0",
-        "commit_message": "bumping pypi version",
-        "commit_date": 1681956842.0,
+        "commit_message": "fixed an issue with header values not being set",
+        "commit_date": 1682364159.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 4119,
+        "count": 4124,
         "uniques": 73
       }
     },
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 215,
-        "uniques": 121
+        "count": 221,
+        "uniques": 122
       }
     },
     {
@@ -479,8 +479,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 130,
-        "uniques": 76
+        "count": 138,
+        "uniques": 78
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1707,
-        "uniques": 291
+        "count": 1701,
+        "uniques": 281
       }
     },
     {
@@ -797,8 +797,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 33,
-        "uniques": 17
+        "count": 31,
+        "uniques": 15
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 12
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -1115,7 +1115,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 102,
+        "count": 106,
         "uniques": 66
       }
     },
@@ -1280,7 +1280,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1082,
+        "count": 1083,
         "uniques": 273
       }
     },
@@ -1511,13 +1511,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
       "updated_at": "2023-04-21T00:53:28Z",
-      "pushed_at": "2023-04-21T22:17:41Z",
+      "pushed_at": "2023-04-24T16:19:51Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
-      "size": 14425,
+      "size": 14435,
       "stargazers_count": 64,
       "watchers_count": 64,
       "language": "Go",
@@ -1598,14 +1598,14 @@
       "subscribers_count": 6,
       "latest": {
         "branch": "v3.0.0",
-        "commit_message": "updating MythicContainer to v1.0.0-rc12",
-        "commit_date": 1682115459.0,
+        "commit_message": "fixed issue with headers getting parsed",
+        "commit_date": 1682353189.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 5015,
-        "uniques": 267
+        "count": 5021,
+        "uniques": 270
       }
     },
     {
@@ -1763,8 +1763,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 41,
-        "uniques": 29
+        "count": 39,
+        "uniques": 28
       }
     },
     {
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 7
+        "count": 20,
+        "uniques": 9
       }
     },
     {
@@ -2258,8 +2258,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 7,
+        "uniques": 4
       }
     },
     {
@@ -2425,8 +2425,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 24,
-        "uniques": 16
+        "count": 27,
+        "uniques": 18
       }
     },
     {
@@ -2586,8 +2586,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 13
+        "count": 19,
+        "uniques": 12
       }
     },
     {
@@ -2754,8 +2754,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 11
+        "count": 24,
+        "uniques": 13
       }
     },
     {
@@ -2914,7 +2914,7 @@
       "category": "Wrapper",
       "clones": {
         "count": 19,
-        "uniques": 12
+        "uniques": 14
       }
     },
     {
@@ -3072,8 +3072,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 24,
-        "uniques": 17
+        "count": 29,
+        "uniques": 19
       }
     },
     {
@@ -3309,13 +3309,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/ExampleContainers/deployments",
       "created_at": "2023-03-20T13:51:20Z",
       "updated_at": "2023-03-27T06:57:09Z",
-      "pushed_at": "2023-04-21T22:13:39Z",
+      "pushed_at": "2023-04-24T23:38:46Z",
       "git_url": "git://github.com/MythicMeta/ExampleContainers.git",
       "ssh_url": "git@github.com:MythicMeta/ExampleContainers.git",
       "clone_url": "https://github.com/MythicMeta/ExampleContainers.git",
       "svn_url": "https://github.com/MythicMeta/ExampleContainers",
       "homepage": null,
-      "size": 625,
+      "size": 626,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3377,8 +3377,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "update MythicContainer package\n\nalso update http example cod...",
-        "commit_date": 1682115217.0,
+        "commit_message": "bump pypi package to 0.2.0rc25",
+        "commit_date": 1682379523.0,
         "icon": "https://avatars.githubusercontent.com/u/80981744?v=4"
       },
       "category": "Meta",
@@ -3542,8 +3542,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 4274,
-        "uniques": 179
+        "count": 4291,
+        "uniques": 178
       }
     },
     {
@@ -3701,8 +3701,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 46,
-        "uniques": 36
+        "count": 49,
+        "uniques": 39
       }
     },
     {
@@ -3860,8 +3860,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 31,
-        "uniques": 27
+        "count": 34,
+        "uniques": 30
       }
     },
     {
@@ -3932,13 +3932,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/websocket/deployments",
       "created_at": "2021-03-19T18:16:58Z",
       "updated_at": "2023-04-12T16:56:28Z",
-      "pushed_at": "2022-06-24T13:16:12Z",
+      "pushed_at": "2023-04-24T23:39:34Z",
       "git_url": "git://github.com/MythicC2Profiles/websocket.git",
       "ssh_url": "git@github.com:MythicC2Profiles/websocket.git",
       "clone_url": "https://github.com/MythicC2Profiles/websocket.git",
       "svn_url": "https://github.com/MythicC2Profiles/websocket",
       "homepage": null,
-      "size": 2656,
+      "size": 2664,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": "Go",
@@ -4012,15 +4012,15 @@
       "network_count": 5,
       "subscribers_count": 4,
       "latest": {
-        "branch": "master",
-        "commit_message": "Merge pull request #3 from DarkC0ntributor/master\n\nDev docs",
-        "commit_date": 1656076571.0,
+        "branch": "v3.0.0",
+        "commit_message": "bumping pypi package to 0.2.0rc25",
+        "commit_date": 1682379572.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 63,
-        "uniques": 33
+        "count": 69,
+        "uniques": 36
       }
     },
     {
@@ -4178,7 +4178,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 23,
+        "count": 22,
         "uniques": 17
       }
     },
@@ -4337,7 +4337,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 28,
+        "count": 30,
         "uniques": 19
       }
     },
@@ -4502,7 +4502,7 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 5
       }
     },
@@ -4667,7 +4667,7 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 5,
+        "count": 4,
         "uniques": 2
       }
     }
