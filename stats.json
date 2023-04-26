@@ -42,12 +42,12 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 13,
-        "count": 300
+        "unique": 12,
+        "count": 275
       },
       "traffic": {
-        "count": 35,
-        "unique": 14
+        "count": 32,
+        "unique": 12
       }
     },
     "2023-04-13": {
@@ -169,6 +169,16 @@
         "count": 42,
         "unique": 30
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 10,
+        "count": 198
+      },
+      "traffic": {
+        "count": 52,
+        "unique": 24
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/apollo": {
@@ -204,12 +214,12 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 17,
-        "count": 23
+        "unique": 15,
+        "count": 20
       },
       "traffic": {
-        "count": 102,
-        "unique": 16
+        "count": 100,
+        "unique": 15
       }
     },
     "2023-04-13": {
@@ -331,6 +341,16 @@
         "count": 156,
         "unique": 26
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 11,
+        "count": 19
+      },
+      "traffic": {
+        "count": 118,
+        "unique": 15
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/athena": {
@@ -370,8 +390,8 @@
         "count": 16
       },
       "traffic": {
-        "count": 37,
-        "unique": 14
+        "count": 33,
+        "unique": 11
       }
     },
     "2023-04-13": {
@@ -493,6 +513,16 @@
         "count": 76,
         "unique": 25
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 12,
+        "count": 15
+      },
+      "traffic": {
+        "count": 40,
+        "unique": 17
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/freyja": {
@@ -538,8 +568,8 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 74,
-        "count": 126
+        "unique": 69,
+        "count": 116
       },
       "traffic": {
         "count": 86,
@@ -658,12 +688,22 @@
     },
     "2023-04-24": {
       "clones": {
-        "unique": 69,
-        "count": 114
+        "unique": 71,
+        "count": 120
       },
       "traffic": {
         "count": 12,
         "unique": 10
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 70,
+        "count": 127
+      },
+      "traffic": {
+        "count": 11,
+        "unique": 4
       }
     }
   },
@@ -817,6 +857,16 @@
         "count": 15,
         "unique": 5
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 6
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/leviathan": {
@@ -958,6 +1008,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 4
+      },
+      "traffic": {
+        "count": 3,
+        "unique": 3
       }
     }
   },
@@ -1121,6 +1181,16 @@
         "count": 6,
         "unique": 5
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 4,
+        "count": 5
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 7
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/merlin": {
@@ -1156,12 +1226,12 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 6,
-        "count": 6
+        "unique": 5,
+        "count": 5
       },
       "traffic": {
-        "count": 57,
-        "unique": 9
+        "count": 55,
+        "unique": 8
       }
     },
     "2023-04-13": {
@@ -1282,6 +1352,16 @@
       "traffic": {
         "count": 39,
         "unique": 13
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 4,
+        "count": 7
+      },
+      "traffic": {
+        "count": 29,
+        "unique": 12
       }
     }
   },
@@ -1405,6 +1485,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/poseidon": {
@@ -1450,12 +1540,12 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 16,
-        "count": 310
+        "unique": 13,
+        "count": 282
       },
       "traffic": {
-        "count": 157,
-        "unique": 20
+        "count": 155,
+        "unique": 19
       }
     },
     "2023-04-13": {
@@ -1571,10 +1661,20 @@
     "2023-04-24": {
       "clones": {
         "unique": 13,
-        "count": 289
+        "count": 300
       },
       "traffic": {
         "count": 165,
+        "unique": 22
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 40,
+        "count": 255
+      },
+      "traffic": {
+        "count": 141,
         "unique": 22
       }
     }
@@ -1616,7 +1716,7 @@
         "count": 1
       },
       "traffic": {
-        "count": 50,
+        "count": 44,
         "unique": 11
       }
     },
@@ -1739,6 +1839,16 @@
         "count": 15,
         "unique": 9
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 7,
+        "count": 8
+      },
+      "traffic": {
+        "count": 11,
+        "unique": 7
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/typhon": {
@@ -1830,6 +1940,16 @@
       "traffic": {
         "count": 1,
         "unique": 1
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 3
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
       }
     }
   },
@@ -1963,6 +2083,16 @@
         "count": 6,
         "unique": 6
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 1,
+        "count": 2
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/zippy": {
@@ -2054,6 +2184,16 @@
       "clones": {
         "unique": 0,
         "count": 0
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 3
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -2206,6 +2346,16 @@
       "traffic": {
         "count": 4,
         "unique": 4
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 20,
+        "unique": 2
       }
     }
   },
@@ -2369,6 +2519,16 @@
         "count": 1,
         "unique": 1
       }
+    },
+    "2023-04-25": {
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/hercules": {
@@ -2500,6 +2660,16 @@
       "traffic": {
         "count": 60,
         "unique": 5
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 5,
+        "unique": 2
       }
     }
   },
@@ -2663,6 +2833,16 @@
         "count": 77,
         "unique": 4
       }
+    },
+    "2023-04-25": {
+      "traffic": {
+        "count": 7,
+        "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/scarecrow_wrapper": {
@@ -2815,6 +2995,16 @@
         "count": 193,
         "unique": 7
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 46,
+        "unique": 4
+      }
     }
   },
   "https://api.github.com/repos/MythicAgents/pickle_wrapper": {
@@ -2907,6 +3097,16 @@
         "unique": 0,
         "count": 0
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 8,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/http": {
@@ -2952,11 +3152,11 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 26,
-        "count": 317
+        "unique": 24,
+        "count": 291
       },
       "traffic": {
-        "count": 85,
+        "count": 84,
         "unique": 19
       }
     },
@@ -3078,6 +3278,16 @@
       "traffic": {
         "count": 16,
         "unique": 7
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 19,
+        "count": 218
+      },
+      "traffic": {
+        "count": 39,
+        "unique": 10
       }
     }
   },
@@ -3231,6 +3441,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 6,
+        "count": 8
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/dns": {
@@ -3372,6 +3592,16 @@
       "traffic": {
         "count": 6,
         "unique": 4
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 7,
+        "count": 9
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
       }
     }
   },
@@ -3535,6 +3765,16 @@
         "count": 3,
         "unique": 2
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 7,
+        "count": 9
+      },
+      "traffic": {
+        "count": 5,
+        "unique": 3
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/slack": {
@@ -3560,12 +3800,12 @@
     },
     "2023-04-12": {
       "clones": {
-        "unique": 2,
-        "count": 2
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
-        "count": 16,
-        "unique": 4
+        "count": 14,
+        "unique": 3
       }
     },
     "2023-04-14": {
@@ -3666,6 +3906,16 @@
       "traffic": {
         "count": 0,
         "unique": 0
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 2,
+        "count": 4
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
       }
     }
   },
@@ -3819,6 +4069,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 4,
+        "count": 6
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/basic_webhook": {
@@ -3848,8 +4108,8 @@
         "count": 1
       },
       "traffic": {
-        "count": 29,
-        "unique": 2
+        "count": 28,
+        "unique": 1
       }
     },
     "2023-04-13": {
@@ -3941,6 +4201,16 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 3,
+        "count": 7
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/basic_logger": {
@@ -3960,8 +4230,8 @@
         "count": 1
       },
       "traffic": {
-        "count": 5,
-        "unique": 2
+        "count": 3,
+        "unique": 1
       }
     },
     "2023-04-14": {
@@ -4028,6 +4298,16 @@
       "clones": {
         "unique": 1,
         "count": 1
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 3,
+        "count": 6
       },
       "traffic": {
         "count": 0,
