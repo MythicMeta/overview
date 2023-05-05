@@ -130,7 +130,19 @@ $(document).ready(function() {
              let clone_unique = [];
              let traffic_count = [];
              let traffic_unique = [];
-             let keys = Object.keys(json[url]);
+             let keys = [];
+             try{
+                 keys = Object.keys(json[url]);
+             }catch(error){
+                 if (clonePlot !== null){
+                     clonePlot.destroy();
+                 }
+                 if (trafficPlot !== null){
+                     trafficPlot.destroy();
+                 }
+                 return;
+             }
+
              keys = keys.sort();
              for (let i = 0; i < keys.length; i++) {
                  let d = keys[i];
