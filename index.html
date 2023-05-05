@@ -10,6 +10,8 @@
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
     
     <link href="css/style.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="dist/uPlot.min.css">
     
     <title>Mythic Community Overview</title>
 
@@ -37,7 +39,7 @@
                         <th data-toggle="tooltip" data-placement="top" title="GitHub stars are used to highlight popularity">Stars</th>
                         <th data-toggle="tooltip" data-placement="top" title="Clone Count the last two weeks.">Clones</th>
                         <th data-toggle="tooltip" data-placement="top" title="Project link">URL</th>
-
+                        <th data-toggle="tooltip" data-placement="top" title="Project Stats"></th>
                     </tr>
                 </thead>
 
@@ -54,6 +56,7 @@
                         <th>Stars</th>
                         <th>Clones</th>
                         <th>URL</th>
+                        <th></th>
                     </tr>
                 </tfoot>
             </table>
@@ -71,6 +74,25 @@
     <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/datetime.js"></script>
 
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <h2 id="modal_header">Modal Header</h2>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="mygraph_clones" style="width: 100%"></div>
+                <div id="mygraph_views" style="width: 100%"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="dist/uPlot.iife.js"></script>
     <script src="js/cckit_table.js?cb=20221103"></script>
 
 </body>
