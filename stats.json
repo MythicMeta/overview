@@ -142,12 +142,12 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 4,
-        "count": 266
+        "unique": 3,
+        "count": 253
       },
       "traffic": {
-        "count": 21,
-        "unique": 7
+        "count": 19,
+        "unique": 6
       }
     },
     "2023-04-23": {
@@ -1226,12 +1226,12 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 61,
-        "count": 111
+        "unique": 60,
+        "count": 107
       },
       "traffic": {
-        "count": 6,
-        "unique": 5
+        "count": 5,
+        "unique": 4
       }
     },
     "2023-04-23": {
@@ -1410,8 +1410,8 @@
         }
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 5,
+        "count": 5
       },
       "traffic": {
         "count": 0,
@@ -1710,7 +1710,11 @@
           "count": 2,
           "unique": 2
         },
-        "t.co": {
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 1
+        },
+        "ajpc500.github.io": {
           "count": 1,
           "unique": 1
         },
@@ -1719,6 +1723,10 @@
           "unique": 1
         },
         "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        },
+        "t.co": {
           "count": 1,
           "unique": 1
         }
@@ -1816,12 +1824,12 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 2,
-        "count": 2
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
-        "count": 2,
-        "unique": 2
+        "count": 1,
+        "unique": 1
       }
     },
     "2023-04-14": {
@@ -2496,8 +2504,8 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 84,
-        "count": 165
+        "unique": 81,
+        "count": 156
       },
       "traffic": {
         "count": 4,
@@ -3124,11 +3132,11 @@
     },
     "2023-04-22": {
       "clones": {
-        "unique": 89,
-        "count": 432
+        "unique": 87,
+        "count": 413
       },
       "traffic": {
-        "count": 39,
+        "count": 33,
         "unique": 12
       }
     },
@@ -3665,12 +3673,12 @@
     "2023-05-06": {
       "referrer": {
         "github.com": {
-          "count": 73,
-          "unique": 20
+          "count": 74,
+          "unique": 21
         },
         "Google": {
-          "count": 52,
-          "unique": 24
+          "count": 53,
+          "unique": 25
         },
         "Bing": {
           "count": 13,
@@ -3684,12 +3692,12 @@
           "count": 7,
           "unique": 3
         },
+        "mehrn00.github.io": {
+          "count": 2,
+          "unique": 2
+        },
         "kitploit.com": {
           "count": 2,
-          "unique": 1
-        },
-        "mehrn00.github.io": {
-          "count": 1,
           "unique": 1
         },
         "morioh.com": {
@@ -4300,7 +4308,7 @@
     },
     "2023-04-22": {
       "traffic": {
-        "count": 3,
+        "count": 2,
         "unique": 2
       },
       "clones": {
@@ -5581,12 +5589,12 @@
     "2023-05-06": {
       "referrer": {
         "Google": {
-          "count": 78,
-          "unique": 8
+          "count": 79,
+          "unique": 9
         },
         "github.com": {
-          "count": 12,
-          "unique": 5
+          "count": 15,
+          "unique": 7
         },
         "DuckDuckGo": {
           "count": 2,
@@ -5905,8 +5913,8 @@
           "unique": 11
         },
         "github.com": {
-          "count": 5,
-          "unique": 5
+          "count": 6,
+          "unique": 6
         },
         "DuckDuckGo": {
           "count": 2,
@@ -6277,7 +6285,7 @@
     "2023-04-22": {
       "clones": {
         "unique": 3,
-        "count": 270
+        "count": 258
       },
       "traffic": {
         "count": 0,
@@ -7635,12 +7643,16 @@
     "2023-05-06": {
       "referrer": {
         "Google": {
-          "count": 37,
-          "unique": 7
+          "count": 89,
+          "unique": 8
         },
         "github.com": {
-          "count": 14,
-          "unique": 7
+          "count": 15,
+          "unique": 8
+        },
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 1
         },
         "Bing": {
           "count": 1,
@@ -8212,8 +8224,8 @@
         }
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
         "count": 0,
@@ -8419,6 +8431,591 @@
           "unique": 2
         },
         "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    }
+  },
+  "https://api.github.com/repos/MythicAgents/Athena": {
+    "2023-04-22": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 9,
+        "unique": 4
+      },
+      "referrer": {}
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 16,
+        "unique": 7
+      },
+      "referrer": {}
+    },
+    "2023-04-24": {
+      "clones": {
+        "unique": 8,
+        "count": 11
+      },
+      "traffic": {
+        "count": 76,
+        "unique": 25
+      },
+      "referrer": {}
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 12,
+        "count": 15
+      },
+      "traffic": {
+        "count": 40,
+        "unique": 17
+      },
+      "referrer": {}
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 5,
+        "count": 6
+      },
+      "traffic": {
+        "count": 26,
+        "unique": 16
+      },
+      "referrer": {}
+    },
+    "2023-04-27": {
+      "clones": {
+        "unique": 4,
+        "count": 5
+      },
+      "traffic": {
+        "count": 19,
+        "unique": 14
+      },
+      "referrer": {}
+    },
+    "2023-04-28": {
+      "clones": {
+        "unique": 5,
+        "count": 14
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 26,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 22,
+        "unique": 2
+      },
+      "referrer": {}
+    },
+    "2023-05-01": {
+      "clones": {
+        "unique": 3,
+        "count": 4
+      },
+      "traffic": {
+        "count": 131,
+        "unique": 9
+      },
+      "referrer": {}
+    },
+    "2023-05-02": {
+      "clones": {
+        "unique": 8,
+        "count": 11
+      },
+      "traffic": {
+        "count": 29,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-05-03": {
+      "clones": {
+        "unique": 7,
+        "count": 7
+      },
+      "traffic": {
+        "count": 185,
+        "unique": 16
+      },
+      "referrer": {}
+    },
+    "2023-05-04": {
+      "clones": {
+        "unique": 8,
+        "count": 11
+      },
+      "traffic": {
+        "count": 39,
+        "unique": 12
+      },
+      "referrer": {}
+    },
+    "2023-05-05": {
+      "clones": {
+        "unique": 5,
+        "count": 5
+      },
+      "traffic": {
+        "count": 92,
+        "unique": 16
+      },
+      "referrer": {}
+    },
+    "2023-05-06": {
+      "referrer": {
+        "github.com": {
+          "count": 215,
+          "unique": 39
+        },
+        "Google": {
+          "count": 153,
+          "unique": 34
+        },
+        "mythicmeta.github.io": {
+          "count": 32,
+          "unique": 4
+        },
+        "t.co": {
+          "count": 19,
+          "unique": 9
+        },
+        "docs.mythic-c2.net": {
+          "count": 6,
+          "unique": 6
+        },
+        "search.brave.com": {
+          "count": 3,
+          "unique": 1
+        },
+        "macrosec.tech": {
+          "count": 1,
+          "unique": 1
+        },
+        "Bing": {
+          "count": 1,
+          "unique": 1
+        },
+        "out.reddit.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "blackhatethicalhacking.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    }
+  },
+  "https://api.github.com/repos/MythicAgents/Medusa": {
+    "2023-04-22": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 5,
+        "unique": 4
+      },
+      "referrer": {}
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 8,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-04-24": {
+      "clones": {
+        "unique": 6,
+        "count": 8
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 5,
+        "count": 6
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 7
+      },
+      "referrer": {}
+    },
+    "2023-04-26": {
+      "clones": {
+        "unique": 7,
+        "count": 7
+      },
+      "traffic": {
+        "count": 14,
+        "unique": 10
+      },
+      "referrer": {}
+    },
+    "2023-04-27": {
+      "clones": {
+        "unique": 5,
+        "count": 5
+      },
+      "traffic": {
+        "count": 34,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-04-28": {
+      "clones": {
+        "unique": 3,
+        "count": 7
+      },
+      "traffic": {
+        "count": 20,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-04-30": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 37,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-05-01": {
+      "clones": {
+        "unique": 8,
+        "count": 9
+      },
+      "traffic": {
+        "count": 37,
+        "unique": 9
+      },
+      "referrer": {}
+    },
+    "2023-05-02": {
+      "clones": {
+        "unique": 11,
+        "count": 26
+      },
+      "traffic": {
+        "count": 95,
+        "unique": 10
+      },
+      "referrer": {}
+    },
+    "2023-05-03": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 56,
+        "unique": 16
+      },
+      "referrer": {}
+    },
+    "2023-05-04": {
+      "clones": {
+        "unique": 5,
+        "count": 6
+      },
+      "traffic": {
+        "count": 38,
+        "unique": 13
+      },
+      "referrer": {}
+    },
+    "2023-05-05": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 9,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 153,
+          "unique": 39
+        },
+        "github.com": {
+          "count": 93,
+          "unique": 30
+        },
+        "ajpc500.github.io": {
+          "count": 14,
+          "unique": 2
+        },
+        "ecosia.org": {
+          "count": 12,
+          "unique": 1
+        },
+        "mythicmeta.github.io": {
+          "count": 9,
+          "unique": 7
+        },
+        "docs.mythic-c2.net": {
+          "count": 4,
+          "unique": 3
+        },
+        "naksyn.com": {
+          "count": 4,
+          "unique": 1
+        },
+        "blackhatethicalhacking.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    }
+  },
+  "https://api.github.com/repos/MythicAgents/Nimplant": {
+    "2023-04-22": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 10,
+        "unique": 1
+      },
+      "referrer": {}
+    },
+    "2023-04-23": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 29,
+        "unique": 2
+      },
+      "referrer": {}
+    },
+    "2023-04-24": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 4
+      },
+      "referrer": {}
+    },
+    "2023-04-25": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 20,
+        "unique": 2
+      },
+      "referrer": {}
+    },
+    "2023-04-27": {
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 8,
+        "unique": 5
+      },
+      "referrer": {}
+    },
+    "2023-04-28": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 7,
+        "unique": 6
+      },
+      "referrer": {}
+    },
+    "2023-04-29": {
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 4,
+        "unique": 4
+      },
+      "referrer": {}
+    },
+    "2023-05-02": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 130,
+        "unique": 7
+      },
+      "referrer": {}
+    },
+    "2023-04-26": {
+      "traffic": {
+        "count": 3,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2023-05-01": {
+      "traffic": {
+        "count": 4,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2023-05-03": {
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2023-05-04": {
+      "traffic": {
+        "count": 4,
+        "unique": 4
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2023-05-05": {
+      "traffic": {
+        "count": 8,
+        "unique": 3
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {}
+    },
+    "2023-05-06": {
+      "referrer": {
+        "Google": {
+          "count": 54,
+          "unique": 14
+        },
+        "github.com": {
+          "count": 29,
+          "unique": 10
+        },
+        "mythicmeta.github.io": {
+          "count": 4,
+          "unique": 1
+        },
+        "pre.empt.blog": {
+          "count": 1,
+          "unique": 1
+        },
+        "DuckDuckGo": {
           "count": 1,
           "unique": 1
         }
