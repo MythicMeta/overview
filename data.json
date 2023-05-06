@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/apfell/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
-      "updated_at": "2023-05-05T07:40:55Z",
+      "updated_at": "2023-05-05T17:05:25Z",
       "pushed_at": "2023-05-04T21:40:24Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
       "size": 670,
-      "stargazers_count": 32,
-      "watchers_count": 32,
+      "stargazers_count": 33,
+      "watchers_count": 33,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -97,7 +97,7 @@
       "visibility": "public",
       "forks": 13,
       "open_issues": 3,
-      "watchers": 32,
+      "watchers": 33,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -155,8 +155,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1276,
-        "uniques": 74
+        "count": 1144,
+        "uniques": 75
       }
     },
     {
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 174,
-        "uniques": 113
+        "count": 179,
+        "uniques": 116
       }
     },
     {
@@ -392,13 +392,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-05-05T07:41:21Z",
-      "pushed_at": "2023-05-03T17:03:29Z",
+      "pushed_at": "2023-05-05T17:59:16Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 11353,
+      "size": 11358,
       "stargazers_count": 113,
       "watchers_count": 113,
       "language": "C#",
@@ -412,7 +412,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 5,
+      "open_issues_count": 6,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -420,7 +420,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 20,
-      "open_issues": 5,
+      "open_issues": 6,
       "watchers": 113,
       "default_branch": "main",
       "permissions": {
@@ -472,15 +472,15 @@
       "network_count": 20,
       "subscribers_count": 2,
       "latest": {
-        "branch": "dev",
-        "commit_message": "updated x64 bof to not print out messages",
-        "commit_date": 1683133406.0,
+        "branch": "coff-update",
+        "commit_message": "update coff to use delegates rather than CreateThread",
+        "commit_date": 1683309552.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 99,
-        "uniques": 67
+        "count": 98,
+        "uniques": 66
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1690,
-        "uniques": 272
+        "count": 1688,
+        "uniques": 274
       }
     },
     {
@@ -798,7 +798,7 @@
       "category": "Agent",
       "clones": {
         "count": 23,
-        "uniques": 16
+        "uniques": 17
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 13,
+        "uniques": 9
       }
     },
     {
@@ -1115,8 +1115,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 93,
-        "uniques": 62
+        "count": 89,
+        "uniques": 59
       }
     },
     {
@@ -1280,8 +1280,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1506,
-        "uniques": 297
+        "count": 1422,
+        "uniques": 292
       }
     },
     {
@@ -1439,8 +1439,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 5,
+        "uniques": 4
       }
     },
     {
@@ -1510,7 +1510,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/poseidon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
-      "updated_at": "2023-05-05T07:40:23Z",
+      "updated_at": "2023-05-05T17:05:10Z",
       "pushed_at": "2023-05-04T21:35:44Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
@@ -1518,8 +1518,8 @@
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
       "size": 14470,
-      "stargazers_count": 66,
-      "watchers_count": 66,
+      "stargazers_count": 67,
+      "watchers_count": 67,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -1546,7 +1546,7 @@
       "visibility": "public",
       "forks": 21,
       "open_issues": 3,
-      "watchers": 66,
+      "watchers": 67,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 2832,
-        "uniques": 337
+        "count": 2642,
+        "uniques": 336
       }
     },
     {
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 18
+        "count": 14,
+        "uniques": 13
       }
     },
     {
@@ -3070,8 +3070,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 39,
-        "uniques": 25
+        "count": 35,
+        "uniques": 23
       }
     },
     {
@@ -3540,8 +3540,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 1475,
-        "uniques": 189
+        "count": 1334,
+        "uniques": 181
       }
     },
     {
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 63,
-        "uniques": 52
+        "count": 59,
+        "uniques": 48
       }
     },
     {
@@ -4017,8 +4017,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 74,
-        "uniques": 55
+        "count": 72,
+        "uniques": 54
       }
     },
     {
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 23,
-        "uniques": 17
+        "count": 21,
+        "uniques": 15
       }
     },
     {
@@ -4335,8 +4335,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 33
+        "count": 40,
+        "uniques": 32
       }
     },
     {
