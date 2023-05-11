@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2023-05-05T17:05:25Z",
-      "pushed_at": "2023-05-09T17:03:07Z",
+      "pushed_at": "2023-05-10T15:17:19Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 679,
+      "size": 680,
       "stargazers_count": 33,
       "watchers_count": 33,
       "language": "Python",
@@ -148,15 +148,15 @@
       "network_count": 13,
       "subscribers_count": 7,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "update Dockerimage",
-        "commit_date": 1683651784.0,
+        "branch": "master",
+        "commit_message": "adding icon back for overview page",
+        "commit_date": 1683731837.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 113,
-        "uniques": 67
+        "count": 121,
+        "uniques": 66
       }
     },
     {
@@ -227,13 +227,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
       "updated_at": "2023-05-05T07:34:07Z",
-      "pushed_at": "2023-05-09T20:47:24Z",
+      "pushed_at": "2023-05-10T15:15:54Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
-      "size": 20832,
+      "size": 20833,
       "stargazers_count": 379,
       "watchers_count": 379,
       "language": "C#",
@@ -313,15 +313,15 @@
       "network_count": 79,
       "subscribers_count": 17,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "updating proxy start command to specify LocalPort",
-        "commit_date": 1683665242.0,
+        "branch": "master",
+        "commit_message": "adding agent icon for overview page",
+        "commit_date": 1683731752.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 213,
-        "uniques": 132
+        "count": 247,
+        "uniques": 145
       }
     },
     {
@@ -391,17 +391,17 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Athena/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
-      "updated_at": "2023-05-08T14:30:29Z",
-      "pushed_at": "2023-05-05T17:59:16Z",
+      "updated_at": "2023-05-10T16:49:52Z",
+      "pushed_at": "2023-05-10T16:49:42Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 11358,
+      "size": 11355,
       "stargazers_count": 115,
       "watchers_count": 115,
-      "language": "C#",
+      "language": "C",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -472,15 +472,15 @@
       "network_count": 20,
       "subscribers_count": 2,
       "latest": {
-        "branch": "coff-update",
-        "commit_message": "update coff to use delegates rather than CreateThread",
-        "commit_date": 1683309552.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena.svg"
+        "branch": "main",
+        "commit_message": "Dev (#30)\n\n3.0.0 Update",
+        "commit_date": 1683737382.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena_old.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 103,
-        "uniques": 71
+        "count": 123,
+        "uniques": 79
       }
     },
     {
@@ -550,8 +550,8 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/freyja/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/freyja/deployments",
       "created_at": "2022-09-28T17:20:04Z",
-      "updated_at": "2023-05-05T07:41:54Z",
-      "pushed_at": "2023-04-20T15:25:57Z",
+      "updated_at": "2023-05-10T15:38:49Z",
+      "pushed_at": "2023-05-10T15:31:46Z",
       "git_url": "git://github.com/MythicAgents/freyja.git",
       "ssh_url": "git@github.com:MythicAgents/freyja.git",
       "clone_url": "https://github.com/MythicAgents/freyja.git",
@@ -560,7 +560,7 @@
       "size": 1070,
       "stargazers_count": 7,
       "watchers_count": 7,
-      "language": "Python",
+      "language": "Go",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -631,15 +631,15 @@
       "network_count": 3,
       "subscribers_count": 2,
       "latest": {
-        "branch": "V3.0.0",
-        "commit_message": "debugging windows payload build",
-        "commit_date": 1681920423.0,
+        "branch": "master",
+        "commit_message": "Merge pull request #5 from MythicAgents/V3.0.0\n\nV3.0.0",
+        "commit_date": 1683732706.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/freyja/master/agent_icons/freyja.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 1693,
-        "uniques": 291
+        "count": 1707,
+        "uniques": 299
       }
     },
     {
@@ -797,8 +797,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 30,
-        "uniques": 20
+        "count": 27,
+        "uniques": 16
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 10,
-        "uniques": 8
+        "count": 9,
+        "uniques": 7
       }
     },
     {
@@ -1027,16 +1027,16 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Medusa/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Medusa/deployments",
       "created_at": "2021-07-15T10:05:23Z",
-      "updated_at": "2023-05-05T07:41:09Z",
-      "pushed_at": "2023-05-09T19:37:07Z",
+      "updated_at": "2023-05-11T01:03:31Z",
+      "pushed_at": "2023-05-10T16:23:21Z",
       "git_url": "git://github.com/MythicAgents/Medusa.git",
       "ssh_url": "git@github.com:MythicAgents/Medusa.git",
       "clone_url": "https://github.com/MythicAgents/Medusa.git",
       "svn_url": "https://github.com/MythicAgents/Medusa",
       "homepage": "",
-      "size": 2159,
-      "stargazers_count": 129,
-      "watchers_count": 129,
+      "size": 2161,
+      "stargazers_count": 133,
+      "watchers_count": 133,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1057,7 +1057,7 @@
       "visibility": "public",
       "forks": 28,
       "open_issues": 1,
-      "watchers": 129,
+      "watchers": 133,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1108,15 +1108,15 @@
       "network_count": 28,
       "subscribers_count": 9,
       "latest": {
-        "branch": "dev",
-        "commit_message": "RPC updates",
-        "commit_date": 1683661018.0,
+        "branch": "master",
+        "commit_message": "Merge pull request #21 from MythicAgents/dev\n\nDev",
+        "commit_date": 1683735801.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Medusa/master/agent_icons/medusa.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 126,
-        "uniques": 78
+        "count": 138,
+        "uniques": 79
       }
     },
     {
@@ -1280,8 +1280,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 1312,
-        "uniques": 290
+        "count": 1322,
+        "uniques": 296
       }
     },
     {
@@ -1439,8 +1439,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 10,
-        "uniques": 6
+        "count": 14,
+        "uniques": 7
       }
     },
     {
@@ -1511,13 +1511,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
       "updated_at": "2023-05-05T17:05:10Z",
-      "pushed_at": "2023-05-09T20:57:57Z",
+      "pushed_at": "2023-05-10T14:22:43Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
-      "size": 14530,
+      "size": 14531,
       "stargazers_count": 67,
       "watchers_count": 67,
       "language": "Go",
@@ -1597,15 +1597,15 @@
       "network_count": 21,
       "subscribers_count": 6,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "added rpfwd command\n\nUpdated MythicContainer to v1.0.5 and a...",
-        "commit_date": 1683665873.0,
+        "branch": "master",
+        "commit_message": "Merge branch 'v3.0.0'",
+        "commit_date": 1683728559.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 1466,
-        "uniques": 319
+        "count": 1448,
+        "uniques": 315
       }
     },
     {
@@ -1763,8 +1763,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 35,
-        "uniques": 27
+        "count": 38,
+        "uniques": 29
       }
     },
     {
@@ -1923,7 +1923,7 @@
       "category": "Agent",
       "clones": {
         "count": 7,
-        "uniques": 7
+        "uniques": 6
       }
     },
     {
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 37,
-        "uniques": 19
+        "count": 45,
+        "uniques": 23
       }
     },
     {
@@ -2258,8 +2258,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -2329,17 +2329,17 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Nimplant/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Nimplant/deployments",
       "created_at": "2020-11-20T09:15:53Z",
-      "updated_at": "2023-05-05T07:41:42Z",
-      "pushed_at": "2023-05-09T12:50:29Z",
+      "updated_at": "2023-05-10T14:24:05Z",
+      "pushed_at": "2023-05-10T14:23:58Z",
       "git_url": "git://github.com/MythicAgents/Nimplant.git",
       "ssh_url": "git@github.com:MythicAgents/Nimplant.git",
       "clone_url": "https://github.com/MythicAgents/Nimplant.git",
       "svn_url": "https://github.com/MythicAgents/Nimplant",
       "homepage": "",
-      "size": 4089,
+      "size": 4090,
       "stargazers_count": 163,
       "watchers_count": 163,
-      "language": "Python",
+      "language": "Nim",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -2416,15 +2416,15 @@
       "network_count": 21,
       "subscribers_count": 10,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "Merge pull request #13 from mmmmcoffee/v3.0.0\n\nV3.0.0",
-        "commit_date": 1683636629.0,
+        "branch": "main",
+        "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683728638.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Nimplant/main/agent_icons/nimplant.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 12
+        "count": 21,
+        "uniques": 16
       }
     },
     {
@@ -2584,8 +2584,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 8,
-        "uniques": 6
+        "count": 9,
+        "uniques": 7
       }
     },
     {
@@ -2752,8 +2752,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -2823,17 +2823,17 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/service_wrapper/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/deployments",
       "created_at": "2021-03-16T18:51:15Z",
-      "updated_at": "2023-05-05T07:40:36Z",
-      "pushed_at": "2023-05-09T17:14:49Z",
+      "updated_at": "2023-05-10T14:52:01Z",
+      "pushed_at": "2023-05-10T15:18:32Z",
       "git_url": "git://github.com/MythicAgents/service_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/service_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/service_wrapper.git",
       "svn_url": "https://github.com/MythicAgents/service_wrapper",
       "homepage": "",
-      "size": 65,
+      "size": 66,
       "stargazers_count": 4,
       "watchers_count": 4,
-      "language": "C#",
+      "language": "Python",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -2904,15 +2904,15 @@
       "network_count": 3,
       "subscribers_count": 2,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "Update Dockerimage",
-        "commit_date": 1683652487.0,
+        "branch": "master",
+        "commit_message": "adding icon back for overview page",
+        "commit_date": 1683731910.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/service_wrapper/master/agent_icons/service_wrapper.svg"
       },
       "category": "Wrapper",
       "clones": {
-        "count": 37,
-        "uniques": 17
+        "count": 45,
+        "uniques": 19
       }
     },
     {
@@ -2983,13 +2983,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/scarecrow_wrapper/deployments",
       "created_at": "2021-07-31T16:05:13Z",
       "updated_at": "2023-05-05T07:40:43Z",
-      "pushed_at": "2023-05-04T21:42:04Z",
+      "pushed_at": "2023-05-10T14:52:41Z",
       "git_url": "git://github.com/MythicAgents/scarecrow_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/scarecrow_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/scarecrow_wrapper.git",
       "svn_url": "https://github.com/MythicAgents/scarecrow_wrapper",
       "homepage": null,
-      "size": 5174,
+      "size": 5175,
       "stargazers_count": 11,
       "watchers_count": 11,
       "language": "Go",
@@ -3063,15 +3063,15 @@
       "network_count": 4,
       "subscribers_count": 3,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "bumping Dockerfile image",
-        "commit_date": 1683236521.0,
-        "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
+        "branch": "main",
+        "commit_message": "Merge pull request #6 from MythicAgents/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683730361.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/scarecrow_wrapper/main/agent_icons/scarecrow.svg"
       },
       "category": "Wrapper",
       "clones": {
-        "count": 29,
-        "uniques": 19
+        "count": 32,
+        "uniques": 20
       }
     },
     {
@@ -3235,8 +3235,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 5,
-        "uniques": 3
+        "count": 6,
+        "uniques": 4
       }
     },
     {
@@ -3452,17 +3452,17 @@
       "releases_url": "https://api.github.com/repos/MythicC2Profiles/http/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/http/deployments",
       "created_at": "2021-03-19T18:15:25Z",
-      "updated_at": "2023-04-21T00:51:59Z",
-      "pushed_at": "2023-05-09T16:25:52Z",
+      "updated_at": "2023-05-10T14:26:01Z",
+      "pushed_at": "2023-05-10T14:25:53Z",
       "git_url": "git://github.com/MythicC2Profiles/http.git",
       "ssh_url": "git@github.com:MythicC2Profiles/http.git",
       "clone_url": "https://github.com/MythicC2Profiles/http.git",
       "svn_url": "https://github.com/MythicC2Profiles/http",
       "homepage": "",
-      "size": 7099,
+      "size": 7100,
       "stargazers_count": 11,
       "watchers_count": 11,
-      "language": "Python",
+      "language": "Go",
       "has_issues": true,
       "has_projects": true,
       "has_downloads": true,
@@ -3533,15 +3533,15 @@
       "network_count": 10,
       "subscribers_count": 3,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "fix working directory",
-        "commit_date": 1683649550.0,
+        "branch": "master",
+        "commit_message": "Merge pull request #10 from MythicC2Profiles/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683728753.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 318,
-        "uniques": 187
+        "count": 357,
+        "uniques": 209
       }
     },
     {
@@ -3612,7 +3612,7 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/smb/deployments",
       "created_at": "2022-01-09T18:58:46Z",
       "updated_at": "2023-03-14T01:09:35Z",
-      "pushed_at": "2023-05-09T17:16:20Z",
+      "pushed_at": "2023-05-10T14:24:58Z",
       "git_url": "git://github.com/MythicC2Profiles/smb.git",
       "ssh_url": "git@github.com:MythicC2Profiles/smb.git",
       "clone_url": "https://github.com/MythicC2Profiles/smb.git",
@@ -3692,15 +3692,15 @@
       "network_count": 2,
       "subscribers_count": 3,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "Update Dockerimage",
-        "commit_date": 1683652578.0,
+        "branch": "main",
+        "commit_message": "Merge pull request #2 from MythicC2Profiles/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683728698.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 68,
-        "uniques": 53
+        "count": 74,
+        "uniques": 54
       }
     },
     {
@@ -3858,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 51,
-        "uniques": 38
+        "count": 52,
+        "uniques": 40
       }
     },
     {
@@ -3930,7 +3930,7 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/websocket/deployments",
       "created_at": "2021-03-19T18:16:58Z",
       "updated_at": "2023-04-12T16:56:28Z",
-      "pushed_at": "2023-05-04T21:38:21Z",
+      "pushed_at": "2023-05-10T14:26:59Z",
       "git_url": "git://github.com/MythicC2Profiles/websocket.git",
       "ssh_url": "git@github.com:MythicC2Profiles/websocket.git",
       "clone_url": "https://github.com/MythicC2Profiles/websocket.git",
@@ -4010,15 +4010,15 @@
       "network_count": 5,
       "subscribers_count": 4,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "bumping Dockerfile image",
-        "commit_date": 1683236299.0,
+        "branch": "master",
+        "commit_message": "Merge pull request #4 from MythicC2Profiles/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683728819.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 75,
-        "uniques": 58
+        "count": 79,
+        "uniques": 57
       }
     },
     {
@@ -4335,8 +4335,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 40,
-        "uniques": 32
+        "count": 38,
+        "uniques": 30
       }
     },
     {
@@ -4407,13 +4407,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_webhook/deployments",
       "created_at": "2023-03-04T03:23:39Z",
       "updated_at": "2023-03-06T13:49:06Z",
-      "pushed_at": "2023-05-09T17:08:07Z",
+      "pushed_at": "2023-05-11T00:59:24Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_webhook.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_webhook.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_webhook.git",
       "svn_url": "https://github.com/MythicC2Profiles/basic_webhook",
       "homepage": null,
-      "size": 74,
+      "size": 99,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Go",
@@ -4493,15 +4493,15 @@
       "network_count": 0,
       "subscribers_count": 1,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "update MythicContainer@v1.0.4",
-        "commit_date": 1683652085.0,
+        "branch": "main",
+        "commit_message": "added throttling to new alert messages\n\nno duplicate alert messages can be sent within 10s of each other to help throttle messages",
+        "commit_date": 1683766761.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "clones": {
-        "count": 27,
-        "uniques": 19
+        "count": 45,
+        "uniques": 24
       }
     },
     {
@@ -4572,7 +4572,7 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_logger/deployments",
       "created_at": "2023-03-04T03:18:18Z",
       "updated_at": "2023-03-04T16:33:42Z",
-      "pushed_at": "2023-05-09T17:11:49Z",
+      "pushed_at": "2023-05-10T19:14:56Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_logger.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_logger.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_logger.git",
@@ -4658,15 +4658,15 @@
       "network_count": 0,
       "subscribers_count": 1,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "update Dockerfile and build process",
-        "commit_date": 1683652307.0,
+        "branch": "main",
+        "commit_message": "Merge pull request #1 from MythicC2Profiles/v3.0.0\n\nV3.0.0",
+        "commit_date": 1683746096.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Logger",
       "clones": {
-        "count": 29,
-        "uniques": 22
+        "count": 37,
+        "uniques": 25
       }
     }
   ]
