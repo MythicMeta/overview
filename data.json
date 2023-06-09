@@ -155,7 +155,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 118,
+        "count": 117,
         "uniques": 71
       }
     },
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 340,
-        "uniques": 141
+        "count": 328,
+        "uniques": 138
       }
     },
     {
@@ -479,8 +479,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 317,
-        "uniques": 115
+        "count": 301,
+        "uniques": 116
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 240,
-        "uniques": 118
+        "count": 273,
+        "uniques": 136
       }
     },
     {
@@ -798,7 +798,7 @@
       "category": "Agent",
       "clones": {
         "count": 17,
-        "uniques": 14
+        "uniques": 13
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 12
+        "count": 22,
+        "uniques": 14
       }
     },
     {
@@ -1115,8 +1115,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 177,
-        "uniques": 57
+        "count": 178,
+        "uniques": 61
       }
     },
     {
@@ -1207,7 +1207,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -1221,7 +1221,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 8,
-      "open_issues": 1,
+      "open_issues": 2,
       "watchers": 44,
       "default_branch": "main",
       "permissions": {
@@ -1280,8 +1280,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 438,
-        "uniques": 192
+        "count": 441,
+        "uniques": 201
       }
     },
     {
@@ -1439,7 +1439,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
+        "count": 13,
         "uniques": 10
       }
     },
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 343,
-        "uniques": 208
+        "count": 327,
+        "uniques": 200
       }
     },
     {
@@ -1763,8 +1763,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 85,
-        "uniques": 62
+        "count": 81,
+        "uniques": 60
       }
     },
     {
@@ -1922,8 +1922,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 12,
+        "uniques": 11
       }
     },
     {
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 19
+        "count": 23,
+        "uniques": 20
       }
     },
     {
@@ -2258,7 +2258,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 7,
+        "count": 8,
         "uniques": 6
       }
     },
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 13
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -2584,8 +2584,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 13,
-        "uniques": 11
+        "count": 15,
+        "uniques": 12
       }
     },
     {
@@ -2752,8 +2752,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 11,
-        "uniques": 9
+        "count": 13,
+        "uniques": 10
       }
     },
     {
@@ -2911,8 +2911,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 25,
-        "uniques": 19
+        "count": 23,
+        "uniques": 17
       }
     },
     {
@@ -3070,8 +3070,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 25,
-        "uniques": 22
+        "count": 22,
+        "uniques": 19
       }
     },
     {
@@ -3453,13 +3453,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/http/deployments",
       "created_at": "2021-03-19T18:15:25Z",
       "updated_at": "2023-05-23T09:00:19Z",
-      "pushed_at": "2023-06-07T17:30:21Z",
+      "pushed_at": "2023-06-09T14:27:12Z",
       "git_url": "git://github.com/MythicC2Profiles/http.git",
       "ssh_url": "git@github.com:MythicC2Profiles/http.git",
       "clone_url": "https://github.com/MythicC2Profiles/http.git",
       "svn_url": "https://github.com/MythicC2Profiles/http",
       "homepage": "",
-      "size": 7146,
+      "size": 7194,
       "stargazers_count": 12,
       "watchers_count": 12,
       "language": "Go",
@@ -3534,14 +3534,14 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "updating configuration check message",
-        "commit_date": 1686159019.0,
+        "commit_message": "updating go.mod",
+        "commit_date": 1686320830.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 461,
-        "uniques": 218
+        "count": 453,
+        "uniques": 213
       }
     },
     {
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 71,
-        "uniques": 46
+        "count": 72,
+        "uniques": 45
       }
     },
     {
@@ -3858,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 68,
-        "uniques": 32
+        "count": 71,
+        "uniques": 35
       }
     },
     {
@@ -4018,7 +4018,7 @@
       "category": "C2",
       "clones": {
         "count": 145,
-        "uniques": 36
+        "uniques": 38
       }
     },
     {
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 22,
-        "uniques": 15
+        "count": 25,
+        "uniques": 18
       }
     },
     {
@@ -4335,8 +4335,326 @@
       },
       "category": "C2",
       "clones": {
-        "count": 44,
-        "uniques": 30
+        "count": 42,
+        "uniques": 28
+      }
+    },
+    {
+      "id": 349516593,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNDk1MTY1OTM=",
+      "name": "dynamichttp",
+      "full_name": "MythicC2Profiles/dynamichttp",
+      "private": false,
+      "owner": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/MythicC2Profiles/dynamichttp",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp",
+      "forks_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/forks",
+      "keys_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/teams",
+      "hooks_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/hooks",
+      "issue_events_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/events",
+      "assignees_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/tags",
+      "blobs_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/languages",
+      "stargazers_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/stargazers",
+      "contributors_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/contributors",
+      "subscribers_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/subscribers",
+      "subscription_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/subscription",
+      "commits_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/merges",
+      "archive_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/downloads",
+      "issues_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/labels{/name}",
+      "releases_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/MythicC2Profiles/dynamichttp/deployments",
+      "created_at": "2021-03-19T18:15:41Z",
+      "updated_at": "2023-05-10T14:25:31Z",
+      "pushed_at": "2023-06-07T23:13:01Z",
+      "git_url": "git://github.com/MythicC2Profiles/dynamichttp.git",
+      "ssh_url": "git@github.com:MythicC2Profiles/dynamichttp.git",
+      "clone_url": "https://github.com/MythicC2Profiles/dynamichttp.git",
+      "svn_url": "https://github.com/MythicC2Profiles/dynamichttp",
+      "homepage": null,
+      "size": 64,
+      "stargazers_count": 3,
+      "watchers_count": 3,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 3,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "topics": [],
+      "visibility": "public",
+      "forks": 3,
+      "open_issues": 0,
+      "watchers": 3,
+      "default_branch": "master",
+      "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+      },
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "allow_auto_merge": false,
+      "delete_branch_on_merge": false,
+      "allow_update_branch": false,
+      "use_squash_pr_title_as_default": false,
+      "squash_merge_commit_message": "COMMIT_MESSAGES",
+      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+      "merge_commit_message": "PR_TITLE",
+      "merge_commit_title": "MERGE_MESSAGE",
+      "organization": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        }
+      },
+      "network_count": 3,
+      "subscribers_count": 3,
+      "latest": {
+        "branch": "master",
+        "commit_message": "Merge pull request #2 from MythicC2Profiles/v3.0.0\n\nV3.0.0",
+        "commit_date": 1686179581.0,
+        "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
+      },
+      "category": "C2",
+      "clones": {
+        "count": 64,
+        "uniques": 46
+      }
+    },
+    {
+      "id": 510899926,
+      "node_id": "R_kgDOHnO21g",
+      "name": "discord",
+      "full_name": "MythicC2Profiles/discord",
+      "private": false,
+      "owner": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/MythicC2Profiles/discord",
+      "description": "Discord C2 Profile for Mythic",
+      "fork": false,
+      "url": "https://api.github.com/repos/MythicC2Profiles/discord",
+      "forks_url": "https://api.github.com/repos/MythicC2Profiles/discord/forks",
+      "keys_url": "https://api.github.com/repos/MythicC2Profiles/discord/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/MythicC2Profiles/discord/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/MythicC2Profiles/discord/teams",
+      "hooks_url": "https://api.github.com/repos/MythicC2Profiles/discord/hooks",
+      "issue_events_url": "https://api.github.com/repos/MythicC2Profiles/discord/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/MythicC2Profiles/discord/events",
+      "assignees_url": "https://api.github.com/repos/MythicC2Profiles/discord/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/MythicC2Profiles/discord/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/MythicC2Profiles/discord/tags",
+      "blobs_url": "https://api.github.com/repos/MythicC2Profiles/discord/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/MythicC2Profiles/discord/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/MythicC2Profiles/discord/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/MythicC2Profiles/discord/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/MythicC2Profiles/discord/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/MythicC2Profiles/discord/languages",
+      "stargazers_url": "https://api.github.com/repos/MythicC2Profiles/discord/stargazers",
+      "contributors_url": "https://api.github.com/repos/MythicC2Profiles/discord/contributors",
+      "subscribers_url": "https://api.github.com/repos/MythicC2Profiles/discord/subscribers",
+      "subscription_url": "https://api.github.com/repos/MythicC2Profiles/discord/subscription",
+      "commits_url": "https://api.github.com/repos/MythicC2Profiles/discord/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/MythicC2Profiles/discord/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/MythicC2Profiles/discord/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/MythicC2Profiles/discord/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/MythicC2Profiles/discord/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/MythicC2Profiles/discord/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/MythicC2Profiles/discord/merges",
+      "archive_url": "https://api.github.com/repos/MythicC2Profiles/discord/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/MythicC2Profiles/discord/downloads",
+      "issues_url": "https://api.github.com/repos/MythicC2Profiles/discord/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/MythicC2Profiles/discord/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/MythicC2Profiles/discord/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/MythicC2Profiles/discord/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/MythicC2Profiles/discord/labels{/name}",
+      "releases_url": "https://api.github.com/repos/MythicC2Profiles/discord/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/MythicC2Profiles/discord/deployments",
+      "created_at": "2022-07-05T21:31:39Z",
+      "updated_at": "2023-06-09T14:58:25Z",
+      "pushed_at": "2023-06-08T17:05:49Z",
+      "git_url": "git://github.com/MythicC2Profiles/discord.git",
+      "ssh_url": "git@github.com:MythicC2Profiles/discord.git",
+      "clone_url": "https://github.com/MythicC2Profiles/discord.git",
+      "svn_url": "https://github.com/MythicC2Profiles/discord",
+      "homepage": null,
+      "size": 14,
+      "stargazers_count": 2,
+      "watchers_count": 2,
+      "language": "C#",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 2,
+      "default_branch": "main",
+      "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+      },
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "allow_auto_merge": false,
+      "delete_branch_on_merge": false,
+      "allow_update_branch": false,
+      "use_squash_pr_title_as_default": false,
+      "squash_merge_commit_message": "COMMIT_MESSAGES",
+      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+      "merge_commit_message": "PR_TITLE",
+      "merge_commit_title": "MERGE_MESSAGE",
+      "organization": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        }
+      },
+      "network_count": 0,
+      "subscribers_count": 1,
+      "latest": {
+        "branch": "main",
+        "commit_message": "Update README.md",
+        "commit_date": 1686243949.0,
+        "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
+      },
+      "category": "C2",
+      "clones": {
+        "count": 51,
+        "uniques": 22
       }
     },
     {
@@ -4665,8 +4983,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 39,
-        "uniques": 31
+        "count": 38,
+        "uniques": 30
       }
     }
   ]
