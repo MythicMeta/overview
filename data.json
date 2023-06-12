@@ -155,8 +155,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 111,
-        "uniques": 67
+        "count": 109,
+        "uniques": 68
       }
     },
     {
@@ -226,7 +226,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2023-06-05T01:19:36Z",
+      "updated_at": "2023-06-11T19:51:01Z",
       "pushed_at": "2023-05-26T20:57:02Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -234,8 +234,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20728,
-      "stargazers_count": 380,
-      "watchers_count": 380,
+      "stargazers_count": 381,
+      "watchers_count": 381,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -262,7 +262,7 @@
       "visibility": "public",
       "forks": 81,
       "open_issues": 14,
-      "watchers": 380,
+      "watchers": 381,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 312,
-        "uniques": 131
+        "count": 311,
+        "uniques": 130
       }
     },
     {
@@ -392,13 +392,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-06-02T02:04:11Z",
-      "pushed_at": "2023-06-10T00:19:12Z",
+      "pushed_at": "2023-06-12T01:31:13Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 2594,
+      "size": 2607,
       "stargazers_count": 123,
       "watchers_count": 123,
       "language": "C",
@@ -473,14 +473,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "dev",
-        "commit_message": "update download.py",
-        "commit_date": 1686356350.0,
+        "commit_message": "sdfds",
+        "commit_date": 1686533471.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena_old.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 322,
-        "uniques": 118
+        "count": 323,
+        "uniques": 114
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 324,
-        "uniques": 148
+        "count": 328,
+        "uniques": 146
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 25,
-        "uniques": 15
+        "count": 28,
+        "uniques": 18
       }
     },
     {
@@ -1115,7 +1115,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 185,
+        "count": 189,
         "uniques": 63
       }
     },
@@ -1186,16 +1186,16 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/merlin/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/merlin/deployments",
       "created_at": "2021-01-25T12:36:46Z",
-      "updated_at": "2023-03-26T08:57:09Z",
-      "pushed_at": "2023-06-10T15:59:23Z",
+      "updated_at": "2023-06-11T19:50:41Z",
+      "pushed_at": "2023-06-12T00:56:59Z",
       "git_url": "git://github.com/MythicAgents/merlin.git",
       "ssh_url": "git@github.com:MythicAgents/merlin.git",
       "clone_url": "https://github.com/MythicAgents/merlin.git",
       "svn_url": "https://github.com/MythicAgents/merlin",
       "homepage": null,
-      "size": 489,
-      "stargazers_count": 44,
-      "watchers_count": 44,
+      "size": 534,
+      "stargazers_count": 45,
+      "watchers_count": 45,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1222,7 +1222,7 @@
       "visibility": "public",
       "forks": 8,
       "open_issues": 2,
-      "watchers": 44,
+      "watchers": 45,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1274,14 +1274,14 @@
       "subscribers_count": 6,
       "latest": {
         "branch": "v3.0.0",
-        "commit_message": "wip testing commands",
-        "commit_date": 1686412710.0,
+        "commit_message": "wip restructure directories",
+        "commit_date": 1686531399.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/merlin/main/agent_icons/merlin.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 492,
-        "uniques": 200
+        "count": 552,
+        "uniques": 204
       }
     },
     {
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 323,
-        "uniques": 193
+        "count": 318,
+        "uniques": 191
       }
     },
     {
@@ -1675,7 +1675,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/thanatos/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
-      "updated_at": "2023-06-05T18:19:54Z",
+      "updated_at": "2023-06-11T19:48:53Z",
       "pushed_at": "2023-05-14T21:34:20Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
@@ -1683,8 +1683,8 @@
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
       "size": 2353,
-      "stargazers_count": 211,
-      "watchers_count": 211,
+      "stargazers_count": 212,
+      "watchers_count": 212,
       "language": "Rust",
       "has_issues": true,
       "has_projects": true,
@@ -1705,7 +1705,7 @@
       "visibility": "public",
       "forks": 31,
       "open_issues": 6,
-      "watchers": 211,
+      "watchers": 212,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1763,8 +1763,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 86,
-        "uniques": 62
+        "count": 84,
+        "uniques": 61
       }
     },
     {
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 25,
-        "uniques": 20
+        "count": 24,
+        "uniques": 19
       }
     },
     {
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 14
+        "count": 20,
+        "uniques": 13
       }
     },
     {
@@ -2584,8 +2584,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 14
+        "count": 18,
+        "uniques": 13
       }
     },
     {
@@ -3540,7 +3540,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 446,
+        "count": 445,
         "uniques": 206
       }
     },
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 71,
-        "uniques": 45
+        "count": 70,
+        "uniques": 44
       }
     },
     {
@@ -3858,7 +3858,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 76,
+        "count": 69,
         "uniques": 39
       }
     },
@@ -4017,7 +4017,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 148,
+        "count": 152,
         "uniques": 41
       }
     },
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 27,
-        "uniques": 19
+        "count": 28,
+        "uniques": 20
       }
     },
     {
@@ -4494,8 +4494,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 62,
-        "uniques": 44
+        "count": 67,
+        "uniques": 48
       }
     },
     {
@@ -4565,7 +4565,7 @@
       "releases_url": "https://api.github.com/repos/MythicC2Profiles/discord/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/discord/deployments",
       "created_at": "2022-07-05T21:31:39Z",
-      "updated_at": "2023-06-10T07:14:32Z",
+      "updated_at": "2023-06-11T07:22:31Z",
       "pushed_at": "2023-06-08T17:05:49Z",
       "git_url": "git://github.com/MythicC2Profiles/discord.git",
       "ssh_url": "git@github.com:MythicC2Profiles/discord.git",
@@ -4573,8 +4573,8 @@
       "svn_url": "https://github.com/MythicC2Profiles/discord",
       "homepage": null,
       "size": 14,
-      "stargazers_count": 12,
-      "watchers_count": 12,
+      "stargazers_count": 14,
+      "watchers_count": 14,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -4595,7 +4595,7 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
-      "watchers": 12,
+      "watchers": 14,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -4653,8 +4653,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 56,
-        "uniques": 27
+        "count": 60,
+        "uniques": 31
       }
     },
     {
@@ -4983,8 +4983,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 33,
-        "uniques": 25
+        "count": 35,
+        "uniques": 26
       }
     }
   ]
