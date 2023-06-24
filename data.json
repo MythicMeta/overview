@@ -146,7 +146,7 @@
         }
       },
       "network_count": 15,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "master",
         "commit_message": "updated to not block shell commands by default",
@@ -155,8 +155,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 96,
-        "uniques": 69
+        "count": 100,
+        "uniques": 71
       }
     },
     {
@@ -311,7 +311,7 @@
         }
       },
       "network_count": 81,
-      "subscribers_count": 17,
+      "subscribers_count": 18,
       "latest": {
         "branch": "master",
         "commit_message": "fixing apollo's upload display parameters",
@@ -320,7 +320,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 204,
+        "count": 206,
         "uniques": 128
       }
     },
@@ -470,7 +470,7 @@
         }
       },
       "network_count": 27,
-      "subscribers_count": 2,
+      "subscribers_count": 3,
       "latest": {
         "branch": "hinvoke",
         "commit_message": "add hinvoke definitions",
@@ -479,7 +479,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 298,
+        "count": 278,
         "uniques": 124
       }
     },
@@ -629,7 +629,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 2,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #5 from MythicAgents/V3.0.0\n\nV3.0.0",
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 289,
-        "uniques": 150
+        "count": 229,
+        "uniques": 129
       }
     },
     {
@@ -788,7 +788,7 @@
         }
       },
       "network_count": 12,
-      "subscribers_count": 5,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "added support for arm64 + universal payloads",
@@ -797,8 +797,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 13
+        "count": 16,
+        "uniques": 10
       }
     },
     {
@@ -947,7 +947,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 4,
+      "subscribers_count": 5,
       "latest": {
         "branch": "master",
         "commit_message": "updating for v3.0",
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 25,
-        "uniques": 20
+        "count": 23,
+        "uniques": 19
       }
     },
     {
@@ -1106,7 +1106,7 @@
         }
       },
       "network_count": 32,
-      "subscribers_count": 9,
+      "subscribers_count": 10,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #21 from MythicAgents/dev\n\nDev",
@@ -1115,8 +1115,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 126,
-        "uniques": 59
+        "count": 119,
+        "uniques": 56
       }
     },
     {
@@ -1271,7 +1271,7 @@
         }
       },
       "network_count": 8,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "dev",
         "commit_message": "mythic v3 changelog",
@@ -1280,7 +1280,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 904,
+        "count": 889,
         "uniques": 264
       }
     },
@@ -1430,7 +1430,7 @@
         }
       },
       "network_count": 12,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -1439,8 +1439,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 15,
+        "uniques": 13
       }
     },
     {
@@ -1595,7 +1595,7 @@
         }
       },
       "network_count": 25,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "master",
         "commit_message": "updating MythicContainer version",
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 261,
-        "uniques": 169
+        "count": 278,
+        "uniques": 179
       }
     },
     {
@@ -1754,7 +1754,7 @@
         }
       },
       "network_count": 30,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "dev",
         "commit_message": "Update gitignores to reference thanatos and exclude build he...",
@@ -1763,8 +1763,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 72,
-        "uniques": 57
+        "count": 67,
+        "uniques": 52
       }
     },
     {
@@ -1913,7 +1913,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 5,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "adding icon back so it appears in overview page",
@@ -1922,8 +1922,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 15,
+        "uniques": 13
       }
     },
     {
@@ -2084,7 +2084,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Bump y18n from 4.0.0 to 4.0.3 in /Payload_Type/venus/agent_c...",
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 13
+        "count": 16,
+        "uniques": 12
       }
     },
     {
@@ -2249,7 +2249,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "readme touch-up",
@@ -2258,8 +2258,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 8
+        "count": 11,
+        "uniques": 9
       }
     },
     {
@@ -2414,7 +2414,7 @@
         }
       },
       "network_count": 22,
-      "subscribers_count": 10,
+      "subscribers_count": 11,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 27,
-        "uniques": 18
+        "count": 23,
+        "uniques": 15
       }
     },
     {
@@ -2575,7 +2575,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 2,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 t...",
@@ -2584,7 +2584,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 23,
+        "count": 22,
         "uniques": 15
       }
     },
@@ -2656,13 +2656,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/hercules/deployments",
       "created_at": "2020-11-20T03:15:09Z",
       "updated_at": "2023-05-21T06:16:42Z",
-      "pushed_at": "2023-06-15T14:22:33Z",
+      "pushed_at": "2023-06-23T19:04:03Z",
       "git_url": "git://github.com/MythicAgents/hercules.git",
       "ssh_url": "git@github.com:MythicAgents/hercules.git",
       "clone_url": "https://github.com/MythicAgents/hercules.git",
       "svn_url": "https://github.com/MythicAgents/hercules",
       "homepage": "",
-      "size": 214,
+      "size": 215,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Go",
@@ -2743,17 +2743,17 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 5,
+      "subscribers_count": 6,
       "latest": {
-        "branch": "v3.0.0",
-        "commit_message": "more updates for v3.0",
-        "commit_date": 1686838950.0,
+        "branch": "main",
+        "commit_message": "Merge pull request #1 from MythicAgents/v3.0.0\n\nV3.0.0",
+        "commit_date": 1687547042.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hercules/main/agent_icons/hercules.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 27,
-        "uniques": 18
+        "count": 30,
+        "uniques": 19
       }
     },
     {
@@ -2902,7 +2902,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 2,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "adding icon back for overview page",
@@ -3061,7 +3061,7 @@
         }
       },
       "network_count": 5,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #6 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -3070,7 +3070,7 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 22,
+        "count": 21,
         "uniques": 16
       }
     },
@@ -3226,7 +3226,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 2,
+      "subscribers_count": 3,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -3235,8 +3235,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 13,
-        "uniques": 10
+        "count": 11,
+        "uniques": 9
       }
     },
     {
@@ -3540,8 +3540,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 354,
-        "uniques": 217
+        "count": 352,
+        "uniques": 214
       }
     },
     {
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 100,
-        "uniques": 75
+        "count": 98,
+        "uniques": 74
       }
     },
     {
@@ -3858,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 75,
-        "uniques": 52
+        "count": 76,
+        "uniques": 55
       }
     },
     {
@@ -4017,8 +4017,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 105,
-        "uniques": 59
+        "count": 109,
+        "uniques": 64
       }
     },
     {
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 41,
-        "uniques": 31
+        "count": 37,
+        "uniques": 28
       }
     },
     {
@@ -4335,8 +4335,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 40,
-        "uniques": 35
+        "count": 39,
+        "uniques": 34
       }
     },
     {
@@ -4494,8 +4494,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 54,
-        "uniques": 43
+        "count": 57,
+        "uniques": 47
       }
     },
     {
@@ -4653,8 +4653,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 46,
-        "uniques": 34
+        "count": 44,
+        "uniques": 32
       }
     },
     {
@@ -4818,8 +4818,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 38,
-        "uniques": 26
+        "count": 41,
+        "uniques": 27
       }
     },
     {
@@ -4983,8 +4983,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 47,
-        "uniques": 31
+        "count": 54,
+        "uniques": 36
       }
     }
   ]
