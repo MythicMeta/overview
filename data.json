@@ -155,8 +155,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 98,
-        "uniques": 69
+        "count": 101,
+        "uniques": 71
       }
     },
     {
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 185,
-        "uniques": 125
+        "count": 208,
+        "uniques": 130
       }
     },
     {
@@ -392,13 +392,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-06-26T13:31:41Z",
-      "pushed_at": "2023-06-26T21:17:48Z",
+      "pushed_at": "2023-06-27T21:37:01Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 1729,
+      "size": 1713,
       "stargazers_count": 123,
       "watchers_count": 123,
       "language": "C",
@@ -412,7 +412,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 6,
+      "open_issues_count": 5,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -420,7 +420,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 27,
-      "open_issues": 6,
+      "open_issues": 5,
       "watchers": 123,
       "default_branch": "main",
       "permissions": {
@@ -472,15 +472,15 @@
       "network_count": 27,
       "subscribers_count": 3,
       "latest": {
-        "branch": "feature-keylogger",
-        "commit_message": "added ds script",
-        "commit_date": 1687814265.0,
+        "branch": "dev",
+        "commit_message": "remove execute-assembly check because this sucks",
+        "commit_date": 1687901818.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena_old.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 217,
-        "uniques": 109
+        "count": 207,
+        "uniques": 115
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 197,
-        "uniques": 117
+        "count": 200,
+        "uniques": 121
       }
     },
     {
@@ -797,8 +797,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 11
+        "count": 21,
+        "uniques": 14
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 16,
+        "uniques": 12
       }
     },
     {
@@ -1115,8 +1115,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 105,
-        "uniques": 64
+        "count": 104,
+        "uniques": 65
       }
     },
     {
@@ -1280,8 +1280,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 990,
-        "uniques": 267
+        "count": 952,
+        "uniques": 268
       }
     },
     {
@@ -1439,7 +1439,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
+        "count": 17,
         "uniques": 14
       }
     },
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 274,
-        "uniques": 173
+        "count": 278,
+        "uniques": 180
       }
     },
     {
@@ -1763,7 +1763,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 61,
+        "count": 59,
         "uniques": 50
       }
     },
@@ -1922,8 +1922,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 12
+        "count": 18,
+        "uniques": 16
       }
     },
     {
@@ -2093,7 +2093,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
+        "count": 19,
         "uniques": 14
       }
     },
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 15
+        "count": 18,
+        "uniques": 14
       }
     },
     {
@@ -2615,7 +2615,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/MythicAgents/hercules",
-      "description": "SO-CON 2022 Workshop Golang Agent",
+      "description": "Mythic Developer Series: Workshop Golang Agent",
       "fork": false,
       "url": "https://api.github.com/repos/MythicAgents/hercules",
       "forks_url": "https://api.github.com/repos/MythicAgents/hercules/forks",
@@ -2655,14 +2655,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/hercules/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/hercules/deployments",
       "created_at": "2020-11-20T03:15:09Z",
-      "updated_at": "2023-05-21T06:16:42Z",
-      "pushed_at": "2023-06-26T19:42:17Z",
+      "updated_at": "2023-06-27T15:03:10Z",
+      "pushed_at": "2023-06-27T15:48:27Z",
       "git_url": "git://github.com/MythicAgents/hercules.git",
       "ssh_url": "git@github.com:MythicAgents/hercules.git",
       "clone_url": "https://github.com/MythicAgents/hercules.git",
       "svn_url": "https://github.com/MythicAgents/hercules",
       "homepage": "",
-      "size": 236,
+      "size": 241,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Go",
@@ -2746,14 +2746,14 @@
       "subscribers_count": 6,
       "latest": {
         "branch": "main",
-        "commit_message": "Merge pull request #2 from MythicAgents/v3.0.0\n\nmore updates...",
-        "commit_date": 1687808536.0,
+        "commit_message": "Merge pull request #3 from MythicAgents/v3.0.0\n\nupdate merma...",
+        "commit_date": 1687880907.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hercules/main/agent_icons/hercules.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 62,
-        "uniques": 22
+        "count": 64,
+        "uniques": 21
       }
     },
     {
@@ -2911,7 +2911,7 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 36,
+        "count": 57,
         "uniques": 17
       }
     },
@@ -3070,8 +3070,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 22,
-        "uniques": 18
+        "count": 19,
+        "uniques": 16
       }
     },
     {
@@ -3540,8 +3540,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 326,
-        "uniques": 214
+        "count": 375,
+        "uniques": 231
       }
     },
     {
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 88,
-        "uniques": 67
+        "count": 83,
+        "uniques": 66
       }
     },
     {
@@ -3858,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 69,
-        "uniques": 50
+        "count": 64,
+        "uniques": 47
       }
     },
     {
@@ -4017,8 +4017,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 87,
-        "uniques": 58
+        "count": 85,
+        "uniques": 57
       }
     },
     {
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 32,
-        "uniques": 23
+        "count": 33,
+        "uniques": 26
       }
     },
     {
@@ -4494,8 +4494,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 50,
-        "uniques": 42
+        "count": 53,
+        "uniques": 44
       }
     },
     {
@@ -4653,8 +4653,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 25,
-        "uniques": 23
+        "count": 24,
+        "uniques": 21
       }
     },
     {
@@ -4818,7 +4818,7 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 41,
+        "count": 38,
         "uniques": 27
       }
     },
@@ -4983,8 +4983,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 52,
-        "uniques": 35
+        "count": 48,
+        "uniques": 33
       }
     }
   ]
