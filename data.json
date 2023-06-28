@@ -155,7 +155,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 101,
+        "count": 100,
         "uniques": 71
       }
     },
@@ -320,8 +320,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 208,
-        "uniques": 130
+        "count": 204,
+        "uniques": 127
       }
     },
     {
@@ -392,13 +392,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-06-26T13:31:41Z",
-      "pushed_at": "2023-06-27T21:37:01Z",
+      "pushed_at": "2023-06-28T13:24:45Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 1713,
+      "size": 1717,
       "stargazers_count": 123,
       "watchers_count": 123,
       "language": "C",
@@ -412,7 +412,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 5,
+      "open_issues_count": 4,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -420,7 +420,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 27,
-      "open_issues": 5,
+      "open_issues": 4,
       "watchers": 123,
       "default_branch": "main",
       "permissions": {
@@ -472,15 +472,15 @@
       "network_count": 27,
       "subscribers_count": 3,
       "latest": {
-        "branch": "dev",
-        "commit_message": "remove execute-assembly check because this sucks",
-        "commit_date": 1687901818.0,
+        "branch": "main",
+        "commit_message": "Update caffeinate.cs (#47)\n\nfix looping",
+        "commit_date": 1687958679.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/main/agent_icons/athena_old.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 207,
-        "uniques": 115
+        "count": 208,
+        "uniques": 116
       }
     },
     {
@@ -638,8 +638,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 200,
-        "uniques": 121
+        "count": 177,
+        "uniques": 110
       }
     },
     {
@@ -956,8 +956,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 12
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Medusa/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Medusa/deployments",
       "created_at": "2021-07-15T10:05:23Z",
-      "updated_at": "2023-06-13T16:06:11Z",
+      "updated_at": "2023-06-28T04:58:14Z",
       "pushed_at": "2023-05-10T16:23:21Z",
       "git_url": "git://github.com/MythicAgents/Medusa.git",
       "ssh_url": "git@github.com:MythicAgents/Medusa.git",
@@ -1035,8 +1035,8 @@
       "svn_url": "https://github.com/MythicAgents/Medusa",
       "homepage": "",
       "size": 2161,
-      "stargazers_count": 144,
-      "watchers_count": 144,
+      "stargazers_count": 145,
+      "watchers_count": 145,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1057,7 +1057,7 @@
       "visibility": "public",
       "forks": 32,
       "open_issues": 1,
-      "watchers": 144,
+      "watchers": 145,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1115,8 +1115,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 104,
-        "uniques": 65
+        "count": 102,
+        "uniques": 64
       }
     },
     {
@@ -1273,15 +1273,15 @@
       "network_count": 8,
       "subscribers_count": 7,
       "latest": {
-        "branch": "dev",
+        "branch": "main",
         "commit_message": "mythic v3 changelog",
         "commit_date": 1686537025.0,
         "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
       },
       "category": "Agent",
       "clones": {
-        "count": 952,
-        "uniques": 268
+        "count": 938,
+        "uniques": 264
       }
     },
     {
@@ -1439,8 +1439,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 14
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -1604,8 +1604,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 278,
-        "uniques": 180
+        "count": 310,
+        "uniques": 200
       }
     },
     {
@@ -1756,15 +1756,15 @@
       "network_count": 30,
       "subscribers_count": 7,
       "latest": {
-        "branch": "dev",
+        "branch": "main",
         "commit_message": "Update gitignores to reference thanatos and exclude build he...",
         "commit_date": 1684099996.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/thanatos/main/agent_icons/thanatos.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 59,
-        "uniques": 50
+        "count": 56,
+        "uniques": 47
       }
     },
     {
@@ -1922,8 +1922,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 16
+        "count": 17,
+        "uniques": 15
       }
     },
     {
@@ -2093,8 +2093,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 14
+        "count": 18,
+        "uniques": 13
       }
     },
     {
@@ -2258,8 +2258,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 7
+        "count": 15,
+        "uniques": 6
       }
     },
     {
@@ -2423,8 +2423,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -2584,8 +2584,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 13
+        "count": 21,
+        "uniques": 12
       }
     },
     {
@@ -2752,7 +2752,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 64,
+        "count": 62,
         "uniques": 21
       }
     },
@@ -2911,8 +2911,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 57,
-        "uniques": 17
+        "count": 56,
+        "uniques": 16
       }
     },
     {
@@ -3070,8 +3070,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 17,
+        "uniques": 14
       }
     },
     {
@@ -3235,8 +3235,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 9,
+        "uniques": 8
       }
     },
     {
@@ -3540,7 +3540,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 375,
+        "count": 373,
         "uniques": 231
       }
     },
@@ -3699,8 +3699,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 83,
-        "uniques": 66
+        "count": 79,
+        "uniques": 62
       }
     },
     {
@@ -3858,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 64,
-        "uniques": 47
+        "count": 63,
+        "uniques": 45
       }
     },
     {
@@ -4017,8 +4017,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 85,
-        "uniques": 57
+        "count": 89,
+        "uniques": 60
       }
     },
     {
@@ -4176,8 +4176,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 33,
-        "uniques": 26
+        "count": 35,
+        "uniques": 28
       }
     },
     {
@@ -4335,8 +4335,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 46,
-        "uniques": 39
+        "count": 45,
+        "uniques": 38
       }
     },
     {
@@ -4494,7 +4494,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 53,
+        "count": 54,
         "uniques": 44
       }
     },
@@ -4653,8 +4653,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 24,
-        "uniques": 21
+        "count": 23,
+        "uniques": 20
       }
     },
     {
