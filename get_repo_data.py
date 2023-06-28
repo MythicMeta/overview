@@ -44,12 +44,20 @@ with open(agent_repos) as f:
             print(url)
             proj = g.get_repo(project)
             print(f"{proj.name} - {proj.description}")
+            default_branch = proj.get_branch(proj.default_branch)
             latest = {
-                "branch": "main",
-                "commit_message": "",
-                "commit_date": datetime.strptime("1970-01-01 00:00:01", "%Y-%m-%d %H:%M:%S"),
+                "branch": default_branch.name,
+                "commit_message": default_branch.commit.commit.message,
+                "commit_date": default_branch.commit.commit.author.date,
                 "icon": "",
             }
+            try:
+                files = proj.get_contents("agent_icons", ref=default_branch.name)
+                for file in files:
+                    if file.name != ".keep" and file.name != ".gitkeep":
+                        latest["icon"] = file.download_url
+            except Exception as e:
+                print(f"Failed to find agent_icons folder for {url} - {e}")
             for b in proj.get_branches():
                 branch = proj.get_branch(b.name)
                 if branch.commit.commit.author.date > latest["commit_date"]:
@@ -60,7 +68,7 @@ with open(agent_repos) as f:
                         "icon": latest["icon"]
                     }
                     try:
-                        files = proj.get_contents("agent_icons")
+                        files = proj.get_contents("agent_icons", ref=b.name)
                         for file in files:
                             if file.name != ".keep" and file.name != ".gitkeep":
                                 latest["icon"] = file.download_url
@@ -194,10 +202,11 @@ with open(c2_repos) as f:
             print(url)
             proj = g.get_repo(project)
             print(f"{proj.name} - {proj.description}")
+            default_branch = proj.get_branch(proj.default_branch)
             latest = {
-                "branch": "main",
-                "commit_message": "",
-                "commit_date": datetime.strptime("1970-01-01 00:00:01", "%Y-%m-%d %H:%M:%S"),
+                "branch": default_branch.name,
+                "commit_message": default_branch.commit.commit.message,
+                "commit_date": default_branch.commit.commit.author.date,
             }
             for b in proj.get_branches():
                 branch = proj.get_branch(b.name)
