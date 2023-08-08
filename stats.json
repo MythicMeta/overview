@@ -4218,12 +4218,52 @@
         }
       },
       "clones": {
+        "unique": 5,
+        "count": 5
+      },
+      "traffic": {
+        "count": 234,
+        "unique": 11
+      }
+    },
+    "2023-08-08": {
+      "traffic": {
+        "count": 31,
+        "unique": 1
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
-      "traffic": {
-        "count": 0,
-        "unique": 0
+      "referrer": {
+        "Google": {
+          "count": 401,
+          "unique": 36
+        },
+        "github.com": {
+          "count": 104,
+          "unique": 13
+        },
+        "docs.mythic-c2.net": {
+          "count": 34,
+          "unique": 4
+        },
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 2
+        },
+        "DuckDuckGo": {
+          "count": 1,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "usc-onenote.officeapps.live.com": {
+          "count": 1,
+          "unique": 1
+        }
       }
     }
   },
@@ -8579,11 +8619,11 @@
     "2023-07-25": {
       "clones": {
         "unique": 25,
-        "count": 48
+        "count": 40
       },
       "traffic": {
-        "count": 101,
-        "unique": 28
+        "count": 86,
+        "unique": 27
       },
       "referrer": {
         "Google": {
@@ -9280,12 +9320,60 @@
         }
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 11,
+        "count": 16
+      },
+      "traffic": {
+        "count": 259,
+        "unique": 28
+      }
+    },
+    "2023-08-08": {
+      "clones": {
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
         "count": 0,
         "unique": 0
+      },
+      "referrer": {
+        "Google": {
+          "count": 468,
+          "unique": 65
+        },
+        "github.com": {
+          "count": 167,
+          "unique": 32
+        },
+        "mythicmeta.github.io": {
+          "count": 27,
+          "unique": 5
+        },
+        "docs.mythic-c2.net": {
+          "count": 24,
+          "unique": 7
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 1,
+          "unique": 1
+        },
+        "bookstack.optivlabs.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "activecountermeasures.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "usc-onenote.officeapps.live.com": {
+          "count": 1,
+          "unique": 1
+        }
       }
     }
   },
@@ -12760,12 +12848,12 @@
     },
     "2023-07-25": {
       "clones": {
-        "unique": 9,
-        "count": 11
+        "unique": 8,
+        "count": 10
       },
       "traffic": {
-        "count": 52,
-        "unique": 14
+        "count": 51,
+        "unique": 13
       },
       "referrer": {
         "github.com": {
@@ -13234,12 +13322,48 @@
         }
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 4,
+        "count": 6
+      },
+      "traffic": {
+        "count": 83,
+        "unique": 9
+      }
+    },
+    "2023-08-08": {
+      "clones": {
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
         "count": 0,
         "unique": 0
+      },
+      "referrer": {
+        "Google": {
+          "count": 186,
+          "unique": 18
+        },
+        "github.com": {
+          "count": 74,
+          "unique": 20
+        },
+        "DuckDuckGo": {
+          "count": 10,
+          "unique": 2
+        },
+        "docs.mythic-c2.net": {
+          "count": 5,
+          "unique": 4
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "bookstack.optivlabs.com": {
+          "count": 1,
+          "unique": 1
+        }
       }
     }
   },
@@ -16872,6 +16996,38 @@
         }
       },
       "clones": {
+        "unique": 7,
+        "count": 8
+      },
+      "traffic": {
+        "count": 3,
+        "unique": 3
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "DuckDuckGo": {
+          "count": 32,
+          "unique": 1
+        },
+        "Google": {
+          "count": 27,
+          "unique": 8
+        },
+        "github.com": {
+          "count": 12,
+          "unique": 5
+        },
+        "docs.mythic-c2.net": {
+          "count": 2,
+          "unique": 1
+        },
+        "slyd0g.medium.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -19852,6 +20008,38 @@
         },
         "mythicmeta.github.io": {
           "count": 1,
+          "unique": 1
+        },
+        "DuckDuckGo": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 6,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 106,
+          "unique": 9
+        },
+        "mythicmeta.github.io": {
+          "count": 12,
+          "unique": 2
+        },
+        "github.com": {
+          "count": 8,
+          "unique": 7
+        },
+        "docs.mythic-c2.net": {
+          "count": 2,
           "unique": 1
         },
         "DuckDuckGo": {
@@ -24393,7 +24581,7 @@
       },
       "clones": {
         "unique": 20,
-        "count": 40
+        "count": 32
       },
       "traffic": {
         "count": 82,
@@ -25004,12 +25192,60 @@
         }
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 15,
+        "count": 17
+      },
+      "traffic": {
+        "count": 141,
+        "unique": 17
+      }
+    },
+    "2023-08-08": {
+      "clones": {
+        "unique": 1,
+        "count": 1
       },
       "traffic": {
         "count": 0,
         "unique": 0
+      },
+      "referrer": {
+        "Google": {
+          "count": 152,
+          "unique": 20
+        },
+        "github.com": {
+          "count": 79,
+          "unique": 27
+        },
+        "mythicmeta.github.io": {
+          "count": 39,
+          "unique": 6
+        },
+        "docs.mythic-c2.net": {
+          "count": 8,
+          "unique": 7
+        },
+        "Bing": {
+          "count": 2,
+          "unique": 2
+        },
+        "DuckDuckGo": {
+          "count": 2,
+          "unique": 2
+        },
+        "mail.google.com": {
+          "count": 2,
+          "unique": 1
+        },
+        "yandex.ru": {
+          "count": 1,
+          "unique": 1
+        },
+        "StartPage": {
+          "count": 1,
+          "unique": 1
+        }
       }
     }
   },
@@ -27432,8 +27668,8 @@
         "count": 2
       },
       "traffic": {
-        "count": 7,
-        "unique": 6
+        "count": 6,
+        "unique": 5
       }
     },
     "2023-07-26": {
@@ -27785,6 +28021,30 @@
         "Google": {
           "count": 11,
           "unique": 10
+        },
+        "github.com": {
+          "count": 3,
+          "unique": 3
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 4,
+        "count": 4
+      },
+      "traffic": {
+        "count": 3,
+        "unique": 3
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 9,
+          "unique": 8
         },
         "github.com": {
           "count": 3,
@@ -32226,11 +32486,11 @@
     },
     "2023-07-25": {
       "clones": {
-        "unique": 24,
-        "count": 43
+        "unique": 23,
+        "count": 34
       },
       "traffic": {
-        "count": 42,
+        "count": 41,
         "unique": 16
       },
       "referrer": {
@@ -32907,6 +33167,54 @@
           "unique": 1
         },
         "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "howto.thec2matrix.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 25,
+        "count": 27
+      },
+      "traffic": {
+        "count": 174,
+        "unique": 16
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 307,
+          "unique": 32
+        },
+        "github.com": {
+          "count": 167,
+          "unique": 26
+        },
+        "DuckDuckGo": {
+          "count": 42,
+          "unique": 4
+        },
+        "search.brave.com": {
+          "count": 13,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 5,
+          "unique": 3
+        },
+        "mythicmeta.github.io": {
+          "count": 3,
+          "unique": 3
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "euc-excel.officeapps.live.com": {
           "count": 1,
           "unique": 1
         },
@@ -37115,10 +37423,10 @@
       },
       "clones": {
         "unique": 2,
-        "count": 3
+        "count": 2
       },
       "traffic": {
-        "count": 27,
+        "count": 26,
         "unique": 8
       }
     },
@@ -37719,6 +38027,46 @@
         "kitploit.com": {
           "count": 3,
           "unique": 1
+        },
+        "vulners.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 7,
+        "count": 9
+      },
+      "traffic": {
+        "count": 45,
+        "unique": 11
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 882,
+          "unique": 25
+        },
+        "github.com": {
+          "count": 78,
+          "unique": 19
+        },
+        "DuckDuckGo": {
+          "count": 46,
+          "unique": 4
+        },
+        "Bing": {
+          "count": 4,
+          "unique": 4
+        },
+        "docs.mythic-c2.net": {
+          "count": 3,
+          "unique": 2
+        },
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 2
         },
         "vulners.com": {
           "count": 1,
@@ -40287,6 +40635,30 @@
         "Google": {
           "count": 5,
           "unique": 5
+        },
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 5,
+          "unique": 4
         },
         "github.com": {
           "count": 1,
@@ -43444,12 +43816,12 @@
     },
     "2023-08-07": {
       "traffic": {
-        "count": 3,
-        "unique": 1
+        "count": 158,
+        "unique": 7
       },
       "clones": {
-        "unique": 0,
-        "count": 0
+        "unique": 4,
+        "count": 4
       },
       "referrer": {
         "Google": {
@@ -43467,6 +43839,34 @@
         "Bing": {
           "count": 2,
           "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      }
+    },
+    "2023-08-08": {
+      "traffic": {
+        "count": 2,
+        "unique": 1
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "referrer": {
+        "Google": {
+          "count": 16,
+          "unique": 11
+        },
+        "mythicmeta.github.io": {
+          "count": 14,
+          "unique": 2
+        },
+        "github.com": {
+          "count": 11,
+          "unique": 6
         },
         "docs.mythic-c2.net": {
           "count": 1,
@@ -46070,8 +46470,32 @@
         "count": 0
       },
       "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
+      },
+      "referrer": {
+        "github.com": {
+          "count": 8,
+          "unique": 2
+        },
+        "Google": {
+          "count": 3,
+          "unique": 2
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
       }
     }
   },
@@ -49128,6 +49552,38 @@
         "count": 0
       },
       "traffic": {
+        "count": 15,
+        "unique": 3
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "github.com": {
+          "count": 5,
+          "unique": 3
+        },
+        "Google": {
+          "count": 3,
+          "unique": 2
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "DuckDuckGo": {
+          "count": 1,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
         "count": 0,
         "unique": 0
       }
@@ -51520,8 +51976,8 @@
         "count": 0
       },
       "traffic": {
-        "count": 38,
-        "unique": 5
+        "count": 7,
+        "unique": 3
       }
     },
     "2023-07-26": {
@@ -51861,6 +52317,30 @@
         "github.com": {
           "count": 18,
           "unique": 4
+        }
+      },
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 78,
+        "unique": 14
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 90,
+          "unique": 8
+        },
+        "github.com": {
+          "count": 17,
+          "unique": 3
+        },
+        "docs.mythic-c2.net": {
+          "count": 6,
+          "unique": 1
         }
       },
       "clones": {
@@ -54918,6 +55398,30 @@
         }
       },
       "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 42,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 2,
+          "unique": 2
+        },
+        "specterops.atlassian.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -57886,6 +58390,30 @@
         }
       },
       "clones": {
+        "unique": 2,
+        "count": 3
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 114,
+          "unique": 12
+        },
+        "mythicmeta.github.io": {
+          "count": 32,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -60437,6 +60965,26 @@
       }
     },
     "2023-08-07": {
+      "referrer": {
+        "Google": {
+          "count": 20,
+          "unique": 4
+        },
+        "t.co": {
+          "count": 3,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 1,
+        "count": 1
+      },
+      "traffic": {
+        "count": 3,
+        "unique": 3
+      }
+    },
+    "2023-08-08": {
       "referrer": {
         "Google": {
           "count": 20,
@@ -64164,12 +64712,12 @@
         }
       },
       "clones": {
-        "unique": 32,
-        "count": 46
+        "unique": 31,
+        "count": 45
       },
       "traffic": {
-        "count": 17,
-        "unique": 9
+        "count": 16,
+        "unique": 8
       }
     },
     "2023-07-26": {
@@ -64582,12 +65130,12 @@
     },
     "2023-08-07": {
       "clones": {
-        "unique": 1,
-        "count": 1
+        "unique": 83,
+        "count": 89
       },
       "traffic": {
-        "count": 0,
-        "unique": 0
+        "count": 99,
+        "unique": 7
       },
       "referrer": {
         "Google": {
@@ -64622,6 +65170,50 @@
           "count": 1,
           "unique": 1
         }
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 184,
+          "unique": 18
+        },
+        "github.com": {
+          "count": 86,
+          "unique": 12
+        },
+        "mythicmeta.github.io": {
+          "count": 39,
+          "unique": 3
+        },
+        "docs.mythic-c2.net": {
+          "count": 35,
+          "unique": 14
+        },
+        "Bing": {
+          "count": 6,
+          "unique": 1
+        },
+        "DuckDuckGo": {
+          "count": 2,
+          "unique": 1
+        },
+        "search.brave.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "bookstack.optivlabs.com": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
       }
     }
   },
@@ -67677,6 +68269,34 @@
         "github.com": {
           "count": 5,
           "unique": 4
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 9,
+        "count": 11
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 16,
+          "unique": 4
+        },
+        "mythicmeta.github.io": {
+          "count": 8,
+          "unique": 3
+        },
+        "github.com": {
+          "count": 4,
+          "unique": 3
         },
         "docs.mythic-c2.net": {
           "count": 1,
@@ -71202,6 +71822,42 @@
         }
       },
       "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 17,
+          "unique": 3
+        },
+        "docs.mythic-c2.net": {
+          "count": 17,
+          "unique": 2
+        },
+        "mythicmeta.github.io": {
+          "count": 12,
+          "unique": 1
+        },
+        "github.com": {
+          "count": 9,
+          "unique": 4
+        },
+        "medium.com": {
+          "count": 3,
+          "unique": 1
+        },
+        "posts.specterops.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -74516,6 +75172,42 @@
         }
       },
       "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 30,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 32,
+          "unique": 9
+        },
+        "github.com": {
+          "count": 8,
+          "unique": 6
+        },
+        "Bing": {
+          "count": 1,
+          "unique": 1
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "search.brave.com": {
+          "count": 1,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -77700,6 +78392,38 @@
         }
       },
       "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 29,
+        "unique": 3
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "github.com": {
+          "count": 64,
+          "unique": 5
+        },
+        "Google": {
+          "count": 20,
+          "unique": 6
+        },
+        "docs.mythic-c2.net": {
+          "count": 3,
+          "unique": 3
+        },
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 1
+        },
+        "DuckDuckGo": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -80676,6 +81400,34 @@
         }
       },
       "clones": {
+        "unique": 3,
+        "count": 4
+      },
+      "traffic": {
+        "count": 10,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 58,
+          "unique": 11
+        },
+        "github.com": {
+          "count": 11,
+          "unique": 6
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -83571,6 +84323,34 @@
         "count": 0,
         "unique": 0
       }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 61,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 26,
+          "unique": 2
+        },
+        "github.com": {
+          "count": 4,
+          "unique": 2
+        },
+        "mythicmeta.github.io": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 0,
+        "count": 0
+      },
+      "traffic": {
+        "count": 0,
+        "unique": 0
+      }
     }
   },
   "https://api.github.com/repos/MythicC2Profiles/basic_logger": {
@@ -86062,6 +86842,34 @@
         "github.com": {
           "count": 2,
           "unique": 2
+        }
+      },
+      "clones": {
+        "unique": 6,
+        "count": 7
+      },
+      "traffic": {
+        "count": 2,
+        "unique": 2
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 37,
+          "unique": 3
+        },
+        "mythicmeta.github.io": {
+          "count": 30,
+          "unique": 2
+        },
+        "docs.mythic-c2.net": {
+          "count": 24,
+          "unique": 2
+        },
+        "github.com": {
+          "count": 3,
+          "unique": 3
         }
       },
       "clones": {
@@ -90202,7 +91010,7 @@
       },
       "clones": {
         "unique": 25,
-        "count": 52
+        "count": 43
       },
       "traffic": {
         "count": 94,
@@ -90873,6 +91681,58 @@
         },
         "bookstack.optivlabs.com": {
           "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 69,
+        "count": 74
+      },
+      "traffic": {
+        "count": 191,
+        "unique": 100
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 367,
+          "unique": 35
+        },
+        "github.com": {
+          "count": 185,
+          "unique": 26
+        },
+        "t.co": {
+          "count": 29,
+          "unique": 3
+        },
+        "mythicmeta.github.io": {
+          "count": 27,
+          "unique": 5
+        },
+        "docs.mythic-c2.net": {
+          "count": 13,
+          "unique": 7
+        },
+        "scottctaylor12.github.io": {
+          "count": 11,
+          "unique": 1
+        },
+        "statics.teams.cdn.office.net": {
+          "count": 5,
+          "unique": 2
+        },
+        "DuckDuckGo": {
+          "count": 4,
+          "unique": 4
+        },
+        "alligator.cash": {
+          "count": 2,
+          "unique": 2
+        },
+        "linkedin.com": {
+          "count": 2,
           "unique": 1
         }
       },
@@ -95140,11 +96000,11 @@
     "2023-07-25": {
       "clones": {
         "unique": 20,
-        "count": 39
+        "count": 31
       },
       "traffic": {
-        "count": 112,
-        "unique": 19
+        "count": 58,
+        "unique": 18
       },
       "referrer": {
         "Google": {
@@ -95714,6 +96574,46 @@
         "DuckDuckGo": {
           "count": 19,
           "unique": 4
+        },
+        "exalens.atlassian.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 62,
+        "count": 63
+      },
+      "traffic": {
+        "count": 118,
+        "unique": 8
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "github.com": {
+          "count": 168,
+          "unique": 23
+        },
+        "Google": {
+          "count": 102,
+          "unique": 30
+        },
+        "mythicmeta.github.io": {
+          "count": 41,
+          "unique": 2
+        },
+        "DuckDuckGo": {
+          "count": 16,
+          "unique": 3
+        },
+        "docs.mythic-c2.net": {
+          "count": 4,
+          "unique": 3
+        },
+        "naksyn.com": {
+          "count": 1,
+          "unique": 1
         },
         "exalens.atlassian.net": {
           "count": 1,
@@ -99146,6 +100046,42 @@
         }
       },
       "clones": {
+        "unique": 5,
+        "count": 5
+      },
+      "traffic": {
+        "count": 1,
+        "unique": 1
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 61,
+          "unique": 14
+        },
+        "github.com": {
+          "count": 44,
+          "unique": 10
+        },
+        "DuckDuckGo": {
+          "count": 15,
+          "unique": 1
+        },
+        "t.co": {
+          "count": 1,
+          "unique": 1
+        },
+        "Bing": {
+          "count": 1,
+          "unique": 1
+        },
+        "docs.mythic-c2.net": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
         "unique": 0,
         "count": 0
       },
@@ -101113,6 +102049,38 @@
         "docs.mythic-c2.net": {
           "count": 3,
           "unique": 3
+        }
+      },
+      "clones": {
+        "unique": 3,
+        "count": 3
+      },
+      "traffic": {
+        "count": 57,
+        "unique": 6
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "redsiege.com": {
+          "count": 27,
+          "unique": 1
+        },
+        "Google": {
+          "count": 21,
+          "unique": 10
+        },
+        "github.com": {
+          "count": 11,
+          "unique": 8
+        },
+        "docs.mythic-c2.net": {
+          "count": 3,
+          "unique": 3
+        },
+        "mythicmeta.github.io": {
+          "count": 2,
+          "unique": 1
         }
       },
       "clones": {
@@ -103415,6 +104383,38 @@
         "mythicmeta.github.io": {
           "count": 7,
           "unique": 6
+        },
+        "docs.mythic-c2.net": {
+          "count": 3,
+          "unique": 3
+        },
+        "t.co": {
+          "count": 1,
+          "unique": 1
+        }
+      },
+      "clones": {
+        "unique": 2,
+        "count": 2
+      },
+      "traffic": {
+        "count": 5,
+        "unique": 5
+      }
+    },
+    "2023-08-08": {
+      "referrer": {
+        "Google": {
+          "count": 85,
+          "unique": 5
+        },
+        "github.com": {
+          "count": 20,
+          "unique": 4
+        },
+        "mythicmeta.github.io": {
+          "count": 5,
+          "unique": 4
         },
         "docs.mythic-c2.net": {
           "count": 3,
