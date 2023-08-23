@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2023-07-20T10:55:07Z",
-      "pushed_at": "2023-07-12T14:03:45Z",
+      "pushed_at": "2023-08-22T22:34:13Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 739,
+      "size": 750,
       "stargazers_count": 41,
       "watchers_count": 41,
       "language": "Python",
@@ -152,14 +152,14 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "master",
-        "commit_message": "remove old browserscripts and add check to prompt",
-        "commit_date": 1689170623.0,
+        "commit_message": "fixed an else case for the opsec checks",
+        "commit_date": 1692743651.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 87,
-        "uniques": 69
+        "count": 94,
+        "uniques": 74
       }
     },
     {
@@ -326,8 +326,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 219,
-        "uniques": 148
+        "count": 181,
+        "uniques": 144
       }
     },
     {
@@ -488,8 +488,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 150,
-        "uniques": 87
+        "count": 114,
+        "uniques": 86
       }
     },
     {
@@ -650,8 +650,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 112,
-        "uniques": 58
+        "count": 81,
+        "uniques": 56
       }
     },
     {
@@ -812,8 +812,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 29,
-        "uniques": 25
+        "count": 23,
+        "uniques": 20
       }
     },
     {
@@ -974,7 +974,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
+        "count": 12,
         "uniques": 10
       }
     },
@@ -1136,8 +1136,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
-        "uniques": 49
+        "count": 71,
+        "uniques": 45
       }
     },
     {
@@ -1304,8 +1304,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 161,
-        "uniques": 88
+        "count": 126,
+        "uniques": 85
       }
     },
     {
@@ -1634,8 +1634,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 124,
-        "uniques": 94
+        "count": 113,
+        "uniques": 91
       }
     },
     {
@@ -1796,8 +1796,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 59,
-        "uniques": 42
+        "count": 51,
+        "uniques": 38
       }
     },
     {
@@ -1958,8 +1958,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 14,
+        "uniques": 14
       }
     },
     {
@@ -2132,8 +2132,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 34,
-        "uniques": 24
+        "count": 30,
+        "uniques": 22
       }
     },
     {
@@ -2300,8 +2300,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 11,
-        "uniques": 7
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -2468,8 +2468,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 13
+        "count": 12,
+        "uniques": 9
       }
     },
     {
@@ -2632,7 +2632,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 21,
+        "count": 20,
         "uniques": 18
       }
     },
@@ -2803,8 +2803,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 13,
+        "uniques": 12
       }
     },
     {
@@ -2965,8 +2965,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 17,
+        "uniques": 14
       }
     },
     {
@@ -3127,8 +3127,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 22,
-        "uniques": 17
+        "count": 21,
+        "uniques": 16
       }
     },
     {
@@ -3295,8 +3295,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       }
     },
     {
@@ -3603,7 +3603,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 340,
+        "count": 306,
         "uniques": 224
       }
     },
@@ -3765,8 +3765,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 71,
-        "uniques": 56
+        "count": 69,
+        "uniques": 53
       }
     },
     {
@@ -3927,8 +3927,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 61,
-        "uniques": 35
+        "count": 55,
+        "uniques": 33
       }
     },
     {
@@ -4089,8 +4089,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 92,
-        "uniques": 45
+        "count": 62,
+        "uniques": 43
       }
     },
     {
@@ -4251,7 +4251,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 23,
+        "count": 21,
         "uniques": 16
       }
     },
@@ -4413,7 +4413,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 44,
+        "count": 42,
         "uniques": 34
       }
     },
@@ -4575,8 +4575,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 66,
-        "uniques": 53
+        "count": 59,
+        "uniques": 52
       }
     },
     {
@@ -4737,8 +4737,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 20,
-        "uniques": 15
+        "count": 21,
+        "uniques": 17
       }
     },
     {
@@ -4905,8 +4905,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 16,
-        "uniques": 15
+        "count": 14,
+        "uniques": 14
       }
     },
     {
@@ -5073,8 +5073,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 22,
-        "uniques": 20
+        "count": 23,
+        "uniques": 22
       }
     }
   ]
