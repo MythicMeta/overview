@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2023-07-20T10:55:07Z",
-      "pushed_at": "2023-08-22T22:34:13Z",
+      "pushed_at": "2023-08-23T19:50:51Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 750,
+      "size": 751,
       "stargazers_count": 41,
       "watchers_count": 41,
       "language": "Python",
@@ -152,14 +152,14 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "master",
-        "commit_message": "fixed an else case for the opsec checks",
-        "commit_date": 1692743651.0,
+        "commit_message": "updating ls\n\nadding check for /dev since it's apparently a s...",
+        "commit_date": 1692820249.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 94,
-        "uniques": 74
+        "count": 100,
+        "uniques": 77
       }
     },
     {
@@ -326,8 +326,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 181,
-        "uniques": 144
+        "count": 190,
+        "uniques": 149
       }
     },
     {
@@ -488,7 +488,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 114,
+        "count": 120,
         "uniques": 86
       }
     },
@@ -650,7 +650,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 81,
+        "count": 83,
         "uniques": 56
       }
     },
@@ -812,8 +812,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 20
+        "count": 18,
+        "uniques": 15
       }
     },
     {
@@ -1136,8 +1136,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 71,
-        "uniques": 45
+        "count": 74,
+        "uniques": 50
       }
     },
     {
@@ -1304,8 +1304,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 126,
-        "uniques": 85
+        "count": 124,
+        "uniques": 81
       }
     },
     {
@@ -1466,8 +1466,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 13,
+        "uniques": 11
       }
     },
     {
@@ -1796,8 +1796,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 51,
-        "uniques": 38
+        "count": 52,
+        "uniques": 39
       }
     },
     {
@@ -1958,8 +1958,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 14
+        "count": 15,
+        "uniques": 15
       }
     },
     {
@@ -2132,8 +2132,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 30,
-        "uniques": 22
+        "count": 29,
+        "uniques": 21
       }
     },
     {
@@ -2468,7 +2468,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
+        "count": 11,
         "uniques": 9
       }
     },
@@ -2703,7 +2703,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/hercules/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/hercules/deployments",
       "created_at": "2020-11-20T03:15:09Z",
-      "updated_at": "2023-06-29T19:09:59Z",
+      "updated_at": "2023-08-23T02:55:00Z",
       "pushed_at": "2023-06-27T15:48:27Z",
       "git_url": "git://github.com/MythicAgents/hercules.git",
       "ssh_url": "git@github.com:MythicAgents/hercules.git",
@@ -2711,8 +2711,8 @@
       "svn_url": "https://github.com/MythicAgents/hercules",
       "homepage": "",
       "size": 241,
-      "stargazers_count": 11,
-      "watchers_count": 11,
+      "stargazers_count": 12,
+      "watchers_count": 12,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -2742,7 +2742,7 @@
       "visibility": "public",
       "forks": 3,
       "open_issues": 0,
-      "watchers": 11,
+      "watchers": 12,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -3127,8 +3127,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 21,
-        "uniques": 16
+        "count": 26,
+        "uniques": 21
       }
     },
     {
@@ -3603,8 +3603,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 306,
-        "uniques": 224
+        "count": 321,
+        "uniques": 233
       }
     },
     {
@@ -3765,8 +3765,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 69,
-        "uniques": 53
+        "count": 64,
+        "uniques": 51
       }
     },
     {
@@ -3836,7 +3836,7 @@
       "releases_url": "https://api.github.com/repos/MythicC2Profiles/dns/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/dns/deployments",
       "created_at": "2021-07-21T18:30:12Z",
-      "updated_at": "2023-07-04T05:01:15Z",
+      "updated_at": "2023-08-23T03:53:28Z",
       "pushed_at": "2023-01-13T02:31:51Z",
       "git_url": "git://github.com/MythicC2Profiles/dns.git",
       "ssh_url": "git@github.com:MythicC2Profiles/dns.git",
@@ -3844,8 +3844,8 @@
       "svn_url": "https://github.com/MythicC2Profiles/dns",
       "homepage": null,
       "size": 110,
-      "stargazers_count": 13,
-      "watchers_count": 13,
+      "stargazers_count": 14,
+      "watchers_count": 14,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -3866,7 +3866,7 @@
       "visibility": "public",
       "forks": 5,
       "open_issues": 2,
-      "watchers": 13,
+      "watchers": 14,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -3927,8 +3927,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 55,
-        "uniques": 33
+        "count": 44,
+        "uniques": 32
       }
     },
     {
@@ -4089,8 +4089,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 62,
-        "uniques": 43
+        "count": 65,
+        "uniques": 44
       }
     },
     {
@@ -4251,8 +4251,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 21,
-        "uniques": 16
+        "count": 17,
+        "uniques": 13
       }
     },
     {
@@ -4413,8 +4413,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 34
+        "count": 38,
+        "uniques": 33
       }
     },
     {
@@ -4575,7 +4575,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 59,
+        "count": 61,
         "uniques": 52
       }
     },
@@ -4737,7 +4737,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 21,
+        "count": 23,
         "uniques": 17
       }
     },
@@ -4905,8 +4905,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 14,
-        "uniques": 14
+        "count": 12,
+        "uniques": 12
       }
     },
     {
@@ -5073,8 +5073,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 23,
-        "uniques": 22
+        "count": 21,
+        "uniques": 20
       }
     }
   ]
