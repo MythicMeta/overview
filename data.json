@@ -158,7 +158,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
+        "count": 107,
         "uniques": 91
       }
     },
@@ -317,7 +317,7 @@
         }
       },
       "network_count": 84,
-      "subscribers_count": 18,
+      "subscribers_count": 19,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #124 from jackullrich/master\n\nFixing the ...",
@@ -326,8 +326,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 202,
-        "uniques": 150
+        "count": 211,
+        "uniques": 159
       }
     },
     {
@@ -479,7 +479,7 @@
         }
       },
       "network_count": 32,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Update load.py\n\nupdate load command to indicate the right ve...",
@@ -488,8 +488,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 172,
-        "uniques": 110
+        "count": 176,
+        "uniques": 117
       }
     },
     {
@@ -641,7 +641,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "Update builder.go",
@@ -650,8 +650,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 84,
-        "uniques": 61
+        "count": 81,
+        "uniques": 63
       }
     },
     {
@@ -803,7 +803,7 @@
         }
       },
       "network_count": 13,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "added support for arm64 + universal payloads",
@@ -965,7 +965,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 5,
+      "subscribers_count": 6,
       "latest": {
         "branch": "master",
         "commit_message": "updating for v3.0",
@@ -974,8 +974,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 17
+        "count": 18,
+        "uniques": 18
       }
     },
     {
@@ -1136,7 +1136,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 101,
+        "count": 99,
         "uniques": 84
       }
     },
@@ -1207,7 +1207,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/merlin/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/merlin/deployments",
       "created_at": "2021-01-25T12:36:46Z",
-      "updated_at": "2023-08-30T01:04:40Z",
+      "updated_at": "2023-09-22T00:38:49Z",
       "pushed_at": "2023-08-11T15:02:23Z",
       "git_url": "git://github.com/MythicAgents/merlin.git",
       "ssh_url": "git@github.com:MythicAgents/merlin.git",
@@ -1215,8 +1215,8 @@
       "svn_url": "https://github.com/MythicAgents/merlin",
       "homepage": null,
       "size": 603,
-      "stargazers_count": 54,
-      "watchers_count": 54,
+      "stargazers_count": 55,
+      "watchers_count": 55,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -1243,7 +1243,7 @@
       "visibility": "public",
       "forks": 10,
       "open_issues": 0,
-      "watchers": 54,
+      "watchers": 55,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1295,7 +1295,7 @@
         }
       },
       "network_count": 10,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Fixes #12 - Unset `LD_PRELOAD` at the start of shared-object...",
@@ -1304,7 +1304,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 116,
+        "count": 113,
         "uniques": 84
       }
     },
@@ -1457,7 +1457,7 @@
         }
       },
       "network_count": 13,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -1466,8 +1466,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 11,
+        "uniques": 10
       }
     },
     {
@@ -1625,7 +1625,7 @@
         }
       },
       "network_count": 29,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "master",
         "commit_message": "tweaking clipboard monitor processing",
@@ -1787,7 +1787,7 @@
         }
       },
       "network_count": 32,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Update gitignores to reference thanatos and exclude build he...",
@@ -1796,8 +1796,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 57,
-        "uniques": 41
+        "count": 62,
+        "uniques": 46
       }
     },
     {
@@ -1949,7 +1949,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "adding icon back so it appears in overview page",
@@ -2123,7 +2123,7 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 4,
+      "subscribers_count": 5,
       "latest": {
         "branch": "mythic-v3-support",
         "commit_message": "Update README for Mythic v3",
@@ -2132,8 +2132,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 29,
-        "uniques": 20
+        "count": 30,
+        "uniques": 22
       }
     },
     {
@@ -2291,7 +2291,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 4,
+      "subscribers_count": 5,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/ArchiMoebius-patch-1...",
@@ -2300,7 +2300,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 41,
+        "count": 37,
         "uniques": 19
       }
     },
@@ -2459,7 +2459,7 @@
         }
       },
       "network_count": 23,
-      "subscribers_count": 11,
+      "subscribers_count": 12,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -2468,8 +2468,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 12
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -2623,7 +2623,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 t...",
@@ -2632,8 +2632,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 19,
+        "uniques": 17
       }
     },
     {
@@ -2794,7 +2794,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/v3.0.0\n\nupdate merma...",
@@ -2803,8 +2803,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 18
+        "count": 19,
+        "uniques": 19
       }
     },
     {
@@ -2965,8 +2965,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 22,
+        "uniques": 18
       }
     },
     {
@@ -3127,8 +3127,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 14,
-        "uniques": 12
+        "count": 15,
+        "uniques": 13
       }
     },
     {
@@ -3295,8 +3295,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 14,
-        "uniques": 9
+        "count": 11,
+        "uniques": 8
       }
     },
     {
@@ -3603,8 +3603,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 330,
-        "uniques": 240
+        "count": 346,
+        "uniques": 247
       }
     },
     {
@@ -3765,8 +3765,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 51,
-        "uniques": 42
+        "count": 59,
+        "uniques": 47
       }
     },
     {
@@ -3927,8 +3927,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 32
+        "count": 45,
+        "uniques": 35
       }
     },
     {
@@ -4089,8 +4089,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 73,
-        "uniques": 50
+        "count": 75,
+        "uniques": 51
       }
     },
     {
@@ -4251,8 +4251,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 16,
-        "uniques": 13
+        "count": 17,
+        "uniques": 14
       }
     },
     {
@@ -4413,8 +4413,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 38,
-        "uniques": 32
+        "count": 44,
+        "uniques": 35
       }
     },
     {
@@ -4575,8 +4575,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 46,
-        "uniques": 39
+        "count": 50,
+        "uniques": 42
       }
     },
     {
@@ -4737,8 +4737,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 30,
-        "uniques": 24
+        "count": 31,
+        "uniques": 25
       }
     },
     {
@@ -4905,8 +4905,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 20,
-        "uniques": 18
+        "count": 22,
+        "uniques": 20
       }
     },
     {
