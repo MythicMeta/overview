@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/apfell/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
-      "updated_at": "2023-09-16T21:42:51Z",
+      "updated_at": "2023-09-25T17:19:41Z",
       "pushed_at": "2023-08-31T20:38:24Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
       "size": 754,
-      "stargazers_count": 40,
-      "watchers_count": 40,
+      "stargazers_count": 41,
+      "watchers_count": 41,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -97,7 +97,7 @@
       "visibility": "public",
       "forks": 15,
       "open_issues": 1,
-      "watchers": 40,
+      "watchers": 41,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -158,8 +158,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 98,
-        "uniques": 85
+        "count": -1,
+        "uniques": -1
       }
     },
     {
@@ -317,7 +317,7 @@
         }
       },
       "network_count": 83,
-      "subscribers_count": 19,
+      "subscribers_count": 18,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #124 from jackullrich/master\n\nFixing the ...",
@@ -326,8 +326,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 213,
-        "uniques": 164
+        "count": 196,
+        "uniques": 154
       }
     },
     {
@@ -479,7 +479,7 @@
         }
       },
       "network_count": 32,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "main",
         "commit_message": "Update load.py\n\nupdate load command to indicate the right ve...",
@@ -488,8 +488,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 174,
-        "uniques": 116
+        "count": 163,
+        "uniques": 121
       }
     },
     {
@@ -641,7 +641,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "Update builder.go",
@@ -650,7 +650,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 74,
+        "count": 75,
         "uniques": 55
       }
     },
@@ -803,7 +803,7 @@
         }
       },
       "network_count": 13,
-      "subscribers_count": 7,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "added support for arm64 + universal payloads",
@@ -812,8 +812,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 14
+        "count": 18,
+        "uniques": 17
       }
     },
     {
@@ -965,7 +965,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "master",
         "commit_message": "updating for v3.0",
@@ -974,8 +974,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 17
+        "count": 21,
+        "uniques": 20
       }
     },
     {
@@ -1136,8 +1136,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 101,
-        "uniques": 84
+        "count": 105,
+        "uniques": 86
       }
     },
     {
@@ -1295,7 +1295,7 @@
         }
       },
       "network_count": 10,
-      "subscribers_count": 8,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Fixes #12 - Unset `LD_PRELOAD` at the start of shared-object...",
@@ -1304,8 +1304,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
-        "uniques": 80
+        "count": 125,
+        "uniques": 92
       }
     },
     {
@@ -1457,7 +1457,7 @@
         }
       },
       "network_count": 13,
-      "subscribers_count": 8,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -1466,8 +1466,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 11,
+        "uniques": 10
       }
     },
     {
@@ -1625,7 +1625,7 @@
         }
       },
       "network_count": 29,
-      "subscribers_count": 8,
+      "subscribers_count": 7,
       "latest": {
         "branch": "master",
         "commit_message": "tweaking clipboard monitor processing",
@@ -1634,8 +1634,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 126,
-        "uniques": 107
+        "count": 124,
+        "uniques": 105
       }
     },
     {
@@ -1787,7 +1787,7 @@
         }
       },
       "network_count": 32,
-      "subscribers_count": 8,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Update gitignores to reference thanatos and exclude build he...",
@@ -1797,7 +1797,7 @@
       "category": "Agent",
       "clones": {
         "count": 54,
-        "uniques": 40
+        "uniques": 41
       }
     },
     {
@@ -1949,7 +1949,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 7,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "adding icon back so it appears in overview page",
@@ -1958,8 +1958,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 13
+        "count": 16,
+        "uniques": 11
       }
     },
     {
@@ -2123,11 +2123,11 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
-        "branch": "mythic-v3-support",
-        "commit_message": "Update README for Mythic v3",
-        "commit_date": 1691456574.0,
+        "branch": "main",
+        "commit_message": "Bump y18n from 4.0.0 to 4.0.3 in /Payload_Type/venus/agent_c...",
+        "commit_date": 1682658733.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/venus/main/agent_icons/venus.svg"
       },
       "category": "Agent",
@@ -2291,7 +2291,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/ArchiMoebius-patch-1...",
@@ -2300,8 +2300,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 12
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -2459,7 +2459,7 @@
         }
       },
       "network_count": 23,
-      "subscribers_count": 12,
+      "subscribers_count": 11,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -2468,8 +2468,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 15,
+        "uniques": 13
       }
     },
     {
@@ -2623,7 +2623,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 t...",
@@ -2632,7 +2632,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 20,
+        "count": 19,
         "uniques": 18
       }
     },
@@ -2794,7 +2794,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 7,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/v3.0.0\n\nupdate merma...",
@@ -2803,8 +2803,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 21
+        "count": 20,
+        "uniques": 19
       }
     },
     {
@@ -2965,7 +2965,7 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 20,
+        "count": 19,
         "uniques": 18
       }
     },
@@ -3127,7 +3127,7 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 15,
+        "count": 13,
         "uniques": 13
       }
     },
@@ -3603,8 +3603,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 340,
-        "uniques": 248
+        "count": 349,
+        "uniques": 255
       }
     },
     {
@@ -3765,8 +3765,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 62,
-        "uniques": 48
+        "count": 59,
+        "uniques": 49
       }
     },
     {
@@ -3927,8 +3927,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 47,
-        "uniques": 35
+        "count": 53,
+        "uniques": 41
       }
     },
     {
@@ -4089,8 +4089,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 70,
-        "uniques": 48
+        "count": 73,
+        "uniques": 52
       }
     },
     {
@@ -4251,8 +4251,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 17,
-        "uniques": 14
+        "count": 18,
+        "uniques": 15
       }
     },
     {
@@ -4413,8 +4413,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 43,
-        "uniques": 34
+        "count": 40,
+        "uniques": 35
       }
     },
     {
@@ -4575,8 +4575,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 47,
-        "uniques": 39
+        "count": 52,
+        "uniques": 45
       }
     },
     {
@@ -4737,8 +4737,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 26,
-        "uniques": 21
+        "count": 34,
+        "uniques": 28
       }
     },
     {
@@ -4905,8 +4905,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 20,
-        "uniques": 18
+        "count": 25,
+        "uniques": 23
       }
     },
     {
