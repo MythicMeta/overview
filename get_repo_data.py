@@ -58,22 +58,25 @@ with open(agent_repos) as f:
                         latest["icon"] = file.download_url
             except Exception as e:
                 print(f"Failed to find agent_icons folder for {url} - {e}")
-            for b in proj.get_branches():
-                branch = proj.get_branch(b.name)
-                if branch.commit.commit.author.date > latest["commit_date"]:
-                    latest = {
-                        "branch": b.name,
-                        "commit_message": branch.commit.commit.message,
-                        "commit_date": branch.commit.commit.author.date,
-                        "icon": latest["icon"]
-                    }
-                    try:
-                        files = proj.get_contents("agent_icons", ref=b.name)
-                        for file in files:
-                            if file.name != ".keep" and file.name != ".gitkeep":
-                                latest["icon"] = file.download_url
-                    except Exception as e:
-                        print(f"Failed to find agent_icons folder for {url} - {e}")
+            try:
+                for b in proj.get_branches():
+                    branch = proj.get_branch(b.name)
+                    if branch.commit.commit.author.date > latest["commit_date"]:
+                        latest = {
+                            "branch": b.name,
+                            "commit_message": branch.commit.commit.message,
+                            "commit_date": branch.commit.commit.author.date,
+                            "icon": latest["icon"]
+                        }
+                        try:
+                            files = proj.get_contents("agent_icons", ref=b.name)
+                            for file in files:
+                                if file.name != ".keep" and file.name != ".gitkeep":
+                                    latest["icon"] = file.download_url
+                        except Exception as e:
+                            print(f"Failed to find agent_icons folder for {url} - {e}")
+            except Exception as e:
+                print(f"Failed to get branches: {e}")
             result = requests.get(url, headers=headers)
             if result.status_code == 200:
                 repo_data_json = json.loads(result.text)
@@ -200,7 +203,11 @@ with open(c2_repos) as f:
             url = api_url_base + project
             # Get GitHub Repo JSON from API
             print(url)
-            proj = g.get_repo(project)
+            try:
+                proj = g.get_repo(project)
+            except Exception as e:
+                print(f"Failed to get repo: {e}\n")
+                continue
             print(f"{proj.name} - {proj.description}")
             default_branch = proj.get_branch(proj.default_branch)
             latest = {
@@ -208,14 +215,17 @@ with open(c2_repos) as f:
                 "commit_message": default_branch.commit.commit.message,
                 "commit_date": default_branch.commit.commit.author.date,
             }
-            for b in proj.get_branches():
-                branch = proj.get_branch(b.name)
-                if branch.commit.commit.author.date > latest["commit_date"]:
-                    latest = {
-                        "branch": b.name,
-                        "commit_message": branch.commit.commit.message,
-                        "commit_date": branch.commit.commit.author.date,
-                    }
+            try:
+                for b in proj.get_branches():
+                    branch = proj.get_branch(b.name)
+                    if branch.commit.commit.author.date > latest["commit_date"]:
+                        latest = {
+                            "branch": b.name,
+                            "commit_message": branch.commit.commit.message,
+                            "commit_date": branch.commit.commit.author.date,
+                        }
+            except Exception as e:
+                print(f"Failed to get branches: {e}")
             result = requests.get(url, headers=headers)
             if result.status_code == 200:
                 repo_data_json = json.loads(result.text)
