@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/apfell/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
-      "updated_at": "2023-09-28T11:25:51Z",
+      "updated_at": "2023-10-11T07:07:12Z",
       "pushed_at": "2023-08-31T20:38:24Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
       "size": 754,
-      "stargazers_count": 42,
-      "watchers_count": 42,
+      "stargazers_count": 43,
+      "watchers_count": 43,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -97,7 +97,7 @@
       "visibility": "public",
       "forks": 15,
       "open_issues": 1,
-      "watchers": 42,
+      "watchers": 43,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -158,8 +158,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 98,
-        "uniques": 76
+        "count": 96,
+        "uniques": 69
       }
     },
     {
@@ -229,7 +229,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2023-09-28T11:21:57Z",
+      "updated_at": "2023-10-11T11:04:42Z",
       "pushed_at": "2023-08-17T14:46:04Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -237,8 +237,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20742,
-      "stargazers_count": 401,
-      "watchers_count": 401,
+      "stargazers_count": 402,
+      "watchers_count": 402,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -265,7 +265,7 @@
       "visibility": "public",
       "forks": 83,
       "open_issues": 14,
-      "watchers": 401,
+      "watchers": 402,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -326,8 +326,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 244,
-        "uniques": 139
+        "count": 249,
+        "uniques": 135
       }
     },
     {
@@ -488,8 +488,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 249,
-        "uniques": 131
+        "count": 239,
+        "uniques": 123
       }
     },
     {
@@ -650,8 +650,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 91,
-        "uniques": 62
+        "count": 88,
+        "uniques": 57
       }
     },
     {
@@ -974,7 +974,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 18,
+        "count": 21,
         "uniques": 9
       }
     },
@@ -1136,8 +1136,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
-        "uniques": 68
+        "count": 101,
+        "uniques": 63
       }
     },
     {
@@ -1304,8 +1304,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 125,
-        "uniques": 82
+        "count": 117,
+        "uniques": 76
       }
     },
     {
@@ -1466,8 +1466,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 5
+        "count": 11,
+        "uniques": 6
       }
     },
     {
@@ -1538,13 +1538,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
       "updated_at": "2023-10-10T22:01:47Z",
-      "pushed_at": "2023-10-09T20:00:43Z",
+      "pushed_at": "2023-10-11T16:24:07Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
-      "size": 14520,
+      "size": 14565,
       "stargazers_count": 78,
       "watchers_count": 78,
       "language": "Go",
@@ -1560,11 +1560,11 @@
       "disabled": false,
       "open_issues_count": 2,
       "license": {
-        "key": "bsd-3-clause",
-        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-        "spdx_id": "BSD-3-Clause",
-        "url": "https://api.github.com/licenses/bsd-3-clause",
-        "node_id": "MDc6TGljZW5zZTU="
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
       },
       "allow_forking": true,
       "is_template": false,
@@ -1628,13 +1628,13 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "master",
-        "commit_message": "fixing a missing import for pty_darwin",
-        "commit_date": 1696881640.0,
+        "commit_message": "updated egress order to be more intuitive when building",
+        "commit_date": 1697041444.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 160,
+        "count": 168,
         "uniques": 113
       }
     },
@@ -1796,8 +1796,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 63,
-        "uniques": 39
+        "count": 67,
+        "uniques": 42
       }
     },
     {
@@ -1958,8 +1958,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 9,
+        "uniques": 6
       }
     },
     {
@@ -2132,7 +2132,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 22,
+        "count": 20,
         "uniques": 13
       }
     },
@@ -2469,7 +2469,7 @@
       "category": "Agent",
       "clones": {
         "count": 12,
-        "uniques": 9
+        "uniques": 8
       }
     },
     {
@@ -2632,8 +2632,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 13,
-        "uniques": 5
+        "count": 15,
+        "uniques": 7
       }
     },
     {
@@ -2803,8 +2803,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 6
+        "count": 11,
+        "uniques": 7
       }
     },
     {
@@ -2965,7 +2965,7 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 40,
+        "count": 39,
         "uniques": 14
       }
     },
@@ -3127,8 +3127,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 19,
-        "uniques": 13
+        "count": 18,
+        "uniques": 14
       }
     },
     {
@@ -3603,8 +3603,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 397,
-        "uniques": 237
+        "count": 396,
+        "uniques": 223
       }
     },
     {
@@ -3765,8 +3765,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 95,
-        "uniques": 49
+        "count": 98,
+        "uniques": 54
       }
     },
     {
@@ -3837,13 +3837,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/dns/deployments",
       "created_at": "2021-07-21T18:30:12Z",
       "updated_at": "2023-08-30T01:15:52Z",
-      "pushed_at": "2023-01-13T02:31:51Z",
+      "pushed_at": "2023-10-11T20:18:33Z",
       "git_url": "git://github.com/MythicC2Profiles/dns.git",
       "ssh_url": "git@github.com:MythicC2Profiles/dns.git",
       "clone_url": "https://github.com/MythicC2Profiles/dns.git",
       "svn_url": "https://github.com/MythicC2Profiles/dns",
       "homepage": null,
-      "size": 110,
+      "size": 118,
       "stargazers_count": 15,
       "watchers_count": 15,
       "language": "Python",
@@ -3921,14 +3921,14 @@
       "subscribers_count": 5,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #1 from jeffmcjunkin/patch-1\n\nREADME.md: Update installation instructions",
-        "commit_date": 1673577111.0,
+        "commit_message": "update for Mythic 3.0",
+        "commit_date": 1697055510.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 67,
-        "uniques": 35
+        "count": 74,
+        "uniques": 41
       }
     },
     {
@@ -3999,7 +3999,7 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/websocket/deployments",
       "created_at": "2021-03-19T18:16:58Z",
       "updated_at": "2023-09-28T11:25:56Z",
-      "pushed_at": "2023-10-03T19:21:37Z",
+      "pushed_at": "2023-10-11T11:42:27Z",
       "git_url": "git://github.com/MythicC2Profiles/websocket.git",
       "ssh_url": "git@github.com:MythicC2Profiles/websocket.git",
       "clone_url": "https://github.com/MythicC2Profiles/websocket.git",
@@ -4083,14 +4083,14 @@
       "subscribers_count": 4,
       "latest": {
         "branch": "master",
-        "commit_message": "added support for generating redirect rules",
-        "commit_date": 1696360894.0,
+        "commit_message": "adding killdate option to websocket profile",
+        "commit_date": 1697024544.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 86,
-        "uniques": 59
+        "count": 98,
+        "uniques": 70
       }
     },
     {
@@ -4251,8 +4251,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 17,
+        "uniques": 13
       }
     },
     {
@@ -4413,8 +4413,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 55,
-        "uniques": 35
+        "count": 48,
+        "uniques": 28
       }
     },
     {
@@ -4576,7 +4576,7 @@
       "category": "C2",
       "clones": {
         "count": 43,
-        "uniques": 33
+        "uniques": 32
       }
     },
     {
@@ -4737,7 +4737,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 19,
+        "count": 20,
         "uniques": 16
       }
     },
@@ -4905,8 +4905,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -5073,8 +5073,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 20,
-        "uniques": 16
+        "count": 22,
+        "uniques": 18
       }
     }
   ]
