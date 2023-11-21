@@ -146,6 +146,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 15,
@@ -158,7 +161,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 104,
+        "count": 97,
         "uniques": 76
       }
     },
@@ -229,7 +232,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2023-11-18T07:39:29Z",
+      "updated_at": "2023-11-20T14:46:22Z",
       "pushed_at": "2023-08-17T14:46:04Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -237,8 +240,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20742,
-      "stargazers_count": 407,
-      "watchers_count": 407,
+      "stargazers_count": 408,
+      "watchers_count": 408,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -265,7 +268,7 @@
       "visibility": "public",
       "forks": 85,
       "open_issues": 14,
-      "watchers": 407,
+      "watchers": 408,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -326,8 +329,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 180,
-        "uniques": 127
+        "count": 161,
+        "uniques": 118
       }
     },
     {
@@ -488,8 +491,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 185,
-        "uniques": 125
+        "count": 181,
+        "uniques": 124
       }
     },
     {
@@ -650,8 +653,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 64,
-        "uniques": 49
+        "count": 62,
+        "uniques": 48
       }
     },
     {
@@ -812,8 +815,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 9,
+        "uniques": 9
       }
     },
     {
@@ -974,8 +977,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 8
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -1124,6 +1127,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 36,
@@ -1136,8 +1142,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
-        "uniques": 77
+        "count": 102,
+        "uniques": 75
       }
     },
     {
@@ -1304,8 +1310,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 137,
-        "uniques": 94
+        "count": 136,
+        "uniques": 96
       }
     },
     {
@@ -1466,8 +1472,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 10,
+        "uniques": 10
       }
     },
     {
@@ -1634,8 +1640,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 168,
-        "uniques": 133
+        "count": 166,
+        "uniques": 127
       }
     },
     {
@@ -1796,8 +1802,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 40,
-        "uniques": 32
+        "count": 43,
+        "uniques": 35
       }
     },
     {
@@ -1958,8 +1964,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -2132,8 +2138,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 14
+        "count": 14,
+        "uniques": 13
       }
     },
     {
@@ -2288,10 +2294,13 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 1,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #6 from MythicAgents/dev\n\nadded missing p...",
@@ -2468,8 +2477,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -2965,8 +2974,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 15,
-        "uniques": 8
+        "count": 16,
+        "uniques": 9
       }
     },
     {
@@ -3115,6 +3124,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 6,
@@ -3127,8 +3139,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 19,
-        "uniques": 13
+        "count": 18,
+        "uniques": 14
       }
     },
     {
@@ -3295,8 +3307,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -3591,10 +3603,13 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 14,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "update http server to exclusively bind to ipv4",
@@ -3603,8 +3618,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 402,
-        "uniques": 259
+        "count": 379,
+        "uniques": 256
       }
     },
     {
@@ -3765,8 +3780,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 85,
-        "uniques": 64
+        "count": 83,
+        "uniques": 63
       }
     },
     {
@@ -3918,7 +3933,7 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #5 from kaif-00z/patch-1\n\nrequests lib missing",
@@ -3927,8 +3942,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 38,
-        "uniques": 30
+        "count": 40,
+        "uniques": 31
       }
     },
     {
@@ -4089,8 +4104,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 73,
-        "uniques": 48
+        "count": 71,
+        "uniques": 47
       }
     },
     {
@@ -4239,6 +4254,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 2,
@@ -4251,8 +4269,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 15,
-        "uniques": 15
+        "count": 17,
+        "uniques": 17
       }
     },
     {
@@ -4401,6 +4419,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 3,
@@ -4413,8 +4434,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 37
+        "count": 41,
+        "uniques": 36
       }
     },
     {
@@ -4563,6 +4584,9 @@
         },
         "dependabot_security_updates": {
           "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
         }
       },
       "network_count": 4,
@@ -4575,8 +4599,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 78,
-        "uniques": 44
+        "count": 86,
+        "uniques": 48
       }
     },
     {
@@ -4737,8 +4761,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 25,
-        "uniques": 23
+        "count": 26,
+        "uniques": 24
       }
     },
     {
@@ -4905,8 +4929,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 14,
-        "uniques": 13
+        "count": 15,
+        "uniques": 14
       }
     },
     {
