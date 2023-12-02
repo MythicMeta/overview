@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2023-10-27T17:27:06Z",
-      "pushed_at": "2023-11-09T18:18:26Z",
+      "pushed_at": "2023-12-01T14:33:34Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 758,
+      "size": 759,
       "stargazers_count": 45,
       "watchers_count": 45,
       "language": "Python",
@@ -155,14 +155,14 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "master",
-        "commit_message": "added support for dynamichttp v2.0",
-        "commit_date": 1699553903.0,
+        "commit_message": "Fixed issue with chrome_decrypt_login_data command\n\nwar4utho...",
+        "commit_date": 1701441212.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 99,
-        "uniques": 70
+        "count": 106,
+        "uniques": 76
       }
     },
     {
@@ -232,7 +232,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2023-11-24T20:08:49Z",
+      "updated_at": "2023-12-01T21:47:16Z",
       "pushed_at": "2023-08-17T14:46:04Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -240,8 +240,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20742,
-      "stargazers_count": 406,
-      "watchers_count": 406,
+      "stargazers_count": 407,
+      "watchers_count": 407,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -268,7 +268,7 @@
       "visibility": "public",
       "forks": 85,
       "open_issues": 14,
-      "watchers": 406,
+      "watchers": 407,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -332,8 +332,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 178,
-        "uniques": 126
+        "count": 187,
+        "uniques": 129
       }
     },
     {
@@ -404,13 +404,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-11-29T10:16:06Z",
-      "pushed_at": "2023-11-30T15:46:48Z",
+      "pushed_at": "2023-12-01T16:42:13Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 1880,
+      "size": 1884,
       "stargazers_count": 144,
       "watchers_count": 144,
       "language": "C",
@@ -424,7 +424,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 4,
+      "open_issues_count": 5,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -432,7 +432,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 34,
-      "open_issues": 4,
+      "open_issues": 5,
       "watchers": 144,
       "default_branch": "main",
       "permissions": {
@@ -490,15 +490,15 @@
       "network_count": 34,
       "subscribers_count": 3,
       "latest": {
-        "branch": "discord-push",
-        "commit_message": "update websocket builder to properly replace host header in ...",
-        "commit_date": 1701359205.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/discord-push/agent_icons/athena_old.svg"
+        "branch": "tr41nwr3ck-patch-1",
+        "commit_message": "Update README.md\n\nupdate Readme",
+        "commit_date": 1701448922.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/tr41nwr3ck-patch-1/agent_icons/athena_old.svg"
       },
       "category": "Agent",
       "clones": {
         "count": 213,
-        "uniques": 130
+        "uniques": 131
       }
     },
     {
@@ -662,8 +662,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 71,
-        "uniques": 51
+        "count": 81,
+        "uniques": 58
       }
     },
     {
@@ -754,7 +754,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 3,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -762,7 +762,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 13,
-      "open_issues": 2,
+      "open_issues": 3,
       "watchers": 81,
       "default_branch": "main",
       "permissions": {
@@ -827,7 +827,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 15,
+        "count": 22,
         "uniques": 12
       }
     },
@@ -992,8 +992,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 15
+        "count": 21,
+        "uniques": 16
       }
     },
     {
@@ -1157,8 +1157,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 140,
-        "uniques": 92
+        "count": 147,
+        "uniques": 97
       }
     },
     {
@@ -1328,8 +1328,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 158,
-        "uniques": 106
+        "count": 159,
+        "uniques": 111
       }
     },
     {
@@ -1585,7 +1585,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": {
         "key": "other",
         "name": "Other",
@@ -1599,7 +1599,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 30,
-      "open_issues": 1,
+      "open_issues": 2,
       "watchers": 81,
       "default_branch": "master",
       "permissions": {
@@ -1664,8 +1664,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 180,
-        "uniques": 125
+        "count": 183,
+        "uniques": 128
       }
     },
     {
@@ -1835,8 +1835,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 94,
-        "uniques": 72
+        "count": 103,
+        "uniques": 77
       }
     },
     {
@@ -2177,8 +2177,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 10,
+        "uniques": 8
       }
     },
     {
@@ -2348,8 +2348,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 15,
+        "uniques": 12
       }
     },
     {
@@ -2687,7 +2687,7 @@
       "category": "Agent",
       "clones": {
         "count": 17,
-        "uniques": 13
+        "uniques": 12
       }
     },
     {
@@ -2860,8 +2860,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -3026,7 +3026,7 @@
       "category": "Wrapper",
       "clones": {
         "count": 25,
-        "uniques": 16
+        "uniques": 17
       }
     },
     {
@@ -3190,8 +3190,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 22,
-        "uniques": 18
+        "count": 25,
+        "uniques": 20
       }
     },
     {
@@ -3361,8 +3361,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 14,
+        "uniques": 13
       }
     },
     {
@@ -3672,8 +3672,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 384,
-        "uniques": 263
+        "count": 390,
+        "uniques": 267
       }
     },
     {
@@ -3837,8 +3837,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 103,
-        "uniques": 85
+        "count": 102,
+        "uniques": 84
       }
     },
     {
@@ -4002,8 +4002,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 44,
-        "uniques": 35
+        "count": 43,
+        "uniques": 34
       }
     },
     {
@@ -4167,8 +4167,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 80,
-        "uniques": 45
+        "count": 86,
+        "uniques": 49
       }
     },
     {
@@ -4332,8 +4332,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 13,
-        "uniques": 13
+        "count": 22,
+        "uniques": 14
       }
     },
     {
@@ -4497,7 +4497,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 35,
+        "count": 36,
         "uniques": 30
       }
     },
@@ -4662,7 +4662,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 81,
+        "count": 73,
         "uniques": 49
       }
     },
@@ -4827,8 +4827,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 14,
+        "uniques": 14
       }
     },
     {
@@ -4998,8 +4998,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 13,
+        "uniques": 13
       }
     },
     {
@@ -5169,8 +5169,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 25,
-        "uniques": 24
+        "count": 22,
+        "uniques": 22
       }
     }
   ]
