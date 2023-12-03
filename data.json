@@ -161,8 +161,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 106,
-        "uniques": 76
+        "count": 108,
+        "uniques": 77
       }
     },
     {
@@ -332,8 +332,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 187,
-        "uniques": 129
+        "count": 197,
+        "uniques": 133
       }
     },
     {
@@ -497,8 +497,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 213,
-        "uniques": 131
+        "count": 207,
+        "uniques": 127
       }
     },
     {
@@ -662,8 +662,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 81,
-        "uniques": 58
+        "count": 83,
+        "uniques": 59
       }
     },
     {
@@ -1157,8 +1157,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 147,
-        "uniques": 97
+        "count": 141,
+        "uniques": 93
       }
     },
     {
@@ -1328,8 +1328,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 159,
-        "uniques": 111
+        "count": 155,
+        "uniques": 107
       }
     },
     {
@@ -1664,8 +1664,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 183,
-        "uniques": 128
+        "count": 177,
+        "uniques": 123
       }
     },
     {
@@ -1736,13 +1736,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
       "updated_at": "2023-11-13T19:44:23Z",
-      "pushed_at": "2023-11-30T15:54:27Z",
+      "pushed_at": "2023-12-03T01:00:04Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
       "clone_url": "https://github.com/MythicAgents/thanatos.git",
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
-      "size": 2522,
+      "size": 2533,
       "stargazers_count": 244,
       "watchers_count": 244,
       "language": "Rust",
@@ -1756,7 +1756,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 5,
+      "open_issues_count": 4,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -1770,7 +1770,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 35,
-      "open_issues": 5,
+      "open_issues": 4,
       "watchers": 244,
       "default_branch": "main",
       "permissions": {
@@ -1829,14 +1829,14 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "rewrite",
-        "commit_message": "Rename builder to handler",
-        "commit_date": 1701359663.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/thanatos/ghcr-migration/agent_icons/thanatos.svg"
+        "commit_message": "Remove old files\n\nRemove old rewrite files. These files are ...",
+        "commit_date": 1701565165.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/thanatos/main/agent_icons/thanatos.svg"
       },
       "category": "Agent",
       "clones": {
-        "count": 103,
-        "uniques": 77
+        "count": 163,
+        "uniques": 84
       }
     },
     {
@@ -2519,8 +2519,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 13,
-        "uniques": 11
+        "count": 14,
+        "uniques": 12
       }
     },
     {
@@ -2686,8 +2686,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 12
+        "count": 16,
+        "uniques": 11
       }
     },
     {
@@ -3025,8 +3025,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 25,
-        "uniques": 17
+        "count": 24,
+        "uniques": 16
       }
     },
     {
@@ -3672,8 +3672,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 390,
-        "uniques": 267
+        "count": 387,
+        "uniques": 260
       }
     },
     {
@@ -3837,8 +3837,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 102,
-        "uniques": 84
+        "count": 100,
+        "uniques": 82
       }
     },
     {
@@ -4002,8 +4002,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 43,
-        "uniques": 34
+        "count": 42,
+        "uniques": 33
       }
     },
     {
@@ -4167,8 +4167,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 86,
-        "uniques": 49
+        "count": 88,
+        "uniques": 50
       }
     },
     {
@@ -4332,7 +4332,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 22,
+        "count": 25,
         "uniques": 14
       }
     },
@@ -4497,8 +4497,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 36,
-        "uniques": 30
+        "count": 37,
+        "uniques": 31
       }
     },
     {
@@ -4662,7 +4662,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 73,
+        "count": 69,
         "uniques": 49
       }
     },
@@ -4828,7 +4828,7 @@
       "category": "C2",
       "clones": {
         "count": 14,
-        "uniques": 14
+        "uniques": 13
       }
     },
     {
@@ -5169,8 +5169,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 22,
-        "uniques": 22
+        "count": 23,
+        "uniques": 23
       }
     }
   ]
