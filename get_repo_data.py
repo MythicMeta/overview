@@ -10,6 +10,7 @@ import requests
 import time
 from datetime import datetime
 from github import Github
+import base64
 
 MYTHIC_AGENTS_GITHUB_TOKEN = os.environ.get('MYTHIC_AGENTS_GITHUB_TOKEN')
 MYTHIC_C2_GITHUB_TOKEN = os.environ.get('MYTHIC_C2_GITHUB_TOKEN')
@@ -58,6 +59,7 @@ with open(agent_repos) as f:
                         latest["icon"] = file.download_url
             except Exception as e:
                 print(f"Failed to find agent_icons folder for {url} - {e}")
+
             try:
                 for b in proj.get_branches():
                     branch = proj.get_branch(b.name)
@@ -88,6 +90,13 @@ with open(agent_repos) as f:
                     latest["commit_message"] = latest["commit_message"][:60] + "..."
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
+                try:
+                    files = proj.get_contents("agent_capabilities.json", ref=default_branch.name)
+                    capabilities_data = json.loads(base64.b64decode(files.content))
+                    repo_data_json["metadata"] = capabilities_data
+                except Exception as e:
+                    print(f"Failed to find agent_capabilities.json file for {url} - {e}")
+                    repo_data_json["metadata"] = {}
                 repo_data_json['category'] = category
                 repo_data_json["clones"] = {
                     "count": -1,

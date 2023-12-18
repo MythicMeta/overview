@@ -121,3 +121,10 @@ th, td { white-space: nowrap; }
 }
 
 .modal-body {padding: 2px 16px;}
+
+table.dataTable tbody tr>th {
+  background-color: #cccccc !important;
+}
+table.dataTable tbody tr>td {
+  padding-left: 10px;
+}
