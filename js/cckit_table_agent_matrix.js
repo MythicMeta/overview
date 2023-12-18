@@ -1,6 +1,6 @@
 // Datatables.net table
 function bool_render (data, type, row, meta) {
-    console.log(data, type, row, meta);
+    //console.log(data, type, row, meta);
     if(data === null) {
         return '<i style="color: #801919" class="fas fa-times"></i>'
     }else if(typeof data === "string"){
@@ -206,7 +206,7 @@ $(document).ready(function() {
             newData.push(jsonData.reduce( (prev, cur) => {
                 return {...prev, [cur.name]: cur["metadata"]?.["agent_version"] || null}
             }, {name: "Agent Version", category: "Misc"}));
-            $('#cckit_table_agent_matrix').DataTable( {
+            const table = new DataTable('#cckit_table_agent_matrix', {
                 "pageLength": 100,
                 rowGroup: {
                     dataSrc: "category"
@@ -226,7 +226,20 @@ $(document).ready(function() {
                     },
                 ]
 
-            } );
+            } )
+            table.on('mouseenter', 'td', function () {
+                let colIdx = table.cell(this).index().column;
+
+                table
+                    .cells()
+                    .nodes()
+                    .each((el) => el.classList.remove('highlight'));
+
+                table
+                    .column(colIdx)
+                    .nodes()
+                    .each((el) => el.classList.add('highlight'));
+            });
         });
 
 } );

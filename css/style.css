@@ -128,3 +128,6 @@ table.dataTable tbody tr>th {
 table.dataTable tbody tr>td {
   padding-left: 10px;
 }
+td.highlight {
+  background-color: whitesmoke !important;
+}
