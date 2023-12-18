@@ -159,9 +159,10 @@
         "commit_date": 1701441212.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 77,
+        "count": 80,
         "uniques": 65
       }
     },
@@ -330,10 +331,11 @@
         "commit_date": 1692283564.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
         "count": 192,
-        "uniques": 146
+        "uniques": 142
       }
     },
     {
@@ -495,10 +497,11 @@
         "commit_date": 1702442176.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/discord-push/agent_icons/athena_old.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 211,
-        "uniques": 128
+        "count": 208,
+        "uniques": 127
       }
     },
     {
@@ -660,10 +663,11 @@
         "commit_date": 1696522989.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/freyja/master/agent_icons/freyja.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 74,
-        "uniques": 51
+        "count": 79,
+        "uniques": 53
       }
     },
     {
@@ -825,10 +829,11 @@
         "commit_date": 1661365077.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hermes/main/agent_icons/hermes.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 17
+        "count": 27,
+        "uniques": 20
       }
     },
     {
@@ -990,10 +995,11 @@
         "commit_date": 1684530347.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/leviathan/master/agent_icons/leviathan.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 13
+        "count": 21,
+        "uniques": 14
       }
     },
     {
@@ -1155,10 +1161,11 @@
         "commit_date": 1683735801.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Medusa/master/agent_icons/medusa.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 115,
-        "uniques": 82
+        "count": 113,
+        "uniques": 80
       }
     },
     {
@@ -1326,10 +1333,11 @@
         "commit_date": 1691765919.0,
         "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 137,
-        "uniques": 104
+        "count": 138,
+        "uniques": 103
       }
     },
     {
@@ -1491,10 +1499,11 @@
         "commit_date": 1634030968.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/orthrus/main/agent_icons/orthrus.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -1565,7 +1574,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
       "updated_at": "2023-11-18T03:10:57Z",
-      "pushed_at": "2023-12-09T05:18:48Z",
+      "pushed_at": "2023-12-18T23:11:54Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
@@ -1585,7 +1594,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": {
         "key": "other",
         "name": "Other",
@@ -1599,7 +1608,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 30,
-      "open_issues": 1,
+      "open_issues": 2,
       "watchers": 81,
       "default_branch": "master",
       "permissions": {
@@ -1658,14 +1667,62 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "master",
-        "commit_message": "v2.0.14\n\nFixed race condition with `shell` and `run` command...",
-        "commit_date": 1702099126.0,
+        "commit_message": "update go.sum",
+        "commit_date": 1702941112.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
+      },
+      "metadata": {
+        "os": [
+          "macOS",
+          "Linux"
+        ],
+        "languages": [
+          "go"
+        ],
+        "dynamic_loading": false,
+        "features": {
+          "mythic": [
+            "p2p",
+            "artifacts",
+            "file chunking",
+            "screenshots",
+            "keylogs",
+            "file browser",
+            "process browser",
+            "alerts",
+            "socks",
+            "rpfwd",
+            "interactive",
+            "push c2"
+          ],
+          "custom": [
+            "service_control"
+          ]
+        },
+        "payload_output": [
+          "macho",
+          "elf",
+          "dylib",
+          "so"
+        ],
+        "architectures": [
+          "x86_64",
+          "arm_64"
+        ],
+        "c2": [
+          "http",
+          "websocket",
+          "dynamichttp",
+          "poseidon_tcp"
+        ],
+        "mythic_version": "3.2",
+        "agent_version": "2.0.14",
+        "supported_wrappers": []
       },
       "category": "Agent",
       "clones": {
-        "count": 158,
-        "uniques": 122
+        "count": 156,
+        "uniques": 121
       }
     },
     {
@@ -1736,13 +1793,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
       "updated_at": "2023-12-17T18:15:35Z",
-      "pushed_at": "2023-12-16T04:40:12Z",
+      "pushed_at": "2023-12-18T22:11:33Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
       "clone_url": "https://github.com/MythicAgents/thanatos.git",
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
-      "size": 2611,
+      "size": 2622,
       "stargazers_count": 246,
       "watchers_count": 246,
       "language": "Rust",
@@ -1756,7 +1813,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 6,
+      "open_issues_count": 4,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -1770,7 +1827,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 35,
-      "open_issues": 6,
+      "open_issues": 4,
       "watchers": 246,
       "default_branch": "main",
       "permissions": {
@@ -1829,14 +1886,15 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "rewrite",
-        "commit_message": "Rename TRIPLE to TARGET",
-        "commit_date": 1702701611.0,
+        "commit_message": "Fix tests and change output file references",
+        "commit_date": 1702937491.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/thanatos/main/agent_icons/thanatos.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 154,
-        "uniques": 78
+        "count": 161,
+        "uniques": 82
       }
     },
     {
@@ -1998,10 +2056,11 @@
         "commit_date": 1684521410.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/typhon/main/agent_icons/typhon.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 13
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -2175,10 +2234,11 @@
         "commit_date": 1699632612.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/venus/dependabot/npm_and_yarn/Payload_Type/venus/agent_code/axios-1.6.0/agent_icons/venus.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 18
+        "count": 19,
+        "uniques": 16
       }
     },
     {
@@ -2346,10 +2406,11 @@
         "commit_date": 1697829801.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/zippy/main/agent_icons/zippy.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 15
+        "count": 23,
+        "uniques": 17
       }
     },
     {
@@ -2517,6 +2578,7 @@
         "commit_date": 1683728638.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Nimplant/main/agent_icons/nimplant.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
         "count": 16,
@@ -2684,10 +2746,11 @@
         "commit_date": 1643906362.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/atlas/master/agent_icons/atlas.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
         "count": 15,
-        "uniques": 12
+        "uniques": 11
       }
     },
     {
@@ -2858,10 +2921,11 @@
         "commit_date": 1687880907.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/hercules/main/agent_icons/hercules.svg"
       },
+      "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 64,
-        "uniques": 52
+        "count": 19,
+        "uniques": 15
       }
     },
     {
@@ -3023,9 +3087,10 @@
         "commit_date": 1683731910.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/service_wrapper/master/agent_icons/service_wrapper.svg"
       },
+      "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 23,
+        "count": 26,
         "uniques": 16
       }
     },
@@ -3188,10 +3253,11 @@
         "commit_date": 1683730361.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/scarecrow_wrapper/main/agent_icons/scarecrow.svg"
       },
+      "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 20,
-        "uniques": 16
+        "count": 22,
+        "uniques": 17
       }
     },
     {
@@ -3359,6 +3425,7 @@
         "commit_date": 1660331674.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/pickle_wrapper/main/agent_icons/pickle_wrapper.svg"
       },
+      "metadata": {},
       "category": "Wrapper",
       "clones": {
         "count": 13,
@@ -3505,6 +3572,7 @@
         "commit_date": 1686346926.0,
         "icon": "https://avatars.githubusercontent.com/u/80981744?v=4"
       },
+      "metadata": {},
       "category": "Meta",
       "clones": {
         "count": -1,
@@ -3672,8 +3740,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 331,
-        "uniques": 238
+        "count": 336,
+        "uniques": 234
       }
     },
     {
@@ -3837,8 +3905,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 62,
-        "uniques": 49
+        "count": 58,
+        "uniques": 45
       }
     },
     {
@@ -4002,8 +4070,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 56,
-        "uniques": 48
+        "count": 52,
+        "uniques": 44
       }
     },
     {
@@ -4167,7 +4235,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 73,
+        "count": 76,
         "uniques": 49
       }
     },
@@ -4332,8 +4400,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 22,
-        "uniques": 21
+        "count": 24,
+        "uniques": 23
       }
     },
     {
@@ -4497,8 +4565,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 34,
-        "uniques": 29
+        "count": 32,
+        "uniques": 26
       }
     },
     {
@@ -4662,8 +4730,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 63,
-        "uniques": 54
+        "count": 67,
+        "uniques": 53
       }
     },
     {
@@ -4827,8 +4895,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 28,
-        "uniques": 26
+        "count": 30,
+        "uniques": 28
       }
     },
     {
@@ -4998,8 +5066,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 19,
-        "uniques": 18
+        "count": 20,
+        "uniques": 19
       }
     },
     {
@@ -5169,8 +5237,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 23,
-        "uniques": 21
+        "count": 26,
+        "uniques": 24
       }
     }
   ]
