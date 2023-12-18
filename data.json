@@ -1164,8 +1164,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 113,
-        "uniques": 80
+        "count": 114,
+        "uniques": 81
       }
     },
     {
@@ -1574,7 +1574,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
       "updated_at": "2023-11-18T03:10:57Z",
-      "pushed_at": "2023-12-18T23:11:54Z",
+      "pushed_at": "2023-12-18T23:52:00Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
@@ -1667,8 +1667,8 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "master",
-        "commit_message": "update go.sum",
-        "commit_date": 1702941112.0,
+        "commit_message": "updating agent capabilities test json",
+        "commit_date": 1702943517.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/poseidon/master/agent_icons/poseidon.svg"
       },
       "metadata": {
@@ -1695,9 +1695,7 @@
             "interactive",
             "push c2"
           ],
-          "custom": [
-            "service_control"
-          ]
+          "custom": []
         },
         "payload_output": [
           "macho",
@@ -1893,8 +1891,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 161,
-        "uniques": 82
+        "count": 163,
+        "uniques": 83
       }
     },
     {
@@ -2237,8 +2235,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 20,
+        "uniques": 17
       }
     },
     {
@@ -3740,8 +3738,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 336,
-        "uniques": 234
+        "count": 337,
+        "uniques": 236
       }
     },
     {
@@ -3905,8 +3903,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 58,
-        "uniques": 45
+        "count": 59,
+        "uniques": 46
       }
     },
     {
@@ -4070,8 +4068,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 52,
-        "uniques": 44
+        "count": 53,
+        "uniques": 45
       }
     },
     {
@@ -4895,8 +4893,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 30,
-        "uniques": 28
+        "count": 31,
+        "uniques": 29
       }
     },
     {
@@ -5066,8 +5064,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 20,
-        "uniques": 19
+        "count": 21,
+        "uniques": 20
       }
     },
     {
