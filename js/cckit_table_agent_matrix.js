@@ -112,7 +112,7 @@ $(document).ready(function() {
                 }
             }
             let newData = [];
-            metadata.os.forEach( (x) => {
+            metadata.os.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["os"]){
                         if(cur["metadata"]["os"].includes(x)){
@@ -120,9 +120,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Operating System"}));
+                }, {name: x, category: "02. Operating Systems"}));
             })
-            metadata.languages.forEach( (x) => {
+            metadata.languages.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["languages"]){
                         if(cur["metadata"]["languages"].includes(x)){
@@ -130,9 +130,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Agent Languages"}));
+                }, {name: x, category: "09. Agent Languages"}));
             })
-            metadata.c2.forEach( (x) => {
+            metadata.c2.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["c2"]){
                         if(cur["metadata"]["c2"].includes(x)){
@@ -140,9 +140,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Supported C2"}));
+                }, {name: x, category: "03. Supported C2 Profiles"}));
             })
-            metadata.payload_output.forEach( (x) => {
+            metadata.payload_output.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["payload_output"]){
                         if(cur["metadata"]["payload_output"].includes(x)){
@@ -150,9 +150,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Payload Output Types"}));
+                }, {name: x, category: "04. Payload Output Formats"}));
             })
-            metadata.architectures.forEach( (x) => {
+            metadata.architectures.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["architectures"]){
                         if(cur["metadata"]["architectures"].includes(x)){
@@ -160,9 +160,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Architectures Supported"}));
+                }, {name: x, category: "05. Architectures Supported"}));
             })
-            metadata.supported_wrappers.forEach( (x) => {
+            metadata.supported_wrappers.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["supported_wrappers"]){
                         if(cur["metadata"]["supported_wrappers"].includes(x)){
@@ -170,9 +170,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Supported Wrappers"}));
+                }, {name: x, category: "06. Supported Wrapper Payload Types"}));
             })
-            metadata.features.mythic.forEach( (x) => {
+            metadata.features.mythic.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["features"]){
                         if(cur["metadata"]["features"]["mythic"]){
@@ -182,9 +182,9 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Mythic Supported Features"}));
+                }, {name: x, category: "07. Mythic Supported Features"}));
             })
-            metadata.features.custom.forEach( (x) => {
+            metadata.features.custom.sort().forEach( (x) => {
                 newData.push(jsonData.reduce( (prev, cur) => {
                     if(cur["metadata"]["features"]){
                         if(cur["metadata"]["features"]["custom"]){
@@ -194,17 +194,14 @@ $(document).ready(function() {
                         }
                     }
                     return {...prev, [cur.name]: null}
-                }, {name: x, category: "Custom Supported Features"}));
+                }, {name: x, category: "08. Custom Features"}));
             })
             newData.push(jsonData.reduce( (prev, cur) => {
-                return {...prev, [cur.name]: cur["metadata"]?.["dynamic_loading"] || null}
-            }, {name: "Dynamic Loading", category: "Misc"}));
-            newData.push(jsonData.reduce( (prev, cur) => {
                 return {...prev, [cur.name]: cur["metadata"]?.["mythic_version"] || null}
-            }, {name: "Mythic Version", category: "Misc"}));
+            }, {name: "Mythic Version", category: "01. Version Information"}));
             newData.push(jsonData.reduce( (prev, cur) => {
                 return {...prev, [cur.name]: cur["metadata"]?.["agent_version"] || null}
-            }, {name: "Agent Version", category: "Misc"}));
+            }, {name: "Agent Version", category: "01. Version Information"}));
             const table = new DataTable('#cckit_table_agent_matrix', {
                 "pageLength": 100,
                 rowGroup: {
