@@ -2,7 +2,7 @@
 function bool_render (data, type, row, meta) {
     //console.log(data, type, row, meta);
     if(data === null) {
-        return '<i style="color: #801919" class="fas fa-times"></i>'
+        return '<i style="color: #bebebe" class="fas fa-times"></i>'
     }else if(typeof data === "string"){
         return data
     }else{
