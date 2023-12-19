@@ -1,6 +1,5 @@
 // Datatables.net table
 function bool_render (data, type, row, meta) {
-    //console.log(data, type, row, meta);
     if(data === null) {
         return '<i style="color: #bebebe" class="fas fa-times"></i>'
     }else if(typeof data === "string"){
@@ -224,8 +223,26 @@ $(document).ready(function() {
                         targets: [ "_all"],
                         className: 'border-top breakwords'
                     },
-                ]
-
+                ],
+                headerCallback: function( thead, data, start, end, display ) {
+                    //console.log(thead, data, start, end, display);
+                    for(let i = 1; i < end-start; i++){
+                        let th = $(thead).find('th').eq(i);
+                        let img = th.find('img')[0];
+                        if(img){
+                            if(img.src){
+                                let pieces = img.src.split("/");
+                                let agent = pieces[pieces.length-1].split(".");
+                                if(agent.length === 2 && agent[1] === "svg"){
+                                    th.attr("data-toggle", "tooltip");
+                                    th.attr("data-placement", "top");
+                                    th.attr("title", agent[0]);
+                                }
+                            }
+                        }
+                    }
+                    $('[data-toggle="tooltip"]').tooltip()
+                }
             } )
             table.on('mouseenter', 'td', function () {
                 let colIdx = table.cell(this).index().column;
