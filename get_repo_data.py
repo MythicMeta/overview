@@ -55,7 +55,7 @@ with open(agent_repos) as f:
             try:
                 files = proj.get_contents("agent_icons", ref=default_branch.name)
                 for file in files:
-                    if file.name == f"{proj.name}.svg":
+                    if file.name.lower() == f"{proj.name}.svg".lower():
                         latest["icon"] = file.download_url
             except Exception as e:
                 print(f"Failed to find agent_icons folder for {url} - {e}")
@@ -73,7 +73,7 @@ with open(agent_repos) as f:
                         try:
                             files = proj.get_contents("agent_icons", ref=b.name)
                             for file in files:
-                                if file.name == f"{proj.name}.svg":
+                                if file.name.lower() == f"{proj.name}.svg".lower():
                                     latest["icon"] = file.download_url
                         except Exception as e:
                             print(f"Failed to find agent_icons folder for {url} - {e}")
