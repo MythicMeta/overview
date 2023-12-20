@@ -3,11 +3,12 @@ function bool_render (data, type, row, meta) {
     if(data === null) {
         return '<i style="color: #bebebe" class="fas fa-times"></i>'
     }else if(typeof data === "string"){
-        return data
+        return textRenderer(data);
     }else{
         return '<i style="color:green" class="fas fa-check"></i>'
     }
 }
+var textRenderer = $.fn.dataTable.render.text().display;
 $(document).ready(function() {
     fetch('./data.json')
         .then((response) => response.json())
