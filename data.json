@@ -197,8 +197,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 83,
-        "uniques": 68
+        "count": 85,
+        "uniques": 67
       }
     },
     {
@@ -268,7 +268,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2023-12-13T04:29:57Z",
+      "updated_at": "2023-12-20T09:58:20Z",
       "pushed_at": "2023-08-17T14:46:04Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -276,8 +276,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20742,
-      "stargazers_count": 407,
-      "watchers_count": 407,
+      "stargazers_count": 409,
+      "watchers_count": 409,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -304,7 +304,7 @@
       "visibility": "public",
       "forks": 85,
       "open_issues": 14,
-      "watchers": 407,
+      "watchers": 409,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -369,8 +369,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 196,
-        "uniques": 146
+        "count": 193,
+        "uniques": 138
       }
     },
     {
@@ -441,13 +441,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-12-14T03:36:09Z",
-      "pushed_at": "2023-12-13T04:36:18Z",
+      "pushed_at": "2023-12-20T22:30:23Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 1912,
+      "size": 2058,
       "stargazers_count": 145,
       "watchers_count": 145,
       "language": "C",
@@ -527,16 +527,16 @@
       "network_count": 34,
       "subscribers_count": 3,
       "latest": {
-        "branch": "discord-push",
-        "commit_message": "update plugin template",
-        "commit_date": 1702442176.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/discord-push/agent_icons/athena.svg"
+        "branch": "rewrite",
+        "commit_message": "Started addition of unit tests",
+        "commit_date": 1703111421.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/rewrite/agent_icons/athena.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 198,
-        "uniques": 119
+        "count": 188,
+        "uniques": 114
       }
     },
     {
@@ -701,8 +701,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 75,
-        "uniques": 52
+        "count": 65,
+        "uniques": 46
       }
     },
     {
@@ -1033,8 +1033,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 14
+        "count": 19,
+        "uniques": 12
       }
     },
     {
@@ -1199,8 +1199,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 109,
-        "uniques": 77
+        "count": 91,
+        "uniques": 64
       }
     },
     {
@@ -1271,13 +1271,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/merlin/deployments",
       "created_at": "2021-01-25T12:36:46Z",
       "updated_at": "2023-12-15T23:37:21Z",
-      "pushed_at": "2023-08-11T15:02:23Z",
+      "pushed_at": "2023-12-20T13:33:46Z",
       "git_url": "git://github.com/MythicAgents/merlin.git",
       "ssh_url": "git@github.com:MythicAgents/merlin.git",
       "clone_url": "https://github.com/MythicAgents/merlin.git",
       "svn_url": "https://github.com/MythicAgents/merlin",
       "homepage": null,
-      "size": 603,
+      "size": 606,
       "stargazers_count": 59,
       "watchers_count": 59,
       "language": "Go",
@@ -1364,15 +1364,15 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "main",
-        "commit_message": "Fixes #12 - Unset `LD_PRELOAD` at the start of shared-object...",
-        "commit_date": 1691765919.0,
-        "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
+        "commit_message": "Upgraded fatih/color package",
+        "commit_date": 1703079157.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/merlin/main/agent_icons/merlin.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 134,
-        "uniques": 100
+        "count": 155,
+        "uniques": 103
       }
     },
     {
@@ -1537,8 +1537,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 15
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -1757,8 +1757,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 168,
-        "uniques": 130
+        "count": 169,
+        "uniques": 129
       }
     },
     {
@@ -1929,7 +1929,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 153,
+        "count": 151,
         "uniques": 78
       }
     },
@@ -2095,8 +2095,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 14,
+        "uniques": 12
       }
     },
     {
@@ -2273,8 +2273,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 16
+        "count": 17,
+        "uniques": 14
       }
     },
     {
@@ -2445,7 +2445,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 19,
+        "count": 21,
         "uniques": 14
       }
     },
@@ -2516,7 +2516,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Nimplant/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Nimplant/deployments",
       "created_at": "2020-11-20T09:15:53Z",
-      "updated_at": "2023-11-24T20:09:08Z",
+      "updated_at": "2023-12-20T03:57:56Z",
       "pushed_at": "2023-05-10T14:23:58Z",
       "git_url": "git://github.com/MythicAgents/Nimplant.git",
       "ssh_url": "git@github.com:MythicAgents/Nimplant.git",
@@ -2524,8 +2524,8 @@
       "svn_url": "https://github.com/MythicAgents/Nimplant",
       "homepage": "",
       "size": 4090,
-      "stargazers_count": 164,
-      "watchers_count": 164,
+      "stargazers_count": 165,
+      "watchers_count": 165,
       "language": "Nim",
       "has_issues": true,
       "has_projects": true,
@@ -2552,7 +2552,7 @@
       "visibility": "public",
       "forks": 24,
       "open_issues": 5,
-      "watchers": 164,
+      "watchers": 165,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -2617,8 +2617,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 13
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -2785,7 +2785,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 15,
+        "count": 16,
         "uniques": 11
       }
     },
@@ -2960,8 +2960,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 18
+        "count": 21,
+        "uniques": 17
       }
     },
     {
@@ -3198,7 +3198,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/scarecrow_wrapper/deployments",
       "created_at": "2021-07-31T16:05:13Z",
       "updated_at": "2023-07-04T15:45:09Z",
-      "pushed_at": "2023-05-10T14:52:41Z",
+      "pushed_at": "2023-12-20T14:10:20Z",
       "git_url": "git://github.com/MythicAgents/scarecrow_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/scarecrow_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/scarecrow_wrapper.git",
@@ -3284,10 +3284,10 @@
       "network_count": 6,
       "subscribers_count": 4,
       "latest": {
-        "branch": "main",
-        "commit_message": "Merge pull request #6 from MythicAgents/v3.0.0\n\nV3.0.0",
-        "commit_date": 1683730361.0,
-        "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
+        "branch": "v3.0.0",
+        "commit_message": "updating agent_icon to match the agent name",
+        "commit_date": 1703081417.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/scarecrow_wrapper/v3.0.0/agent_icons/scarecrow_wrapper.svg"
       },
       "metadata": {},
       "category": "Wrapper",
@@ -3464,8 +3464,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 13,
+        "uniques": 10
       }
     },
     {
@@ -3776,8 +3776,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 332,
-        "uniques": 230
+        "count": 346,
+        "uniques": 222
       }
     },
     {
@@ -3941,8 +3941,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 54,
-        "uniques": 40
+        "count": 49,
+        "uniques": 35
       }
     },
     {
@@ -4106,8 +4106,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 53,
-        "uniques": 44
+        "count": 50,
+        "uniques": 43
       }
     },
     {
@@ -4271,8 +4271,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 82,
-        "uniques": 53
+        "count": 85,
+        "uniques": 58
       }
     },
     {
@@ -4436,8 +4436,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 25,
-        "uniques": 24
+        "count": 26,
+        "uniques": 25
       }
     },
     {
@@ -4931,7 +4931,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 31,
+        "count": 32,
         "uniques": 29
       }
     },
@@ -5102,8 +5102,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 24,
-        "uniques": 23
+        "count": 25,
+        "uniques": 24
       }
     },
     {
@@ -5273,8 +5273,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 31,
-        "uniques": 28
+        "count": 33,
+        "uniques": 29
       }
     }
   ]
