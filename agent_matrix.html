@@ -9,16 +9,17 @@
     <link href="css/style.css" rel="stylesheet">
 
     <title>Mythic Community Feature Matrix</title>
-
 </head>
 
 <body>
-        <div class="container" id="cckitContent">
-
+<div style="display: flex; flex-direction: column; height: 100%">
+        <div class="container" id="cckitContent" >
             <h3>Mythic Community Agent Feature Matrix</h3>
-
+            <p>
+                For agent overview and update frequency, check out the <a href="/overview">Overview Matrix</a>.
+                Mythic feature descriptions and documentation is at the bottom of the page.
+            </p>
             <hr/>
-
             <table id="cckit_table_agent_matrix" class="display border-top table-hover table my_table_layout" >
                 <thead class="thead-light">
                 </thead>
@@ -27,9 +28,36 @@
 
                 </tfoot>
             </table>
-
         </div>
-
+    <div style="overflow: auto">
+        <p><b>Mythic Feature Descriptions:</b></p>
+        <ul>
+            <li><b>adjust commands</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/commands">Docs</a> - The agent can load/unload commands dynamically and report back these adjustments to Mythic to properly update Mythic's tab-complete functionality</li>
+            <li><b>alerts</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/alerts">Docs</a> - The agent can report back alerts or events into the operational event log</li>
+            <li><b>artifacts</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/artifacts">Docs</a> - The agent reports back artifact data (ex: spawned process PIDs or files touched) available in the artifacts tab.</li>
+            <li><b>browser scripts</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/browser-scripting">Docs</a> - The agent leverages browser scripting for commands to turn text results into buttons, tables, and more.</li>
+            <li><b>credentials</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/credentials">Docs</a> - The agent reports back data that is registered within Mythic's credential store</li>
+            <li><b>docker</b>: The agent is deployable via Docker and mythic-cli</li>
+            <li><b>dynamic loading</b>: The agent supports dynamically loading of new commands at run time</li>
+            <li><b>file browser</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/file-browser">Docs</a> - The agent reports back file browser data to populate the file browser on the main active callbacks page</li>
+            <li><b>file chunking</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/download">Download</a>, <a href="https://docs.mythic-c2.net/customizing/hooking-features/action-upload">Upload</a> - The agent uses file chunking when download/uploading files.</li>
+            <li><b>interactive</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/interactive-tasking">Docs</a> - The agent supports follow-on interactive tasking</li>
+            <li><b>keylogging</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/keylog">Docs</a> - The agent reports back keylogging data that's available within Mythic's keylog store</li>
+            <li><b>opsec checks</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/opsec-checking">Docs</a> - The agent leverages dynamic opsec checks during task creation to potentially block non-opsec safe commands</li>
+            <li><b>p2p</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/linking-agents">Docs</a> - The agent can link via a peer-to-peer mechanism to another agent</li>
+            <li><b>process browser</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/process_list">Docs</a> - The agent can report back process information to populate the process browser on the main active callbacks page.</li>
+            <li><b>process responses</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/process-response">Docs</a> - The agent does additional processing directly on the output of some tasks before registering that output with the Mythic server</li>
+            <li><b>push c2</b>: The agent supports Push style C2</li>
+            <li><b>rpfwd</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/rpfwd">Docs</a> - The agent supports rpfwd (reverse port forward) functionality</li>
+            <li><b>screenshots</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/screenshots">Docs</a> - The agent reports back screenshots that are saved in the screenshots search page</li>
+            <li><b>socks</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/socks">Docs</a> - The agent supports SOCKS functionality</li>
+            <li><b>subtasks</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/sub-tasking-task-callbacks">Docs</a> - The agent uses subtasking to automatically issue follow-on or pre-flight commands</li>
+            <li><b>task callbacks</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/sub-tasking-task-callbacks">Docs</a> - The agent uses task callbacks to automatically perform additional processing once a task completes</li>
+            <li><b>tokens</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/tokens">Docs</a> - The agent reports back token information into Mythic's Token store and can leverage tokens as part of tasking</li>
+            <li><b>translation containers</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/translation-containers">Docs</a> - The agent uses translation containers to add more customization to the agent's C2 messages and/or encryption</li>
+        </ul>
+    </div>
+</div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
@@ -40,5 +68,4 @@
     <script src="js/cckit_table_agent_matrix.js?cb=20221103"></script>
 
 </body>
-Forked from Cobalt Strike's Community Kit (<a href="https://cobalt-strike.github.io/community_kit/" target="_blank">Community Kit</a>)
 </html>

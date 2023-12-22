@@ -1,3 +1,4 @@
+var textRenderer = $.fn.dataTable.render.text().display;
 // Datatables.net table
 function bool_render (data, type, row, meta) {
     if(data === null) {
@@ -8,7 +9,22 @@ function bool_render (data, type, row, meta) {
         return '<i style="color:green" class="fas fa-check"></i>'
     }
 }
-var textRenderer = $.fn.dataTable.render.text().display;
+function feature_render(data, type, row, meta){
+    //console.log("data", data);
+    //console.log("type", type);
+    //console.log("row", row);
+    //console.log("meta", meta);
+    if(type === "display"){
+        if(row["category"] === "07. Mythic Supported Features"){
+            switch(data){
+                default: {
+                    return textRenderer(data);
+                }
+            }
+        }
+    }
+    return textRenderer(data);
+}
 $(document).ready(function() {
     fetch('./data.json')
         .then((response) => response.json())
@@ -25,11 +41,11 @@ $(document).ready(function() {
             // columns are each agent
             let columns = [
                 {
-                    data: "category", title: "category", visible: false, orderable: false
+                    data: "category", title: "category", visible: false, orderable: false,
                 },
                 {   data: "name", title: "",
                     orderable: false,
-                    render: $.fn.dataTable.render.text()
+                    render: feature_render
                 },
             ];
             // rows are the data types
@@ -213,13 +229,13 @@ $(document).ready(function() {
                 },
                 fixedHeader: true,
                 scrollX: true,
-                scrollY: 500,
+                scrollY: '50vh',
                 data: newData,
                 columns: columns,
                 columnDefs: [
                     {   // Left justify headers
                         targets: [ "_all"],
-                        className: 'border-top breakwords'
+                        className: 'border-top'
                     },
                 ],
                 headerCallback: function( thead, data, start, end, display ) {
