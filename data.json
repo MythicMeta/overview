@@ -204,7 +204,7 @@
       "category": "Agent",
       "clones": {
         "count": 87,
-        "uniques": 69
+        "uniques": 67
       }
     },
     {
@@ -275,7 +275,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
       "updated_at": "2023-12-20T09:58:20Z",
-      "pushed_at": "2023-08-17T14:46:04Z",
+      "pushed_at": "2023-12-27T14:21:55Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
@@ -368,15 +368,65 @@
       "subscribers_count": 18,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #124 from jackullrich/master\n\nFixing the ...",
-        "commit_date": 1692283564.0,
+        "commit_message": "adding agent capabilities json file",
+        "commit_date": 1703686912.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
       },
-      "metadata": {},
+      "metadata": {
+        "os": [
+          "Windows"
+        ],
+        "languages": [
+          ".NET Framework"
+        ],
+        "features": {
+          "mythic": [
+            "artifacts",
+            "browser scripts",
+            "docker",
+            "file chunking",
+            "file browser",
+            "keylogging",
+            "p2p",
+            "process browser",
+            "screenshots",
+            "socks"
+          ],
+          "custom": [
+            "key exchange",
+            "killdate",
+            "execute pe",
+            "execute assembly",
+            "inline assembly",
+            "mimikatz",
+            "powerpick",
+            "donut",
+            "sRDI"
+          ]
+        },
+        "payload_output": [
+          "exe",
+          "shellcode"
+        ],
+        "architectures": [
+          "x86_64"
+        ],
+        "c2": [
+          "http",
+          "smb",
+          "tcp"
+        ],
+        "mythic_version": "3.2",
+        "agent_version": "2.2.4",
+        "supported_wrappers": [
+          "service_wrapper",
+          "scarecrow_wrapper"
+        ]
+      },
       "category": "Agent",
       "clones": {
-        "count": 167,
-        "uniques": 130
+        "count": 169,
+        "uniques": 129
       }
     },
     {
@@ -541,8 +591,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 225,
-        "uniques": 112
+        "count": 221,
+        "uniques": 108
       }
     },
     {
@@ -707,8 +757,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 56,
-        "uniques": 43
+        "count": 60,
+        "uniques": 45
       }
     },
     {
@@ -873,8 +923,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 24,
-        "uniques": 21
+        "count": 25,
+        "uniques": 22
       }
     },
     {
@@ -1039,8 +1089,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 13,
-        "uniques": 11
+        "count": 17,
+        "uniques": 12
       }
     },
     {
@@ -1205,8 +1255,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 74,
-        "uniques": 55
+        "count": 78,
+        "uniques": 56
       }
     },
     {
@@ -1377,8 +1427,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 136,
-        "uniques": 93
+        "count": 134,
+        "uniques": 89
       }
     },
     {
@@ -1766,8 +1816,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 147,
-        "uniques": 113
+        "count": 155,
+        "uniques": 115
       }
     },
     {
@@ -1938,8 +1988,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 117,
-        "uniques": 71
+        "count": 107,
+        "uniques": 68
       }
     },
     {
@@ -2454,7 +2504,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
+        "count": 21,
         "uniques": 15
       }
     },
@@ -2794,8 +2844,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 20,
+        "uniques": 14
       }
     },
     {
@@ -3041,7 +3091,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/deployments",
       "created_at": "2021-03-16T18:51:15Z",
       "updated_at": "2023-07-03T19:53:04Z",
-      "pushed_at": "2023-05-10T15:18:32Z",
+      "pushed_at": "2023-12-27T14:25:28Z",
       "git_url": "git://github.com/MythicAgents/service_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/service_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/service_wrapper.git",
@@ -3128,15 +3178,38 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "adding icon back for overview page",
-        "commit_date": 1683731910.0,
+        "commit_message": "adding agent capabilities json file",
+        "commit_date": 1703687126.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/service_wrapper/master/agent_icons/service_wrapper.svg"
       },
-      "metadata": {},
+      "metadata": {
+        "os": [
+          "Windows"
+        ],
+        "languages": [
+          ".NET Framework"
+        ],
+        "features": {
+          "mythic": [
+            "wrapper"
+          ],
+          "custom": []
+        },
+        "payload_output": [
+          "service exe"
+        ],
+        "architectures": [
+          "x86_64"
+        ],
+        "c2": [],
+        "mythic_version": "3.2",
+        "agent_version": "",
+        "supported_wrappers": []
+      },
       "category": "Wrapper",
       "clones": {
-        "count": 16,
-        "uniques": 12
+        "count": 23,
+        "uniques": 13
       }
     },
     {
@@ -3301,8 +3374,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 20,
-        "uniques": 19
+        "count": 26,
+        "uniques": 21
       }
     },
     {
@@ -3785,8 +3858,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 305,
-        "uniques": 194
+        "count": 311,
+        "uniques": 188
       }
     },
     {
@@ -3950,8 +4023,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 40,
-        "uniques": 32
+        "count": 50,
+        "uniques": 35
       }
     },
     {
@@ -4115,8 +4188,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 36,
-        "uniques": 34
+        "count": 39,
+        "uniques": 35
       }
     },
     {
@@ -4280,8 +4353,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 68,
-        "uniques": 49
+        "count": 76,
+        "uniques": 48
       }
     },
     {
@@ -4610,8 +4683,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 23,
-        "uniques": 20
+        "count": 27,
+        "uniques": 22
       }
     },
     {
@@ -4775,7 +4848,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 56,
+        "count": 58,
         "uniques": 44
       }
     },
@@ -5111,8 +5184,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 19,
-        "uniques": 19
+        "count": 21,
+        "uniques": 21
       }
     },
     {
@@ -5282,8 +5355,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 31,
-        "uniques": 28
+        "count": 32,
+        "uniques": 29
       }
     }
   ]
