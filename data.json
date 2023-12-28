@@ -203,8 +203,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 87,
-        "uniques": 67
+        "count": 90,
+        "uniques": 70
       }
     },
     {
@@ -275,13 +275,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
       "updated_at": "2023-12-20T09:58:20Z",
-      "pushed_at": "2023-12-27T14:21:55Z",
+      "pushed_at": "2023-12-27T15:35:38Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
-      "size": 20742,
+      "size": 20744,
       "stargazers_count": 409,
       "watchers_count": 409,
       "language": "C#",
@@ -368,8 +368,8 @@
       "subscribers_count": 18,
       "latest": {
         "branch": "master",
-        "commit_message": "adding agent capabilities json file",
-        "commit_date": 1703686912.0,
+        "commit_message": "updating agent capabilities",
+        "commit_date": 1703691336.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
       },
       "metadata": {
@@ -384,6 +384,7 @@
             "artifacts",
             "browser scripts",
             "docker",
+            "dynamic loading",
             "file chunking",
             "file browser",
             "keylogging",
@@ -425,8 +426,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 169,
-        "uniques": 129
+        "count": 173,
+        "uniques": 132
       }
     },
     {
@@ -591,8 +592,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 221,
-        "uniques": 108
+        "count": 226,
+        "uniques": 110
       }
     },
     {
@@ -757,8 +758,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 60,
-        "uniques": 45
+        "count": 58,
+        "uniques": 43
       }
     },
     {
@@ -1255,8 +1256,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 78,
-        "uniques": 56
+        "count": 75,
+        "uniques": 53
       }
     },
     {
@@ -1327,13 +1328,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/merlin/deployments",
       "created_at": "2021-01-25T12:36:46Z",
       "updated_at": "2023-12-21T13:15:55Z",
-      "pushed_at": "2023-12-20T13:33:46Z",
+      "pushed_at": "2023-12-27T20:28:38Z",
       "git_url": "git://github.com/MythicAgents/merlin.git",
       "ssh_url": "git@github.com:MythicAgents/merlin.git",
       "clone_url": "https://github.com/MythicAgents/merlin.git",
       "svn_url": "https://github.com/MythicAgents/merlin",
       "homepage": null,
-      "size": 606,
+      "size": 746,
       "stargazers_count": 60,
       "watchers_count": 60,
       "language": "Go",
@@ -1420,15 +1421,72 @@
       "subscribers_count": 7,
       "latest": {
         "branch": "main",
-        "commit_message": "Upgraded fatih/color package",
-        "commit_date": 1703079157.0,
+        "commit_message": "Updated agent capabilities",
+        "commit_date": 1703708888.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/merlin/main/agent_icons/merlin.svg"
       },
-      "metadata": {},
+      "metadata": {
+        "mythic_version": "3.6",
+        "agent_version": "2.2.0",
+        "os": [
+          "FreeBSD",
+          "macOS",
+          "Linux",
+          "OpenBSD",
+          "Solaris",
+          "Windows"
+        ],
+        "c2": [
+          "http"
+        ],
+        "payload_output": [
+          "dll",
+          "dylib",
+          "elf",
+          "exe",
+          "macho",
+          "shellcode",
+          "so"
+        ],
+        "architectures": [
+          "x86",
+          "x86_64",
+          "arm",
+          "arm_64",
+          "mips",
+          "mips64"
+        ],
+        "supported_wrappers": [
+          "service_wrapper",
+          "scarecrow_wrapper"
+        ],
+        "features": {
+          "mythic": [
+            "artifacts",
+            "alerts",
+            "docker",
+            "socks"
+          ],
+          "custom": [
+            "donut",
+            "execute assembly",
+            "execute pe",
+            "inline assembly",
+            "key exchange",
+            "killdate",
+            "mimikatz",
+            "sRDI",
+            "SharpGen"
+          ]
+        },
+        "languages": [
+          "go"
+        ]
+      },
       "category": "Agent",
       "clones": {
-        "count": 134,
-        "uniques": 89
+        "count": 179,
+        "uniques": 92
       }
     },
     {
@@ -1816,8 +1874,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 155,
-        "uniques": 115
+        "count": 161,
+        "uniques": 112
       }
     },
     {
@@ -1988,8 +2046,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 107,
-        "uniques": 68
+        "count": 103,
+        "uniques": 65
       }
     },
     {
@@ -2332,8 +2390,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 17
+        "count": 17,
+        "uniques": 16
       }
     },
     {
@@ -2504,8 +2562,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 15
+        "count": 20,
+        "uniques": 14
       }
     },
     {
@@ -2748,13 +2806,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/atlas/deployments",
       "created_at": "2021-03-16T18:49:31Z",
       "updated_at": "2022-11-09T18:11:34Z",
-      "pushed_at": "2022-02-03T16:39:22Z",
+      "pushed_at": "2023-12-27T15:34:32Z",
       "git_url": "git://github.com/MythicAgents/atlas.git",
       "ssh_url": "git@github.com:MythicAgents/atlas.git",
       "clone_url": "https://github.com/MythicAgents/atlas.git",
       "svn_url": "https://github.com/MythicAgents/atlas",
       "homepage": "",
-      "size": 367,
+      "size": 368,
       "stargazers_count": 14,
       "watchers_count": 14,
       "language": "C#",
@@ -2837,15 +2895,47 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "Merge pull request #8 from MythicAgents/v2.3-testing\n\nV2.3 t...",
-        "commit_date": 1643906362.0,
+        "commit_message": "adding agent capabilities json",
+        "commit_date": 1703691270.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/atlas/master/agent_icons/atlas.svg"
       },
-      "metadata": {},
+      "metadata": {
+        "os": [
+          "Windows"
+        ],
+        "languages": [
+          ".NET Framework"
+        ],
+        "features": {
+          "mythic": [
+            "docker",
+            "file chunking",
+            "file browser"
+          ],
+          "custom": [
+            "key exchange",
+            "killdate"
+          ]
+        },
+        "payload_output": [
+          "exe"
+        ],
+        "architectures": [
+          "x86_64"
+        ],
+        "c2": [
+          "http"
+        ],
+        "mythic_version": "2.3",
+        "agent_version": "",
+        "supported_wrappers": [
+          "service_wrapper"
+        ]
+      },
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 14
+        "count": 25,
+        "uniques": 19
       }
     },
     {
@@ -3208,8 +3298,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 23,
-        "uniques": 13
+        "count": 28,
+        "uniques": 18
       }
     },
     {
@@ -3858,8 +3948,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 311,
-        "uniques": 188
+        "count": 314,
+        "uniques": 186
       }
     },
     {
@@ -4188,8 +4278,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 39,
-        "uniques": 35
+        "count": 37,
+        "uniques": 33
       }
     },
     {
@@ -4353,8 +4443,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 76,
-        "uniques": 48
+        "count": 75,
+        "uniques": 47
       }
     },
     {
@@ -4518,8 +4608,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 19,
-        "uniques": 19
+        "count": 18,
+        "uniques": 18
       }
     },
     {
@@ -4683,8 +4773,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 27,
-        "uniques": 22
+        "count": 26,
+        "uniques": 21
       }
     },
     {
@@ -4848,8 +4938,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 58,
-        "uniques": 44
+        "count": 55,
+        "uniques": 41
       }
     },
     {
@@ -5013,8 +5103,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 28,
-        "uniques": 25
+        "count": 27,
+        "uniques": 24
       }
     },
     {
