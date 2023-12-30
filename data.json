@@ -67,7 +67,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/apfell/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
-      "updated_at": "2023-12-13T18:42:35Z",
+      "updated_at": "2023-12-29T16:42:40Z",
       "pushed_at": "2023-12-22T14:45:08Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
@@ -75,8 +75,8 @@
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
       "size": 761,
-      "stargazers_count": 46,
-      "watchers_count": 46,
+      "stargazers_count": 47,
+      "watchers_count": 47,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -97,7 +97,7 @@
       "visibility": "public",
       "forks": 15,
       "open_issues": 1,
-      "watchers": 46,
+      "watchers": 47,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -203,8 +203,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 93,
-        "uniques": 73
+        "count": 92,
+        "uniques": 70
       }
     },
     {
@@ -426,8 +426,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 178,
-        "uniques": 131
+        "count": 191,
+        "uniques": 140
       }
     },
     {
@@ -498,13 +498,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2023-12-28T23:48:21Z",
-      "pushed_at": "2023-12-29T00:12:16Z",
+      "pushed_at": "2023-12-29T04:48:36Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 2190,
+      "size": 2201,
       "stargazers_count": 148,
       "watchers_count": 148,
       "language": "C",
@@ -585,15 +585,15 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "rewrite",
-        "commit_message": "make shell great again",
-        "commit_date": 1703808733.0,
+        "commit_message": "init commit",
+        "commit_date": 1703825313.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/rewrite/agent_icons/athena.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 220,
-        "uniques": 111
+        "count": 209,
+        "uniques": 102
       }
     },
     {
@@ -758,8 +758,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 54,
-        "uniques": 39
+        "count": 52,
+        "uniques": 38
       }
     },
     {
@@ -924,8 +924,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 20
+        "count": 20,
+        "uniques": 18
       }
     },
     {
@@ -1090,8 +1090,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 12
+        "count": 15,
+        "uniques": 11
       }
     },
     {
@@ -1256,8 +1256,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 84,
-        "uniques": 59
+        "count": 77,
+        "uniques": 52
       }
     },
     {
@@ -1485,8 +1485,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 183,
-        "uniques": 92
+        "count": 177,
+        "uniques": 88
       }
     },
     {
@@ -1651,8 +1651,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 15
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -1874,8 +1874,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 159,
-        "uniques": 111
+        "count": 154,
+        "uniques": 108
       }
     },
     {
@@ -1946,13 +1946,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
       "updated_at": "2023-12-23T16:09:18Z",
-      "pushed_at": "2023-12-28T23:53:54Z",
+      "pushed_at": "2023-12-29T03:17:43Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
       "clone_url": "https://github.com/MythicAgents/thanatos.git",
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
-      "size": 2648,
+      "size": 2659,
       "stargazers_count": 245,
       "watchers_count": 245,
       "language": "Rust",
@@ -2039,15 +2039,15 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "rewrite",
-        "commit_message": "Remove entrypoint since ELF headers are getting removed anyw...",
-        "commit_date": 1703807551.0,
+        "commit_message": "Add TODOs",
+        "commit_date": 1703819861.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/thanatos/main/agent_icons/thanatos.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 103,
-        "uniques": 65
+        "count": 94,
+        "uniques": 64
       }
     },
     {
@@ -2212,8 +2212,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 14
+        "count": 13,
+        "uniques": 12
       }
     },
     {
@@ -2735,7 +2735,7 @@
       "category": "Agent",
       "clones": {
         "count": 16,
-        "uniques": 16
+        "uniques": 15
       }
     },
     {
@@ -2934,8 +2934,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 26,
-        "uniques": 21
+        "count": 23,
+        "uniques": 19
       }
     },
     {
@@ -3109,8 +3109,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 12
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -3298,8 +3298,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 32,
-        "uniques": 21
+        "count": 30,
+        "uniques": 19
       }
     },
     {
@@ -3636,7 +3636,7 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 9,
+        "count": 10,
         "uniques": 8
       }
     },
@@ -3948,8 +3948,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 307,
-        "uniques": 182
+        "count": 313,
+        "uniques": 179
       }
     },
     {
@@ -4113,8 +4113,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 50,
-        "uniques": 35
+        "count": 49,
+        "uniques": 33
       }
     },
     {
@@ -4278,8 +4278,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 39,
-        "uniques": 34
+        "count": 36,
+        "uniques": 30
       }
     },
     {
@@ -4443,8 +4443,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 78,
-        "uniques": 48
+        "count": 76,
+        "uniques": 47
       }
     },
     {
@@ -4608,8 +4608,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 20,
-        "uniques": 18
+        "count": 17,
+        "uniques": 15
       }
     },
     {
@@ -4773,8 +4773,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 28,
-        "uniques": 22
+        "count": 30,
+        "uniques": 23
       }
     },
     {
@@ -5103,8 +5103,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 24,
-        "uniques": 22
+        "count": 21,
+        "uniques": 18
       }
     },
     {
@@ -5274,8 +5274,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 18,
-        "uniques": 18
+        "count": 16,
+        "uniques": 16
       }
     },
     {
@@ -5445,8 +5445,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 29,
-        "uniques": 25
+        "count": 28,
+        "uniques": 23
       }
     }
   ]
