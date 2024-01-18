@@ -204,7 +204,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 95,
+        "count": 97,
         "uniques": 65
       }
     },
@@ -367,7 +367,7 @@
         }
       },
       "network_count": 87,
-      "subscribers_count": 18,
+      "subscribers_count": 19,
       "latest": {
         "branch": "master",
         "commit_message": "updating agent capabilities",
@@ -428,8 +428,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 225,
-        "uniques": 144
+        "count": 234,
+        "uniques": 151
       }
     },
     {
@@ -500,13 +500,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2024-01-06T07:38:51Z",
-      "pushed_at": "2024-01-16T17:48:34Z",
+      "pushed_at": "2024-01-17T15:31:33Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 2618,
+      "size": 2621,
       "stargazers_count": 150,
       "watchers_count": 150,
       "language": "C",
@@ -585,18 +585,18 @@
         }
       },
       "network_count": 36,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "rewrite",
-        "commit_message": "added process_name return as part of the checkin",
-        "commit_date": 1705427311.0,
+        "commit_message": "asdf",
+        "commit_date": 1705505490.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/rewrite/agent_icons/athena.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 630,
-        "uniques": 137
+        "count": 643,
+        "uniques": 145
       }
     },
     {
@@ -752,7 +752,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "Fixed Freyja icon issue\n\nFixed Freyja icon issue",
@@ -762,8 +762,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 72,
-        "uniques": 48
+        "count": 70,
+        "uniques": 46
       }
     },
     {
@@ -929,8 +929,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 13,
+        "uniques": 10
       }
     },
     {
@@ -1086,7 +1086,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 5,
+      "subscribers_count": 6,
       "latest": {
         "branch": "master",
         "commit_message": "updating for v3.0",
@@ -1253,7 +1253,7 @@
         }
       },
       "network_count": 37,
-      "subscribers_count": 10,
+      "subscribers_count": 11,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #21 from MythicAgents/dev\n\nDev",
@@ -1263,8 +1263,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 101,
-        "uniques": 63
+        "count": 111,
+        "uniques": 73
       }
     },
     {
@@ -1426,7 +1426,7 @@
         }
       },
       "network_count": 11,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Updated agent capabilities",
@@ -1493,8 +1493,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 199,
-        "uniques": 104
+        "count": 208,
+        "uniques": 109
       }
     },
     {
@@ -1660,8 +1660,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 6
+        "count": 11,
+        "uniques": 8
       }
     },
     {
@@ -1731,7 +1731,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/poseidon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
-      "updated_at": "2024-01-10T17:53:08Z",
+      "updated_at": "2024-01-17T10:43:23Z",
       "pushed_at": "2024-01-10T17:40:48Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
@@ -1739,8 +1739,8 @@
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
       "size": 14717,
-      "stargazers_count": 84,
-      "watchers_count": 84,
+      "stargazers_count": 85,
+      "watchers_count": 85,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -1767,7 +1767,7 @@
       "visibility": "public",
       "forks": 31,
       "open_issues": 2,
-      "watchers": 84,
+      "watchers": 85,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1823,7 +1823,7 @@
         }
       },
       "network_count": 31,
-      "subscribers_count": 7,
+      "subscribers_count": 8,
       "latest": {
         "branch": "master",
         "commit_message": "v2.0.20\n\nadjusted http body closure and added more debug con...",
@@ -1884,8 +1884,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 142,
-        "uniques": 95
+        "count": 153,
+        "uniques": 105
       }
     },
     {
@@ -1955,7 +1955,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/thanatos/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
-      "updated_at": "2024-01-12T14:50:47Z",
+      "updated_at": "2024-01-17T16:03:54Z",
       "pushed_at": "2023-12-30T02:15:11Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
@@ -1963,8 +1963,8 @@
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
       "size": 2686,
-      "stargazers_count": 245,
-      "watchers_count": 245,
+      "stargazers_count": 247,
+      "watchers_count": 247,
       "language": "Rust",
       "has_issues": true,
       "has_projects": true,
@@ -1991,7 +1991,7 @@
       "visibility": "public",
       "forks": 35,
       "open_issues": 4,
-      "watchers": 245,
+      "watchers": 247,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -2047,7 +2047,7 @@
         }
       },
       "network_count": 35,
-      "subscribers_count": 8,
+      "subscribers_count": 9,
       "latest": {
         "branch": "rewrite",
         "commit_message": "Config serialization",
@@ -2057,8 +2057,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 75,
-        "uniques": 55
+        "count": 77,
+        "uniques": 57
       }
     },
     {
@@ -2224,8 +2224,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 6
+        "count": 10,
+        "uniques": 7
       }
     },
     {
@@ -2403,8 +2403,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 19,
+        "uniques": 15
       }
     },
     {
@@ -2566,7 +2566,7 @@
         }
       },
       "network_count": 1,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #6 from MythicAgents/dev\n\nadded missing p...",
@@ -2576,8 +2576,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 7,
-        "uniques": 4
+        "count": 9,
+        "uniques": 6
       }
     },
     {
@@ -2739,7 +2739,7 @@
         }
       },
       "network_count": 25,
-      "subscribers_count": 11,
+      "subscribers_count": 12,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -2750,7 +2750,7 @@
       "category": "Agent",
       "clones": {
         "count": 28,
-        "uniques": 13
+        "uniques": 12
       }
     },
     {
@@ -2908,7 +2908,7 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 3,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "adding agent capabilities json",
@@ -2951,7 +2951,7 @@
       "category": "Agent",
       "clones": {
         "count": 21,
-        "uniques": 16
+        "uniques": 15
       }
     },
     {
@@ -3116,7 +3116,7 @@
         }
       },
       "network_count": 4,
-      "subscribers_count": 6,
+      "subscribers_count": 7,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/v3.0.0\n\nupdate merma...",
@@ -3316,8 +3316,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 18,
-        "uniques": 12
+        "count": 20,
+        "uniques": 14
       }
     },
     {
@@ -3483,8 +3483,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 28,
-        "uniques": 19
+        "count": 27,
+        "uniques": 18
       }
     },
     {
@@ -3656,8 +3656,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -3970,8 +3970,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 408,
-        "uniques": 260
+        "count": 413,
+        "uniques": 268
       }
     },
     {
@@ -4136,8 +4136,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 84,
-        "uniques": 51
+        "count": 82,
+        "uniques": 49
       }
     },
     {
@@ -4302,8 +4302,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 37,
-        "uniques": 29
+        "count": 47,
+        "uniques": 39
       }
     },
     {
@@ -4468,8 +4468,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 82,
-        "uniques": 53
+        "count": 81,
+        "uniques": 52
       }
     },
     {
@@ -4800,8 +4800,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 35,
-        "uniques": 31
+        "count": 37,
+        "uniques": 33
       }
     },
     {
@@ -4966,8 +4966,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 50,
-        "uniques": 38
+        "count": 57,
+        "uniques": 46
       }
     },
     {
@@ -5132,8 +5132,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 26,
-        "uniques": 21
+        "count": 27,
+        "uniques": 22
       }
     },
     {
@@ -5204,13 +5204,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_webhook/deployments",
       "created_at": "2023-03-04T03:23:39Z",
       "updated_at": "2023-08-30T01:16:06Z",
-      "pushed_at": "2023-06-01T13:37:02Z",
+      "pushed_at": "2024-01-17T23:22:32Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_webhook.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_webhook.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_webhook.git",
       "svn_url": "https://github.com/MythicC2Profiles/basic_webhook",
       "homepage": null,
-      "size": 142,
+      "size": 146,
       "stargazers_count": 3,
       "watchers_count": 3,
       "language": "Go",
@@ -5298,14 +5298,14 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "updating MythicContainer library",
-        "commit_date": 1685626620.0,
+        "commit_message": "updating to adjust throttle decision\n\nonly allow 1 alert / 60s instead of restricting by last seen alert source",
+        "commit_date": 1705533750.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "clones": {
-        "count": 19,
-        "uniques": 15
+        "count": 21,
+        "uniques": 17
       }
     },
     {
@@ -5476,8 +5476,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 37,
-        "uniques": 30
+        "count": 32,
+        "uniques": 26
       }
     }
   ]
