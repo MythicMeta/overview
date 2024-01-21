@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2024-01-19T21:16:03Z",
-      "pushed_at": "2024-01-20T00:01:26Z",
+      "pushed_at": "2024-01-20T20:11:13Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 773,
+      "size": 683,
       "stargazers_count": 47,
       "watchers_count": 47,
       "language": "Python",
@@ -155,10 +155,10 @@
       "network_count": 15,
       "subscribers_count": 8,
       "latest": {
-        "branch": "docker_testing",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.10'",
-        "commit_date": 1705708886.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/docker_testing/agent_icons/apfell.svg"
+        "branch": "master",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1.1-rc4'",
+        "commit_date": 1705781472.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "metadata": {
         "os": [
@@ -204,8 +204,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 116,
-        "uniques": 72
+        "count": 206,
+        "uniques": 92
       }
     },
     {
@@ -595,8 +595,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 534,
-        "uniques": 138
+        "count": 527,
+        "uniques": 139
       }
     },
     {
@@ -762,7 +762,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 71,
+        "count": 70,
         "uniques": 46
       }
     },
@@ -929,8 +929,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 10,
+        "uniques": 8
       }
     },
     {
@@ -1263,8 +1263,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 112,
-        "uniques": 78
+        "count": 110,
+        "uniques": 77
       }
     },
     {
@@ -1494,7 +1494,7 @@
       "category": "Agent",
       "clones": {
         "count": 227,
-        "uniques": 117
+        "uniques": 118
       }
     },
     {
@@ -1660,8 +1660,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       }
     },
     {
@@ -1884,8 +1884,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 174,
-        "uniques": 115
+        "count": 176,
+        "uniques": 119
       }
     },
     {
@@ -2057,7 +2057,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 72,
+        "count": 71,
         "uniques": 55
       }
     },
@@ -2403,8 +2403,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 15
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -2576,8 +2576,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 11,
+        "uniques": 8
       }
     },
     {
@@ -2749,8 +2749,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 28,
-        "uniques": 10
+        "count": 26,
+        "uniques": 9
       }
     },
     {
@@ -3126,8 +3126,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -3316,8 +3316,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 22,
-        "uniques": 16
+        "count": 20,
+        "uniques": 15
       }
     },
     {
@@ -3483,7 +3483,7 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 27,
+        "count": 25,
         "uniques": 19
       }
     },
@@ -3656,8 +3656,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       }
     },
     {
@@ -3876,13 +3876,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/http/deployments",
       "created_at": "2021-03-19T18:15:25Z",
       "updated_at": "2024-01-19T21:16:03Z",
-      "pushed_at": "2024-01-10T20:28:58Z",
+      "pushed_at": "2024-01-21T00:42:44Z",
       "git_url": "git://github.com/MythicC2Profiles/http.git",
       "ssh_url": "git@github.com:MythicC2Profiles/http.git",
       "clone_url": "https://github.com/MythicC2Profiles/http.git",
       "svn_url": "https://github.com/MythicC2Profiles/http",
       "homepage": "",
-      "size": 7225,
+      "size": 7252,
       "stargazers_count": 15,
       "watchers_count": 15,
       "language": "Go",
@@ -3964,14 +3964,14 @@
       "subscribers_count": 2,
       "latest": {
         "branch": "master",
-        "commit_message": "Fixed bug in hosted file serves\n\nadded ability to specify `bind_ip` to not bind to 0.0.0.0",
-        "commit_date": 1704918536.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1'",
+        "commit_date": 1705797763.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 432,
-        "uniques": 276
+        "count": 450,
+        "uniques": 283
       }
     },
     {
@@ -4137,7 +4137,7 @@
       "category": "C2",
       "clones": {
         "count": 60,
-        "uniques": 39
+        "uniques": 40
       }
     },
     {
@@ -4302,8 +4302,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 49,
-        "uniques": 40
+        "count": 47,
+        "uniques": 39
       }
     },
     {
@@ -4468,7 +4468,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 77,
+        "count": 76,
         "uniques": 49
       }
     },
@@ -4635,7 +4635,7 @@
       "category": "C2",
       "clones": {
         "count": 16,
-        "uniques": 14
+        "uniques": 15
       }
     },
     {
@@ -4800,7 +4800,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 33,
+        "count": 32,
         "uniques": 31
       }
     },
@@ -4966,7 +4966,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 47,
+        "count": 46,
         "uniques": 42
       }
     },
@@ -5133,7 +5133,7 @@
       "category": "C2",
       "clones": {
         "count": 26,
-        "uniques": 22
+        "uniques": 23
       }
     },
     {
@@ -5204,7 +5204,7 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_webhook/deployments",
       "created_at": "2023-03-04T03:23:39Z",
       "updated_at": "2023-08-30T01:16:06Z",
-      "pushed_at": "2024-01-17T23:22:32Z",
+      "pushed_at": "2024-01-21T01:17:31Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_webhook.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_webhook.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_webhook.git",
@@ -5298,14 +5298,14 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "updating to adjust throttle decision\n\nonly allow 1 alert / 60s instead of restricting by last seen alert source",
-        "commit_date": 1705533750.0,
+        "commit_message": "docker pre-build updates",
+        "commit_date": 1705799849.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "clones": {
-        "count": 20,
-        "uniques": 16
+        "count": 18,
+        "uniques": 15
       }
     },
     {
@@ -5476,8 +5476,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 30,
-        "uniques": 24
+        "count": 27,
+        "uniques": 22
       }
     }
   ]
