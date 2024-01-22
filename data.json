@@ -205,7 +205,7 @@
       "category": "Agent",
       "clones": {
         "count": 206,
-        "uniques": 92
+        "uniques": 91
       }
     },
     {
@@ -275,7 +275,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2024-01-19T21:15:59Z",
+      "updated_at": "2024-01-21T06:10:34Z",
       "pushed_at": "2024-01-15T22:30:42Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
@@ -283,8 +283,8 @@
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 20744,
-      "stargazers_count": 411,
-      "watchers_count": 411,
+      "stargazers_count": 410,
+      "watchers_count": 410,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -311,7 +311,7 @@
       "visibility": "public",
       "forks": 87,
       "open_issues": 15,
-      "watchers": 411,
+      "watchers": 410,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -429,7 +429,7 @@
       "category": "Agent",
       "clones": {
         "count": 242,
-        "uniques": 149
+        "uniques": 153
       }
     },
     {
@@ -516,7 +516,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 36,
+      "forks_count": 37,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -527,7 +527,7 @@
       "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
-      "forks": 36,
+      "forks": 37,
       "open_issues": 6,
       "watchers": 150,
       "default_branch": "main",
@@ -584,7 +584,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 36,
+      "network_count": 37,
       "subscribers_count": 4,
       "latest": {
         "branch": "rewrite",
@@ -595,8 +595,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 527,
-        "uniques": 139
+        "count": 459,
+        "uniques": 137
       }
     },
     {
@@ -762,7 +762,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 70,
+        "count": 68,
         "uniques": 46
       }
     },
@@ -1263,8 +1263,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 110,
-        "uniques": 77
+        "count": 111,
+        "uniques": 79
       }
     },
     {
@@ -1493,8 +1493,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 227,
-        "uniques": 118
+        "count": 222,
+        "uniques": 114
       }
     },
     {
@@ -1660,8 +1660,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       }
     },
     {
@@ -1885,7 +1885,7 @@
       "category": "Agent",
       "clones": {
         "count": 176,
-        "uniques": 119
+        "uniques": 121
       }
     },
     {
@@ -2057,7 +2057,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 71,
+        "count": 70,
         "uniques": 55
       }
     },
@@ -2224,8 +2224,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 10,
-        "uniques": 8
+        "count": 11,
+        "uniques": 9
       }
     },
     {
@@ -3126,8 +3126,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 13
+        "count": 15,
+        "uniques": 12
       }
     },
     {
@@ -3198,13 +3198,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/deployments",
       "created_at": "2021-03-16T18:51:15Z",
       "updated_at": "2024-01-18T09:52:23Z",
-      "pushed_at": "2023-12-27T14:25:28Z",
+      "pushed_at": "2024-01-21T21:33:17Z",
       "git_url": "git://github.com/MythicAgents/service_wrapper.git",
       "ssh_url": "git@github.com:MythicAgents/service_wrapper.git",
       "clone_url": "https://github.com/MythicAgents/service_wrapper.git",
       "svn_url": "https://github.com/MythicAgents/service_wrapper",
       "homepage": "",
-      "size": 66,
+      "size": 74,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -3286,8 +3286,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "master",
-        "commit_message": "adding agent capabilities json file",
-        "commit_date": 1703687126.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1'",
+        "commit_date": 1705872795.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/service_wrapper/master/agent_icons/service_wrapper.svg"
       },
       "metadata": {
@@ -3316,8 +3316,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 20,
-        "uniques": 15
+        "count": 40,
+        "uniques": 22
       }
     },
     {
@@ -3483,8 +3483,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 25,
-        "uniques": 19
+        "count": 26,
+        "uniques": 20
       }
     },
     {
@@ -3882,7 +3882,7 @@
       "clone_url": "https://github.com/MythicC2Profiles/http.git",
       "svn_url": "https://github.com/MythicC2Profiles/http",
       "homepage": "",
-      "size": 7252,
+      "size": 7253,
       "stargazers_count": 15,
       "watchers_count": 15,
       "language": "Go",
@@ -3970,8 +3970,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 450,
-        "uniques": 283
+        "count": 464,
+        "uniques": 292
       }
     },
     {
@@ -4136,8 +4136,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 60,
-        "uniques": 40
+        "count": 63,
+        "uniques": 45
       }
     },
     {
@@ -4302,7 +4302,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 47,
+        "count": 46,
         "uniques": 39
       }
     },
@@ -4374,13 +4374,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/websocket/deployments",
       "created_at": "2021-03-19T18:16:58Z",
       "updated_at": "2023-09-28T11:25:56Z",
-      "pushed_at": "2024-01-10T20:32:11Z",
+      "pushed_at": "2024-01-21T04:02:56Z",
       "git_url": "git://github.com/MythicC2Profiles/websocket.git",
       "ssh_url": "git@github.com:MythicC2Profiles/websocket.git",
       "clone_url": "https://github.com/MythicC2Profiles/websocket.git",
       "svn_url": "https://github.com/MythicC2Profiles/websocket",
       "homepage": null,
-      "size": 2693,
+      "size": 2706,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "Go",
@@ -4462,14 +4462,14 @@
       "subscribers_count": 4,
       "latest": {
         "branch": "master",
-        "commit_message": "fixed potential issue with multiple hosted files",
-        "commit_date": 1704918729.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1'",
+        "commit_date": 1705809775.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "clones": {
-        "count": 76,
-        "uniques": 49
+        "count": 113,
+        "uniques": 58
       }
     },
     {
@@ -4634,7 +4634,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 16,
+        "count": 15,
         "uniques": 15
       }
     },
@@ -4800,8 +4800,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 32,
-        "uniques": 31
+        "count": 33,
+        "uniques": 32
       }
     },
     {
@@ -4967,7 +4967,7 @@
       "category": "C2",
       "clones": {
         "count": 46,
-        "uniques": 42
+        "uniques": 41
       }
     },
     {
@@ -5132,8 +5132,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 26,
-        "uniques": 23
+        "count": 23,
+        "uniques": 22
       }
     },
     {
@@ -5204,13 +5204,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_webhook/deployments",
       "created_at": "2023-03-04T03:23:39Z",
       "updated_at": "2023-08-30T01:16:06Z",
-      "pushed_at": "2024-01-21T01:17:31Z",
+      "pushed_at": "2024-01-21T01:25:17Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_webhook.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_webhook.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_webhook.git",
       "svn_url": "https://github.com/MythicC2Profiles/basic_webhook",
       "homepage": null,
-      "size": 146,
+      "size": 150,
       "stargazers_count": 3,
       "watchers_count": 3,
       "language": "Go",
@@ -5298,14 +5298,14 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "docker pre-build updates",
-        "commit_date": 1705799849.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1'",
+        "commit_date": 1705800316.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "clones": {
-        "count": 18,
-        "uniques": 15
+        "count": 30,
+        "uniques": 23
       }
     },
     {
@@ -5476,7 +5476,7 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 27,
+        "count": 26,
         "uniques": 22
       }
     }
