@@ -204,8 +204,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 188,
-        "uniques": 84
+        "count": 185,
+        "uniques": 83
       }
     },
     {
@@ -428,8 +428,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 258,
-        "uniques": 159
+        "count": 272,
+        "uniques": 165
       }
     },
     {
@@ -500,13 +500,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Athena/deployments",
       "created_at": "2022-01-24T20:44:38Z",
       "updated_at": "2024-01-06T07:38:51Z",
-      "pushed_at": "2024-01-25T23:51:44Z",
+      "pushed_at": "2024-01-26T22:16:19Z",
       "git_url": "git://github.com/MythicAgents/Athena.git",
       "ssh_url": "git@github.com:MythicAgents/Athena.git",
       "clone_url": "https://github.com/MythicAgents/Athena.git",
       "svn_url": "https://github.com/MythicAgents/Athena",
       "homepage": null,
-      "size": 2701,
+      "size": 2769,
       "stargazers_count": 150,
       "watchers_count": 150,
       "language": "C",
@@ -587,16 +587,16 @@
       "network_count": 37,
       "subscribers_count": 4,
       "latest": {
-        "branch": "rewrite",
-        "commit_message": "update kill output, update inject-shellcode to let you speci...",
-        "commit_date": 1706226702.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/rewrite/agent_icons/athena.svg"
+        "branch": "rewrite-dinvoke",
+        "commit_message": "added support for tasks to return debug messages",
+        "commit_date": 1706307377.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Athena/rewrite-dinvoke/agent_icons/athena.svg"
       },
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 272,
-        "uniques": 134
+        "count": 297,
+        "uniques": 139
       }
     },
     {
@@ -762,8 +762,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 75,
-        "uniques": 50
+        "count": 72,
+        "uniques": 47
       }
     },
     {
@@ -1096,8 +1096,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 11
+        "count": 13,
+        "uniques": 9
       }
     },
     {
@@ -1264,7 +1264,7 @@
       "category": "Agent",
       "clones": {
         "count": 115,
-        "uniques": 80
+        "uniques": 77
       }
     },
     {
@@ -1493,8 +1493,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 232,
-        "uniques": 125
+        "count": 233,
+        "uniques": 126
       }
     },
     {
@@ -1660,8 +1660,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -1884,8 +1884,8 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 141,
-        "uniques": 111
+        "count": 134,
+        "uniques": 106
       }
     },
     {
@@ -2057,8 +2057,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 52,
-        "uniques": 47
+        "count": 50,
+        "uniques": 45
       }
     },
     {
@@ -2224,8 +2224,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -2403,7 +2403,7 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 14,
+        "count": 15,
         "uniques": 11
       }
     },
@@ -2749,8 +2749,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 13,
-        "uniques": 6
+        "count": 14,
+        "uniques": 7
       }
     },
     {
@@ -2950,7 +2950,7 @@
       },
       "category": "Agent",
       "clones": {
-        "count": 10,
+        "count": 11,
         "uniques": 7
       }
     },
@@ -3126,8 +3126,8 @@
       "metadata": {},
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 11,
+        "uniques": 8
       }
     },
     {
@@ -3316,8 +3316,8 @@
       },
       "category": "Wrapper",
       "clones": {
-        "count": 42,
-        "uniques": 24
+        "count": 41,
+        "uniques": 23
       }
     },
     {
@@ -3483,8 +3483,8 @@
       "metadata": {},
       "category": "Wrapper",
       "clones": {
-        "count": 27,
-        "uniques": 21
+        "count": 26,
+        "uniques": 20
       }
     },
     {
@@ -3970,7 +3970,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 460,
+        "count": 462,
         "uniques": 286
       }
     },
@@ -4136,7 +4136,7 @@
       },
       "category": "C2",
       "clones": {
-        "count": 61,
+        "count": 60,
         "uniques": 46
       }
     },
@@ -4302,8 +4302,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 32
+        "count": 39,
+        "uniques": 31
       }
     },
     {
@@ -4469,7 +4469,7 @@
       "category": "C2",
       "clones": {
         "count": 111,
-        "uniques": 55
+        "uniques": 54
       }
     },
     {
@@ -4634,8 +4634,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -4800,8 +4800,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 42,
-        "uniques": 36
+        "count": 37,
+        "uniques": 31
       }
     },
     {
@@ -4966,8 +4966,8 @@
       },
       "category": "C2",
       "clones": {
-        "count": 43,
-        "uniques": 37
+        "count": 41,
+        "uniques": 36
       }
     },
     {
@@ -5304,8 +5304,8 @@
       },
       "category": "Webhook",
       "clones": {
-        "count": 29,
-        "uniques": 19
+        "count": 31,
+        "uniques": 21
       }
     },
     {
@@ -5476,8 +5476,8 @@
       },
       "category": "Logger",
       "clones": {
-        "count": 39,
-        "uniques": 26
+        "count": 35,
+        "uniques": 23
       }
     }
   ]
