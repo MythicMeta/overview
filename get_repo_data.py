@@ -97,6 +97,19 @@ with open(agent_repos) as f:
                 except Exception as e:
                     print(f"Failed to find agent_capabilities.json file for {url} - {e}")
                     repo_data_json["metadata"] = {}
+                try:
+                    files = proj.get_contents("config.json", ref=default_branch.name)
+                    installData = json.loads(base64.b64decode(files.content))
+                    if "remote_images" in installData:
+                        remote_images = []
+                        for key, val in installData["remote_images"].items():
+                            remote_images.append(val)
+                        repo_data_json["remote_images"] = "\n".join(remote_images)
+                    else:
+                        repo_data_json["remote_images"] = ""
+                except Exception as e:
+                    print(f"Failed to find config.json file for {url} - {e}")
+                    repo_data_json["remote_images"] = ""
                 repo_data_json['category'] = category
                 repo_data_json["clones"] = {
                     "count": -1,
@@ -242,6 +255,19 @@ with open(c2_repos) as f:
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
                 repo_data_json['category'] = category
+                try:
+                    files = proj.get_contents("config.json", ref=default_branch.name)
+                    installData = json.loads(base64.b64decode(files.content))
+                    if "remote_images" in installData:
+                        remote_images = []
+                        for key, val in installData["remote_images"].items():
+                            remote_images.append(val)
+                        repo_data_json["remote_images"] = "\n".join(remote_images)
+                    else:
+                        repo_data_json["remote_images"] = ""
+                except Exception as e:
+                    print(f"Failed to find config.json file for {url} - {e}")
+                    repo_data_json["remote_images"] = ""
                 try:
                     clones = proj.get_clones_traffic()
                     repo_data_json["clones"] = {}

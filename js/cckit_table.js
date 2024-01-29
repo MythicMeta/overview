@@ -18,7 +18,7 @@ $(document).ready(function() {
         { data: "latest.commit_date" },
         { data: "latest.branch", },
         { data: "category", },
-        { data: "owner.login" },
+        { data: "remote_images", render: $.fn.dataTable.render.text() },
         { data: "latest.icon" },
         { data: 'name',render: $.fn.dataTable.render.text() },
         { data: 'description', render: $.fn.dataTable.render.text() },
@@ -64,7 +64,7 @@ $(document).ready(function() {
         },
         {
             targets: 3,
-            width: "8rem",
+            width: "14rem",
         },
         {   // Repo owner avatar
             targets: 4,
