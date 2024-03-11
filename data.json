@@ -3569,7 +3569,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/bloodhound/deployments",
       "created_at": "2024-03-11T00:56:14Z",
       "updated_at": "2024-03-11T13:16:26Z",
-      "pushed_at": "2024-03-11T13:17:43Z",
+      "pushed_at": "2024-03-11T13:23:28Z",
       "git_url": "git://github.com/MythicAgents/bloodhound.git",
       "ssh_url": "git@github.com:MythicAgents/bloodhound.git",
       "clone_url": "https://github.com/MythicAgents/bloodhound.git",
@@ -3663,8 +3663,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "updated icons",
-        "commit_date": 1710162525.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.1'",
+        "commit_date": 1710163407.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/bloodhound/main/agent_icons/bloodhound.svg"
       },
       "metadata": {
@@ -3690,7 +3690,7 @@
         "agent_version": "0.0.1",
         "supported_wrappers": []
       },
-      "remote_images": "",
+      "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.1",
       "category": "Service",
       "clones": {
         "count": 0,
@@ -3765,7 +3765,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/ghostwriter/deployments",
       "created_at": "2024-03-11T00:55:09Z",
       "updated_at": "2024-03-11T13:15:45Z",
-      "pushed_at": "2024-03-11T13:17:22Z",
+      "pushed_at": "2024-03-11T13:23:05Z",
       "git_url": "git://github.com/MythicAgents/ghostwriter.git",
       "ssh_url": "git@github.com:MythicAgents/ghostwriter.git",
       "clone_url": "https://github.com/MythicAgents/ghostwriter.git",
@@ -3859,8 +3859,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "initial SO-CON 2024 release",
-        "commit_date": 1710162299.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.1'",
+        "commit_date": 1710163384.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/ghostwriter/main/agent_icons/ghostwriter.svg"
       },
       "metadata": {
@@ -3886,7 +3886,7 @@
         "agent_version": "0.0.1",
         "supported_wrappers": []
       },
-      "remote_images": "",
+      "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.1",
       "category": "Service",
       "clones": {
         "count": 0,
@@ -3961,7 +3961,7 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/nemesis/deployments",
       "created_at": "2024-03-11T00:55:45Z",
       "updated_at": "2024-03-11T13:16:08Z",
-      "pushed_at": "2024-03-11T13:17:32Z",
+      "pushed_at": "2024-03-11T13:23:11Z",
       "git_url": "git://github.com/MythicAgents/nemesis.git",
       "ssh_url": "git@github.com:MythicAgents/nemesis.git",
       "clone_url": "https://github.com/MythicAgents/nemesis.git",
@@ -4055,8 +4055,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "initial SO-CON 2024 release",
-        "commit_date": 1710162323.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.1'",
+        "commit_date": 1710163390.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/nemesis/main/agent_icons/nemesis.svg"
       },
       "metadata": {
@@ -4082,7 +4082,7 @@
         "agent_version": "0.0.1",
         "supported_wrappers": []
       },
-      "remote_images": "",
+      "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.1",
       "category": "Service",
       "clones": {
         "count": 0,
