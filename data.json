@@ -68,13 +68,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/apfell/deployments",
       "created_at": "2021-03-16T18:48:23Z",
       "updated_at": "2024-03-31T07:12:37Z",
-      "pushed_at": "2024-03-25T15:06:09Z",
+      "pushed_at": "2024-04-14T01:49:32Z",
       "git_url": "git://github.com/MythicAgents/apfell.git",
       "ssh_url": "git@github.com:MythicAgents/apfell.git",
       "clone_url": "https://github.com/MythicAgents/apfell.git",
       "svn_url": "https://github.com/MythicAgents/apfell",
       "homepage": null,
-      "size": 688,
+      "size": 690,
       "stargazers_count": 53,
       "watchers_count": 53,
       "language": "Python",
@@ -156,8 +156,8 @@
       "subscribers_count": 8,
       "latest": {
         "branch": "master",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1.4'",
-        "commit_date": 1711379167.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1.5'",
+        "commit_date": 1713059371.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/apfell/master/agent_icons/apfell.svg"
       },
       "metadata": {
@@ -202,11 +202,11 @@
         "agent_version": "0.1.4",
         "supported_wrappers": []
       },
-      "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.4",
+      "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.5",
       "category": "Agent",
       "clones": {
-        "count": 80,
-        "uniques": 68
+        "count": 86,
+        "uniques": 72
       }
     },
     {
@@ -430,8 +430,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 285,
-        "uniques": 216
+        "count": 279,
+        "uniques": 209
       }
     },
     {
@@ -656,8 +656,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.0.3",
       "category": "Agent",
       "clones": {
-        "count": 169,
-        "uniques": 108
+        "count": 160,
+        "uniques": 104
       }
     },
     {
@@ -871,8 +871,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 63,
-        "uniques": 37
+        "count": 61,
+        "uniques": 36
       }
     },
     {
@@ -1375,8 +1375,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 79,
-        "uniques": 47
+        "count": 76,
+        "uniques": 46
       }
     },
     {
@@ -1608,8 +1608,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 143,
-        "uniques": 95
+        "count": 135,
+        "uniques": 91
       }
     },
     {
@@ -2001,7 +2001,7 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.0.16",
       "category": "Agent",
       "clones": {
-        "count": 171,
+        "count": 170,
         "uniques": 121
       }
     },
@@ -2215,8 +2215,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.9",
       "category": "Agent",
       "clones": {
-        "count": 121,
-        "uniques": 86
+        "count": 114,
+        "uniques": 80
       }
     },
     {
@@ -2737,8 +2737,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 8,
+        "uniques": 6
       }
     },
     {
@@ -2911,8 +2911,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 11,
+        "uniques": 11
       }
     },
     {
@@ -3290,7 +3290,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 10,
+        "count": 9,
         "uniques": 7
       }
     },
@@ -3501,6 +3501,174 @@
       "clones": {
         "count": 27,
         "uniques": 20
+      }
+    },
+    {
+      "id": 786266997,
+      "node_id": "R_kgDOLt17dQ",
+      "name": "sliver",
+      "full_name": "MythicAgents/sliver",
+      "private": false,
+      "owner": {
+        "login": "MythicAgents",
+        "id": 73145583,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicAgents",
+        "html_url": "https://github.com/MythicAgents",
+        "followers_url": "https://api.github.com/users/MythicAgents/followers",
+        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+        "repos_url": "https://api.github.com/users/MythicAgents/repos",
+        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/MythicAgents/sliver",
+      "description": "Sliver agents for Mythic",
+      "fork": false,
+      "url": "https://api.github.com/repos/MythicAgents/sliver",
+      "forks_url": "https://api.github.com/repos/MythicAgents/sliver/forks",
+      "keys_url": "https://api.github.com/repos/MythicAgents/sliver/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/MythicAgents/sliver/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/MythicAgents/sliver/teams",
+      "hooks_url": "https://api.github.com/repos/MythicAgents/sliver/hooks",
+      "issue_events_url": "https://api.github.com/repos/MythicAgents/sliver/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/MythicAgents/sliver/events",
+      "assignees_url": "https://api.github.com/repos/MythicAgents/sliver/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/MythicAgents/sliver/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/MythicAgents/sliver/tags",
+      "blobs_url": "https://api.github.com/repos/MythicAgents/sliver/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/MythicAgents/sliver/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/MythicAgents/sliver/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/MythicAgents/sliver/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/MythicAgents/sliver/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/MythicAgents/sliver/languages",
+      "stargazers_url": "https://api.github.com/repos/MythicAgents/sliver/stargazers",
+      "contributors_url": "https://api.github.com/repos/MythicAgents/sliver/contributors",
+      "subscribers_url": "https://api.github.com/repos/MythicAgents/sliver/subscribers",
+      "subscription_url": "https://api.github.com/repos/MythicAgents/sliver/subscription",
+      "commits_url": "https://api.github.com/repos/MythicAgents/sliver/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/MythicAgents/sliver/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/MythicAgents/sliver/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/MythicAgents/sliver/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/MythicAgents/sliver/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/MythicAgents/sliver/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/MythicAgents/sliver/merges",
+      "archive_url": "https://api.github.com/repos/MythicAgents/sliver/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/MythicAgents/sliver/downloads",
+      "issues_url": "https://api.github.com/repos/MythicAgents/sliver/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/MythicAgents/sliver/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/MythicAgents/sliver/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/MythicAgents/sliver/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/MythicAgents/sliver/labels{/name}",
+      "releases_url": "https://api.github.com/repos/MythicAgents/sliver/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/MythicAgents/sliver/deployments",
+      "created_at": "2024-04-13T23:32:40Z",
+      "updated_at": "2024-04-14T18:20:58Z",
+      "pushed_at": "2024-04-14T18:48:46Z",
+      "git_url": "git://github.com/MythicAgents/sliver.git",
+      "ssh_url": "git@github.com:MythicAgents/sliver.git",
+      "clone_url": "https://github.com/MythicAgents/sliver.git",
+      "svn_url": "https://github.com/MythicAgents/sliver",
+      "homepage": null,
+      "size": 543,
+      "stargazers_count": 1,
+      "watchers_count": 1,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 1,
+      "default_branch": "main",
+      "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+      },
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "allow_auto_merge": false,
+      "delete_branch_on_merge": false,
+      "allow_update_branch": false,
+      "use_squash_pr_title_as_default": false,
+      "squash_merge_commit_message": "COMMIT_MESSAGES",
+      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+      "merge_commit_message": "PR_TITLE",
+      "merge_commit_title": "MERGE_MESSAGE",
+      "custom_properties": {},
+      "organization": {
+        "login": "MythicAgents",
+        "id": 73145583,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicAgents",
+        "html_url": "https://github.com/MythicAgents",
+        "followers_url": "https://api.github.com/users/MythicAgents/followers",
+        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+        "repos_url": "https://api.github.com/users/MythicAgents/repos",
+        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
+      "network_count": 0,
+      "subscribers_count": 1,
+      "latest": {
+        "branch": "main",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.10'",
+        "commit_date": 1713120525.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/sliver/main/agent_icons/sliver.svg"
+      },
+      "metadata": {},
+      "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.10\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.10",
+      "category": "ExternalAgent",
+      "clones": {
+        "count": 65,
+        "uniques": 22
       }
     },
     {
@@ -4087,8 +4255,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.2",
       "category": "Service",
       "clones": {
-        "count": 14,
-        "uniques": 13
+        "count": 13,
+        "uniques": 12
       }
     },
     {
@@ -4278,8 +4446,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.1",
       "category": "Wrapper",
       "clones": {
-        "count": 38,
-        "uniques": 25
+        "count": 37,
+        "uniques": 24
       }
     },
     {
@@ -4446,8 +4614,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 26,
-        "uniques": 16
+        "count": 25,
+        "uniques": 15
       }
     },
     {
@@ -4840,7 +5008,7 @@
       "releases_url": "https://api.github.com/repos/MythicC2Profiles/http/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/http/deployments",
       "created_at": "2021-03-19T18:15:25Z",
-      "updated_at": "2024-04-04T16:17:15Z",
+      "updated_at": "2024-04-14T11:11:26Z",
       "pushed_at": "2024-02-13T15:58:16Z",
       "git_url": "git://github.com/MythicC2Profiles/http.git",
       "ssh_url": "git@github.com:MythicC2Profiles/http.git",
@@ -4848,8 +5016,8 @@
       "svn_url": "https://github.com/MythicC2Profiles/http",
       "homepage": "",
       "size": 7040,
-      "stargazers_count": 19,
-      "watchers_count": 19,
+      "stargazers_count": 20,
+      "watchers_count": 20,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -4870,7 +5038,7 @@
       "visibility": "public",
       "forks": 12,
       "open_issues": 3,
-      "watchers": 19,
+      "watchers": 20,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -4936,8 +5104,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.1.4",
       "clones": {
-        "count": 419,
-        "uniques": 292
+        "count": 409,
+        "uniques": 290
       }
     },
     {
@@ -5270,8 +5438,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 36,
-        "uniques": 28
+        "count": 34,
+        "uniques": 26
       }
     },
     {
@@ -5438,7 +5606,7 @@
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.1.4",
       "clones": {
         "count": 89,
-        "uniques": 55
+        "uniques": 57
       }
     },
     {
@@ -5604,8 +5772,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 20,
-        "uniques": 14
+        "count": 13,
+        "uniques": 12
       }
     },
     {
@@ -5938,8 +6106,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.2",
       "clones": {
-        "count": 52,
-        "uniques": 37
+        "count": 50,
+        "uniques": 35
       }
     },
     {
@@ -6105,8 +6273,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -6272,8 +6440,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.5",
       "clones": {
-        "count": 57,
-        "uniques": 45
+        "count": 54,
+        "uniques": 42
       }
     },
     {
@@ -6445,7 +6613,7 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.5",
       "clones": {
-        "count": 39,
+        "count": 40,
         "uniques": 31
       }
     },
@@ -6618,8 +6786,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.3",
       "clones": {
-        "count": 50,
-        "uniques": 37
+        "count": 51,
+        "uniques": 38
       }
     }
   ]
