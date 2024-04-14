@@ -16,7 +16,8 @@ Agent, MythicAgents/Nimplant
 Agent, MythicAgents/atlas
 Agent, MythicAgents/hercules
 Agent, MythicAgents/arachne
-Service, MythicAgents/bloodhound 
+ExternalAgent, MythicAgents/sliver
+Service, MythicAgents/bloodhound
 Service, MythicAgents/ghostwriter
 Service, MythicAgents/nemesis
 Wrapper, MythicAgents/service_wrapper
