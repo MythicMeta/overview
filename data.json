@@ -148,6 +148,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -205,8 +208,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.5",
       "category": "Agent",
       "clones": {
-        "count": 39,
-        "uniques": 34
+        "count": 36,
+        "uniques": 31
       }
     },
     {
@@ -276,16 +279,16 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2024-07-08T17:49:36Z",
-      "pushed_at": "2024-07-08T13:19:24Z",
+      "updated_at": "2024-07-10T22:02:58Z",
+      "pushed_at": "2024-07-10T22:40:25Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
-      "size": 25706,
-      "stargazers_count": 433,
-      "watchers_count": 433,
+      "size": 25712,
+      "stargazers_count": 434,
+      "watchers_count": 434,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -312,7 +315,7 @@
       "visibility": "public",
       "forks": 90,
       "open_issues": 11,
-      "watchers": 433,
+      "watchers": 434,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -363,6 +366,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -370,10 +376,10 @@
       "network_count": 90,
       "subscribers_count": 20,
       "latest": {
-        "branch": "master",
-        "commit_message": "Merge pull request #131 from MEhrn00/vscode-files\n\nAdd VS Co...",
-        "commit_date": 1720444764.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/master/agent_icons/apollo.svg"
+        "branch": "Mythic3.3",
+        "commit_message": "Mythic3.3 Initial update",
+        "commit_date": 1720651221.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Apollo/Mythic3.3/agent_icons/apollo.svg"
       },
       "metadata": {
         "os": [
@@ -431,7 +437,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 113,
+        "count": 117,
         "uniques": 69
       }
     },
@@ -583,6 +589,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -657,8 +666,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.1.4",
       "category": "Agent",
       "clones": {
-        "count": 55,
-        "uniques": 33
+        "count": 53,
+        "uniques": 31
       }
     },
     {
@@ -807,6 +816,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -1024,6 +1036,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -1040,8 +1055,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -1192,6 +1207,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -1208,8 +1226,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -1360,6 +1378,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -1376,8 +1397,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 10
+        "count": 14,
+        "uniques": 9
       }
     },
     {
@@ -1534,6 +1555,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -1609,8 +1633,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 46,
-        "uniques": 25
+        "count": 43,
+        "uniques": 22
       }
     },
     {
@@ -1759,6 +1783,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -1935,6 +1962,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2002,8 +2032,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.0.17",
       "category": "Agent",
       "clones": {
-        "count": 54,
-        "uniques": 42
+        "count": 50,
+        "uniques": 40
       }
     },
     {
@@ -2160,6 +2190,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2216,8 +2249,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.9",
       "category": "Agent",
       "clones": {
-        "count": 54,
-        "uniques": 25
+        "count": 53,
+        "uniques": 23
       }
     },
     {
@@ -2368,6 +2401,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2384,8 +2420,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -2547,6 +2583,9 @@
         },
         "dependabot_security_updates": {
           "status": "enabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
         },
         "secret_scanning_validity_checks": {
           "status": "disabled"
@@ -2722,6 +2761,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2738,8 +2780,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       }
     },
     {
@@ -2896,6 +2938,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -2912,8 +2957,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -3066,6 +3111,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3114,8 +3162,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 12,
+        "uniques": 9
       }
     },
     {
@@ -3275,6 +3323,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3291,8 +3342,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       }
     },
     {
@@ -3449,6 +3500,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -3500,8 +3554,8 @@
       "remote_images": "ghcr.io/mythicagents/arachne:v0.0.0.5",
       "category": "Agent",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -3650,6 +3704,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -3824,6 +3881,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -4022,6 +4082,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -4060,8 +4123,8 @@
       "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.2",
       "category": "Service",
       "clones": {
-        "count": 4,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       }
     },
     {
@@ -4216,6 +4279,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -4406,6 +4472,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -4599,6 +4668,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -4773,6 +4845,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -4861,13 +4936,13 @@
       "deployments_url": "https://api.github.com/repos/MythicMeta/ExampleContainers/deployments",
       "created_at": "2023-03-20T13:51:20Z",
       "updated_at": "2024-06-07T22:23:50Z",
-      "pushed_at": "2023-12-26T21:47:49Z",
+      "pushed_at": "2024-07-11T00:15:40Z",
       "git_url": "git://github.com/MythicMeta/ExampleContainers.git",
       "ssh_url": "git@github.com:MythicMeta/ExampleContainers.git",
       "clone_url": "https://github.com/MythicMeta/ExampleContainers.git",
       "svn_url": "https://github.com/MythicMeta/ExampleContainers",
       "homepage": null,
-      "size": 697,
+      "size": 773,
       "stargazers_count": 10,
       "watchers_count": 10,
       "language": "JavaScript",
@@ -4929,9 +5004,9 @@
       "network_count": 3,
       "subscribers_count": 1,
       "latest": {
-        "branch": "main",
-        "commit_message": "updated python name\n\nrenamed from apfell to `base_python_age...",
-        "commit_date": 1703627266.0,
+        "branch": "Mythic3.3",
+        "commit_message": "Mythic3.3 Initial Update",
+        "commit_date": 1720656933.0,
         "icon": "https://avatars.githubusercontent.com/u/80981744?v=4"
       },
       "metadata": {},
@@ -5090,6 +5165,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -5105,8 +5183,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.1.7",
       "clones": {
-        "count": 130,
-        "uniques": 81
+        "count": 137,
+        "uniques": 86
       }
     },
     {
@@ -5177,13 +5255,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/smb/deployments",
       "created_at": "2022-01-09T18:58:46Z",
       "updated_at": "2023-08-30T01:15:56Z",
-      "pushed_at": "2024-01-30T00:32:53Z",
+      "pushed_at": "2024-07-10T23:07:44Z",
       "git_url": "git://github.com/MythicC2Profiles/smb.git",
       "ssh_url": "git@github.com:MythicC2Profiles/smb.git",
       "clone_url": "https://github.com/MythicC2Profiles/smb.git",
       "svn_url": "https://github.com/MythicC2Profiles/smb",
       "homepage": null,
-      "size": 20,
+      "size": 23,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Python",
@@ -5257,6 +5335,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -5264,16 +5345,16 @@
       "network_count": 4,
       "subscribers_count": 3,
       "latest": {
-        "branch": "main",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.1'",
-        "commit_date": 1706574772.0,
+        "branch": "Mythic3.3",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.3'",
+        "commit_date": 1720652862.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.1",
       "clones": {
-        "count": 16,
-        "uniques": 10
+        "count": 24,
+        "uniques": 13
       }
     },
     {
@@ -5424,6 +5505,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -5439,8 +5523,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 11,
-        "uniques": 9
+        "count": 12,
+        "uniques": 10
       }
     },
     {
@@ -5591,6 +5675,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -5606,8 +5693,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.1.4",
       "clones": {
-        "count": 33,
-        "uniques": 19
+        "count": 36,
+        "uniques": 20
       }
     },
     {
@@ -5756,6 +5843,9 @@
           "status": "disabled"
         },
         "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
           "status": "disabled"
         },
         "secret_scanning_validity_checks": {
@@ -5925,6 +6015,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -5940,8 +6033,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 12,
+        "uniques": 9
       }
     },
     {
@@ -6092,6 +6185,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -6107,8 +6203,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.2",
       "clones": {
-        "count": 14,
-        "uniques": 9
+        "count": 15,
+        "uniques": 10
       }
     },
     {
@@ -6259,6 +6355,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -6346,13 +6445,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/httpx/deployments",
       "created_at": "2024-03-29T21:32:06Z",
       "updated_at": "2024-07-02T16:36:48Z",
-      "pushed_at": "2024-03-29T23:15:47Z",
+      "pushed_at": "2024-07-10T22:58:59Z",
       "git_url": "git://github.com/MythicC2Profiles/httpx.git",
       "ssh_url": "git@github.com:MythicC2Profiles/httpx.git",
       "clone_url": "https://github.com/MythicC2Profiles/httpx.git",
       "svn_url": "https://github.com/MythicC2Profiles/httpx",
       "homepage": null,
-      "size": 6758,
+      "size": 6765,
       "stargazers_count": 9,
       "watchers_count": 9,
       "language": "Go",
@@ -6426,6 +6525,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -6433,16 +6535,16 @@
       "network_count": 1,
       "subscribers_count": 2,
       "latest": {
-        "branch": "main",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.5'",
-        "commit_date": 1711754146.0,
+        "branch": "Mythic3.3",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.6'",
+        "commit_date": 1720652338.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.5",
       "clones": {
-        "count": 11,
-        "uniques": 11
+        "count": 15,
+        "uniques": 12
       }
     },
     {
@@ -6513,13 +6615,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_webhook/deployments",
       "created_at": "2023-03-04T03:23:39Z",
       "updated_at": "2024-05-28T19:47:50Z",
-      "pushed_at": "2024-05-28T19:47:47Z",
+      "pushed_at": "2024-07-10T23:13:43Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_webhook.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_webhook.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_webhook.git",
       "svn_url": "https://github.com/MythicC2Profiles/basic_webhook",
       "homepage": null,
-      "size": 202,
+      "size": 228,
       "stargazers_count": 3,
       "watchers_count": 3,
       "language": "Go",
@@ -6599,6 +6701,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -6606,16 +6711,16 @@
       "network_count": 3,
       "subscribers_count": 1,
       "latest": {
-        "branch": "main",
-        "commit_message": "Merge branch 'main' of https://github.com/MythicC2Profiles/basic_webhook",
-        "commit_date": 1716925663.0,
+        "branch": "Mythic3.3",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.7'",
+        "commit_date": 1720653222.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.6",
       "clones": {
-        "count": 6,
-        "uniques": 4
+        "count": 10,
+        "uniques": 5
       }
     },
     {
@@ -6686,13 +6791,13 @@
       "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_logger/deployments",
       "created_at": "2023-03-04T03:18:18Z",
       "updated_at": "2023-08-30T01:16:01Z",
-      "pushed_at": "2024-02-13T01:25:22Z",
+      "pushed_at": "2024-07-10T23:10:00Z",
       "git_url": "git://github.com/MythicC2Profiles/basic_logger.git",
       "ssh_url": "git@github.com:MythicC2Profiles/basic_logger.git",
       "clone_url": "https://github.com/MythicC2Profiles/basic_logger.git",
       "svn_url": "https://github.com/MythicC2Profiles/basic_logger",
       "homepage": null,
-      "size": 141,
+      "size": 164,
       "stargazers_count": 2,
       "watchers_count": 2,
       "language": "Go",
@@ -6772,6 +6877,9 @@
         "dependabot_security_updates": {
           "status": "disabled"
         },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
         "secret_scanning_validity_checks": {
           "status": "disabled"
         }
@@ -6779,16 +6887,16 @@
       "network_count": 2,
       "subscribers_count": 1,
       "latest": {
-        "branch": "main",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.3'",
-        "commit_date": 1707787521.0,
+        "branch": "Mythic3.3",
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.4'",
+        "commit_date": 1720652999.0,
         "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
       },
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.3",
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 14,
+        "uniques": 11
       }
     }
   ]
