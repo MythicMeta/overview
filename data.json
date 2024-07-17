@@ -208,8 +208,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.5",
       "category": "Agent",
       "clones": {
-        "count": 39,
-        "uniques": 34
+        "count": 38,
+        "uniques": 31
       }
     },
     {
@@ -279,16 +279,16 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Apollo/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Apollo/deployments",
       "created_at": "2020-11-09T08:05:16Z",
-      "updated_at": "2024-07-10T22:02:58Z",
-      "pushed_at": "2024-07-10T22:40:25Z",
+      "updated_at": "2024-07-16T08:57:52Z",
+      "pushed_at": "2024-07-16T16:56:58Z",
       "git_url": "git://github.com/MythicAgents/Apollo.git",
       "ssh_url": "git@github.com:MythicAgents/Apollo.git",
       "clone_url": "https://github.com/MythicAgents/Apollo.git",
       "svn_url": "https://github.com/MythicAgents/Apollo",
       "homepage": null,
       "size": 25712,
-      "stargazers_count": 434,
-      "watchers_count": 434,
+      "stargazers_count": 435,
+      "watchers_count": 435,
       "language": "C#",
       "has_issues": true,
       "has_projects": true,
@@ -300,7 +300,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 11,
+      "open_issues_count": 12,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -314,8 +314,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 90,
-      "open_issues": 11,
-      "watchers": 434,
+      "open_issues": 12,
+      "watchers": 435,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -438,7 +438,7 @@
       "category": "Agent",
       "clones": {
         "count": 113,
-        "uniques": 74
+        "uniques": 71
       }
     },
     {
@@ -666,8 +666,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.1.4",
       "category": "Agent",
       "clones": {
-        "count": 45,
-        "uniques": 33
+        "count": 46,
+        "uniques": 34
       }
     },
     {
@@ -884,7 +884,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 11,
+        "count": 14,
         "uniques": 8
       }
     },
@@ -1055,8 +1055,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -1397,8 +1397,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 12
+        "count": 40,
+        "uniques": 33
       }
     },
     {
@@ -1633,8 +1633,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 37,
-        "uniques": 17
+        "count": 41,
+        "uniques": 19
       }
     },
     {
@@ -2032,8 +2032,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.0.17",
       "category": "Agent",
       "clones": {
-        "count": 59,
-        "uniques": 39
+        "count": 62,
+        "uniques": 42
       }
     },
     {
@@ -2250,7 +2250,7 @@
       "category": "Agent",
       "clones": {
         "count": 56,
-        "uniques": 26
+        "uniques": 27
       }
     },
     {
@@ -3162,7 +3162,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 9,
+        "count": 10,
         "uniques": 6
       }
     },
@@ -3342,8 +3342,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -3725,8 +3725,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 15,
-        "uniques": 3
+        "count": 13,
+        "uniques": 1
       }
     },
     {
@@ -4322,7 +4322,7 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.2",
       "category": "Service",
       "clones": {
-        "count": 8,
+        "count": 6,
         "uniques": 4
       }
     },
@@ -4516,8 +4516,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.1",
       "category": "Wrapper",
       "clones": {
-        "count": 9,
-        "uniques": 5
+        "count": 11,
+        "uniques": 6
       }
     },
     {
@@ -5183,8 +5183,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.1.7",
       "clones": {
-        "count": 138,
-        "uniques": 91
+        "count": 163,
+        "uniques": 114
       }
     },
     {
@@ -5353,8 +5353,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.1",
       "clones": {
-        "count": 22,
-        "uniques": 12
+        "count": 23,
+        "uniques": 13
       }
     },
     {
@@ -5523,8 +5523,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 8,
+        "uniques": 5
       }
     },
     {
@@ -5693,8 +5693,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.1.4",
       "clones": {
-        "count": 31,
-        "uniques": 19
+        "count": 32,
+        "uniques": 20
       }
     },
     {
@@ -5863,8 +5863,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       }
     },
     {
@@ -6719,8 +6719,8 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.6",
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 7,
+        "uniques": 4
       }
     },
     {
@@ -6895,8 +6895,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.3",
       "clones": {
-        "count": 13,
-        "uniques": 9
+        "count": 14,
+        "uniques": 10
       }
     }
   ]
