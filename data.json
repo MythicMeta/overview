@@ -208,8 +208,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.5",
       "category": "Agent",
       "clones": {
-        "count": 39,
-        "uniques": 30
+        "count": 36,
+        "uniques": 28
       }
     },
     {
@@ -437,8 +437,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 105,
-        "uniques": 69
+        "count": 91,
+        "uniques": 68
       }
     },
     {
@@ -666,8 +666,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.1.4",
       "category": "Agent",
       "clones": {
-        "count": 47,
-        "uniques": 35
+        "count": 38,
+        "uniques": 32
       }
     },
     {
@@ -955,7 +955,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/hermes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/hermes/deployments",
       "created_at": "2021-06-29T19:18:55Z",
-      "updated_at": "2024-06-17T21:04:25Z",
+      "updated_at": "2024-07-19T03:41:15Z",
       "pushed_at": "2024-02-27T21:31:18Z",
       "git_url": "git://github.com/MythicAgents/hermes.git",
       "ssh_url": "git@github.com:MythicAgents/hermes.git",
@@ -963,8 +963,8 @@
       "svn_url": "https://github.com/MythicAgents/hermes",
       "homepage": "",
       "size": 1431,
-      "stargazers_count": 96,
-      "watchers_count": 96,
+      "stargazers_count": 97,
+      "watchers_count": 97,
       "language": "Swift",
       "has_issues": true,
       "has_projects": true,
@@ -985,7 +985,7 @@
       "visibility": "public",
       "forks": 14,
       "open_issues": 1,
-      "watchers": 96,
+      "watchers": 97,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1633,7 +1633,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 40,
+        "count": 38,
         "uniques": 18
       }
     },
@@ -1875,16 +1875,16 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/poseidon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
-      "updated_at": "2024-07-02T15:23:35Z",
-      "pushed_at": "2024-07-11T20:49:47Z",
+      "updated_at": "2024-07-19T03:41:20Z",
+      "pushed_at": "2024-07-19T08:34:22Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
       "clone_url": "https://github.com/MythicAgents/poseidon.git",
       "svn_url": "https://github.com/MythicAgents/poseidon",
       "homepage": "",
       "size": 14687,
-      "stargazers_count": 108,
-      "watchers_count": 108,
+      "stargazers_count": 109,
+      "watchers_count": 109,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -1896,7 +1896,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "license": {
         "key": "other",
         "name": "Other",
@@ -1910,8 +1910,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 30,
-      "open_issues": 1,
-      "watchers": 108,
+      "open_issues": 2,
+      "watchers": 109,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -2032,8 +2032,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.0.17",
       "category": "Agent",
       "clones": {
-        "count": 62,
-        "uniques": 42
+        "count": 58,
+        "uniques": 39
       }
     },
     {
@@ -2957,8 +2957,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     {
@@ -3725,8 +3725,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 13,
-        "uniques": 1
+        "count": 14,
+        "uniques": 2
       }
     },
     {
@@ -4123,8 +4123,8 @@
       "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.2",
       "category": "Service",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -4516,8 +4516,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.1",
       "category": "Wrapper",
       "clones": {
-        "count": 10,
-        "uniques": 5
+        "count": 12,
+        "uniques": 6
       }
     },
     {
@@ -4687,8 +4687,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       }
     },
     {
@@ -5183,8 +5183,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.1.7",
       "clones": {
-        "count": 156,
-        "uniques": 105
+        "count": 148,
+        "uniques": 107
       }
     },
     {
@@ -5353,8 +5353,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.1",
       "clones": {
-        "count": 26,
-        "uniques": 16
+        "count": 25,
+        "uniques": 15
       }
     },
     {
@@ -5693,8 +5693,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.1.4",
       "clones": {
-        "count": 30,
-        "uniques": 19
+        "count": 29,
+        "uniques": 18
       }
     },
     {
@@ -6033,7 +6033,7 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 11,
+        "count": 10,
         "uniques": 9
       }
     },
@@ -6203,7 +6203,7 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.2",
       "clones": {
-        "count": 10,
+        "count": 9,
         "uniques": 8
       }
     },
@@ -6373,8 +6373,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 9,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       }
     },
     {
