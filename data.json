@@ -3635,7 +3635,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/MythicAgents/Hannibal",
-      "description": "A Mythic Agent written in x64 PIC C",
+      "description": "A Mythic Agent written in PIC C.",
       "fork": false,
       "url": "https://api.github.com/repos/MythicAgents/Hannibal",
       "forks_url": "https://api.github.com/repos/MythicAgents/Hannibal/forks",
@@ -3675,8 +3675,8 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Hannibal/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Hannibal/deployments",
       "created_at": "2024-11-20T17:33:20Z",
-      "updated_at": "2024-11-20T17:38:37Z",
-      "pushed_at": "2024-11-20T17:35:20Z",
+      "updated_at": "2024-11-20T17:47:33Z",
+      "pushed_at": "2024-11-20T17:47:30Z",
       "git_url": "git://github.com/MythicAgents/Hannibal.git",
       "ssh_url": "git@github.com:MythicAgents/Hannibal.git",
       "clone_url": "https://github.com/MythicAgents/Hannibal.git",
@@ -3774,9 +3774,9 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "Update README.md",
-        "commit_date": 1732085219.0,
-        "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
+        "commit_message": "Add files via upload",
+        "commit_date": 1732124849.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/Hannibal/main/agent_icons/hannibal.svg"
       },
       "metadata": {
         "os": [
@@ -5458,8 +5458,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.2.9",
       "clones": {
-        "count": 193,
-        "uniques": 122
+        "count": 194,
+        "uniques": 123
       }
     },
     {
@@ -7173,8 +7173,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.5",
       "clones": {
-        "count": 9,
-        "uniques": 8
+        "count": 10,
+        "uniques": 9
       }
     }
   ]
