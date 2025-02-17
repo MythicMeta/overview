@@ -117,9 +117,9 @@ with open(agent_repos) as f:
                 }
                 try:
                     clones = proj.get_clones_traffic()
+                    print(clones)
                     repo_data_json["clones"]["count"] = clones["count"]
                     repo_data_json["clones"]["uniques"] = clones["uniques"]
-                    print(clones)
                     if url not in stats_data:
                         stats_data[url] = {}
                     for clone in clones["clones"]:
