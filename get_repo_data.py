@@ -57,6 +57,7 @@ with open(agent_repos) as f:
                 for file in files:
                     if file.name.lower().startswith(f"{proj.name}".lower()):
                         latest["icon"] = file.download_url
+                        break
             except Exception as e:
                 print(f"Failed to find agent_icons folder for {url} - {e}")
 
@@ -75,6 +76,7 @@ with open(agent_repos) as f:
                             for file in files:
                                 if file.name.lower().startswith(f"{proj.name}".lower()):
                                     latest["icon"] = file.download_url
+                                    break
                         except Exception as e:
                             print(f"Failed to find agent_icons folder for {url} - {e}")
             except Exception as e:
