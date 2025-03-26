@@ -216,8 +216,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.9",
       "category": "Agent",
       "clones": {
-        "count": 186,
-        "uniques": 149
+        "count": 185,
+        "uniques": 148
       }
     },
     {
@@ -452,8 +452,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.0.32",
       "category": "Agent",
       "clones": {
-        "count": 645,
-        "uniques": 380
+        "count": 639,
+        "uniques": 379
       }
     },
     {
@@ -694,8 +694,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.1-rc8",
       "category": "Agent",
       "clones": {
-        "count": 310,
-        "uniques": 242
+        "count": 307,
+        "uniques": 240
       }
     },
     {
@@ -916,8 +916,8 @@
       "remote_images": "ghcr.io/mythicagents/freyja:v0.0.1.00",
       "category": "Agent",
       "clones": {
-        "count": 116,
-        "uniques": 84
+        "count": 113,
+        "uniques": 82
       }
     },
     {
@@ -1089,8 +1089,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 86,
-        "uniques": 70
+        "count": 85,
+        "uniques": 69
       }
     },
     {
@@ -1441,8 +1441,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 146,
-        "uniques": 106
+        "count": 143,
+        "uniques": 104
       }
     },
     {
@@ -1679,8 +1679,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 249,
-        "uniques": 196
+        "count": 246,
+        "uniques": 193
       }
     },
     {
@@ -2082,8 +2082,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.2.7",
       "category": "Agent",
       "clones": {
-        "count": 503,
-        "uniques": 315
+        "count": 500,
+        "uniques": 311
       }
     },
     {
@@ -2301,8 +2301,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.11",
       "category": "Agent",
       "clones": {
-        "count": 188,
-        "uniques": 154
+        "count": 185,
+        "uniques": 152
       }
     },
     {
@@ -2474,8 +2474,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 67,
-        "uniques": 63
+        "count": 66,
+        "uniques": 62
       }
     },
     {
@@ -2659,8 +2659,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 100,
-        "uniques": 62
+        "count": 99,
+        "uniques": 61
       }
     },
     {
@@ -4175,8 +4175,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 156,
-        "uniques": 104
+        "count": 152,
+        "uniques": 102
       }
     },
     {
@@ -4959,8 +4959,8 @@
       "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 25,
-        "uniques": 23
+        "count": 23,
+        "uniques": 22
       }
     },
     {
@@ -5165,6 +5165,185 @@
       }
     },
     {
+      "id": 947971274,
+      "node_id": "R_kgDOOIDkyg",
+      "name": "hydra",
+      "full_name": "MythicAgents/hydra",
+      "private": false,
+      "owner": {
+        "login": "MythicAgents",
+        "id": 73145583,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicAgents",
+        "html_url": "https://github.com/MythicAgents",
+        "followers_url": "https://api.github.com/users/MythicAgents/followers",
+        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+        "repos_url": "https://api.github.com/users/MythicAgents/repos",
+        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/MythicAgents/hydra",
+      "description": "Dynamic Eventing container",
+      "fork": false,
+      "url": "https://api.github.com/repos/MythicAgents/hydra",
+      "forks_url": "https://api.github.com/repos/MythicAgents/hydra/forks",
+      "keys_url": "https://api.github.com/repos/MythicAgents/hydra/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/MythicAgents/hydra/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/MythicAgents/hydra/teams",
+      "hooks_url": "https://api.github.com/repos/MythicAgents/hydra/hooks",
+      "issue_events_url": "https://api.github.com/repos/MythicAgents/hydra/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/MythicAgents/hydra/events",
+      "assignees_url": "https://api.github.com/repos/MythicAgents/hydra/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/MythicAgents/hydra/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/MythicAgents/hydra/tags",
+      "blobs_url": "https://api.github.com/repos/MythicAgents/hydra/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/MythicAgents/hydra/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/MythicAgents/hydra/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/MythicAgents/hydra/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/MythicAgents/hydra/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/MythicAgents/hydra/languages",
+      "stargazers_url": "https://api.github.com/repos/MythicAgents/hydra/stargazers",
+      "contributors_url": "https://api.github.com/repos/MythicAgents/hydra/contributors",
+      "subscribers_url": "https://api.github.com/repos/MythicAgents/hydra/subscribers",
+      "subscription_url": "https://api.github.com/repos/MythicAgents/hydra/subscription",
+      "commits_url": "https://api.github.com/repos/MythicAgents/hydra/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/MythicAgents/hydra/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/MythicAgents/hydra/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/MythicAgents/hydra/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/MythicAgents/hydra/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/MythicAgents/hydra/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/MythicAgents/hydra/merges",
+      "archive_url": "https://api.github.com/repos/MythicAgents/hydra/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/MythicAgents/hydra/downloads",
+      "issues_url": "https://api.github.com/repos/MythicAgents/hydra/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/MythicAgents/hydra/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/MythicAgents/hydra/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/MythicAgents/hydra/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/MythicAgents/hydra/labels{/name}",
+      "releases_url": "https://api.github.com/repos/MythicAgents/hydra/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/MythicAgents/hydra/deployments",
+      "created_at": "2025-03-13T14:38:39Z",
+      "updated_at": "2025-03-18T05:59:13Z",
+      "pushed_at": "2025-03-18T03:26:52Z",
+      "git_url": "git://github.com/MythicAgents/hydra.git",
+      "ssh_url": "git@github.com:MythicAgents/hydra.git",
+      "clone_url": "https://github.com/MythicAgents/hydra.git",
+      "svn_url": "https://github.com/MythicAgents/hydra",
+      "homepage": null,
+      "size": 10,
+      "stargazers_count": 3,
+      "watchers_count": 3,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 1,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "topics": [],
+      "visibility": "public",
+      "forks": 1,
+      "open_issues": 0,
+      "watchers": 3,
+      "default_branch": "main",
+      "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+      },
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "allow_auto_merge": false,
+      "delete_branch_on_merge": false,
+      "allow_update_branch": false,
+      "use_squash_pr_title_as_default": false,
+      "squash_merge_commit_message": "COMMIT_MESSAGES",
+      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+      "merge_commit_message": "PR_TITLE",
+      "merge_commit_title": "MERGE_MESSAGE",
+      "custom_properties": {},
+      "organization": {
+        "login": "MythicAgents",
+        "id": 73145583,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicAgents",
+        "html_url": "https://github.com/MythicAgents",
+        "followers_url": "https://api.github.com/users/MythicAgents/followers",
+        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+        "repos_url": "https://api.github.com/users/MythicAgents/repos",
+        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
+      "network_count": 1,
+      "subscribers_count": 1,
+      "latest": {
+        "branch": "main",
+        "commit_message": "updated with some debugging info and fixing a bad example",
+        "commit_date": 1742268410.0,
+        "icon": "https://avatars.githubusercontent.com/u/73145583?v=4"
+      },
+      "metadata": {},
+      "remote_images": "",
+      "category": "Eventing",
+      "clones": {
+        "count": 30,
+        "uniques": 28
+      }
+    },
+    {
       "id": 348458452,
       "node_id": "MDEwOlJlcG9zaXRvcnkzNDg0NTg0NTI=",
       "name": "service_wrapper",
@@ -5356,8 +5535,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.4",
       "category": "Wrapper",
       "clones": {
-        "count": 112,
-        "uniques": 86
+        "count": 110,
+        "uniques": 85
       }
     },
     {
@@ -5529,8 +5708,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 127,
-        "uniques": 96
+        "count": 125,
+        "uniques": 95
       }
     },
     {
@@ -6031,8 +6210,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.2.12",
       "clones": {
-        "count": 708,
-        "uniques": 497
+        "count": 704,
+        "uniques": 494
       }
     },
     {
@@ -6375,8 +6554,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 125,
-        "uniques": 100
+        "count": 122,
+        "uniques": 98
       }
     },
     {
@@ -6547,8 +6726,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.2.6",
       "clones": {
-        "count": 232,
-        "uniques": 138
+        "count": 231,
+        "uniques": 137
       }
     },
     {
@@ -7235,8 +7414,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 92,
-        "uniques": 80
+        "count": 91,
+        "uniques": 79
       }
     },
     {
@@ -7407,8 +7586,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.19",
       "clones": {
-        "count": 156,
-        "uniques": 121
+        "count": 154,
+        "uniques": 120
       }
     },
     {
@@ -7763,8 +7942,8 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.10",
       "clones": {
-        "count": 80,
-        "uniques": 72
+        "count": 78,
+        "uniques": 71
       }
     },
     {
@@ -7941,8 +8120,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.6",
       "clones": {
-        "count": 55,
-        "uniques": 48
+        "count": 53,
+        "uniques": 47
       }
     }
   ]
