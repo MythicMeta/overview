@@ -452,8 +452,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.0.32",
       "category": "Agent",
       "clones": {
-        "count": 643,
-        "uniques": 377
+        "count": 645,
+        "uniques": 380
       }
     },
     {
@@ -694,8 +694,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.1-rc8",
       "category": "Agent",
       "clones": {
-        "count": 308,
-        "uniques": 241
+        "count": 310,
+        "uniques": 242
       }
     },
     {
@@ -1679,8 +1679,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 248,
-        "uniques": 194
+        "count": 249,
+        "uniques": 196
       }
     },
     {
@@ -2082,8 +2082,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.2.7",
       "category": "Agent",
       "clones": {
-        "count": 502,
-        "uniques": 313
+        "count": 503,
+        "uniques": 315
       }
     },
     {
@@ -2301,8 +2301,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.11",
       "category": "Agent",
       "clones": {
-        "count": 187,
-        "uniques": 153
+        "count": 188,
+        "uniques": 154
       }
     },
     {
@@ -3822,8 +3822,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 109,
-        "uniques": 63
+        "count": 110,
+        "uniques": 64
       }
     },
     {
@@ -5165,184 +5165,6 @@
       }
     },
     {
-      "id": 954004413,
-      "node_id": "R_kgDOONzzvQ",
-      "name": "VECTR",
-      "full_name": "MythicAgents/VECTR",
-      "private": true,
-      "owner": {
-        "login": "MythicAgents",
-        "id": 73145583,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/MythicAgents",
-        "html_url": "https://github.com/MythicAgents",
-        "followers_url": "https://api.github.com/users/MythicAgents/followers",
-        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
-        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
-        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
-        "repos_url": "https://api.github.com/users/MythicAgents/repos",
-        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/MythicAgents/VECTR",
-      "description": "A service container for interacting with SRA's VECTR",
-      "fork": false,
-      "url": "https://api.github.com/repos/MythicAgents/VECTR",
-      "forks_url": "https://api.github.com/repos/MythicAgents/VECTR/forks",
-      "keys_url": "https://api.github.com/repos/MythicAgents/VECTR/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/MythicAgents/VECTR/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/MythicAgents/VECTR/teams",
-      "hooks_url": "https://api.github.com/repos/MythicAgents/VECTR/hooks",
-      "issue_events_url": "https://api.github.com/repos/MythicAgents/VECTR/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/MythicAgents/VECTR/events",
-      "assignees_url": "https://api.github.com/repos/MythicAgents/VECTR/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/MythicAgents/VECTR/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/MythicAgents/VECTR/tags",
-      "blobs_url": "https://api.github.com/repos/MythicAgents/VECTR/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/MythicAgents/VECTR/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/MythicAgents/VECTR/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/MythicAgents/VECTR/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/MythicAgents/VECTR/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/MythicAgents/VECTR/languages",
-      "stargazers_url": "https://api.github.com/repos/MythicAgents/VECTR/stargazers",
-      "contributors_url": "https://api.github.com/repos/MythicAgents/VECTR/contributors",
-      "subscribers_url": "https://api.github.com/repos/MythicAgents/VECTR/subscribers",
-      "subscription_url": "https://api.github.com/repos/MythicAgents/VECTR/subscription",
-      "commits_url": "https://api.github.com/repos/MythicAgents/VECTR/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/MythicAgents/VECTR/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/MythicAgents/VECTR/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/MythicAgents/VECTR/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/MythicAgents/VECTR/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/MythicAgents/VECTR/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/MythicAgents/VECTR/merges",
-      "archive_url": "https://api.github.com/repos/MythicAgents/VECTR/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/MythicAgents/VECTR/downloads",
-      "issues_url": "https://api.github.com/repos/MythicAgents/VECTR/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/MythicAgents/VECTR/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/MythicAgents/VECTR/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/MythicAgents/VECTR/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/MythicAgents/VECTR/labels{/name}",
-      "releases_url": "https://api.github.com/repos/MythicAgents/VECTR/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/MythicAgents/VECTR/deployments",
-      "created_at": "2025-03-24T12:21:12Z",
-      "updated_at": "2025-03-26T19:31:06Z",
-      "pushed_at": "2025-03-26T19:31:02Z",
-      "git_url": "git://github.com/MythicAgents/VECTR.git",
-      "ssh_url": "git@github.com:MythicAgents/VECTR.git",
-      "clone_url": "https://github.com/MythicAgents/VECTR.git",
-      "svn_url": "https://github.com/MythicAgents/VECTR",
-      "homepage": null,
-      "size": 29,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Python",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
-      "allow_forking": false,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "topics": [],
-      "visibility": "private",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": true,
-        "maintain": true,
-        "push": true,
-        "triage": true,
-        "pull": true
-      },
-      "allow_squash_merge": true,
-      "allow_merge_commit": true,
-      "allow_rebase_merge": true,
-      "allow_auto_merge": false,
-      "delete_branch_on_merge": false,
-      "allow_update_branch": false,
-      "use_squash_pr_title_as_default": false,
-      "squash_merge_commit_message": "COMMIT_MESSAGES",
-      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
-      "merge_commit_message": "PR_TITLE",
-      "merge_commit_title": "MERGE_MESSAGE",
-      "custom_properties": {},
-      "organization": {
-        "login": "MythicAgents",
-        "id": 73145583,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/MythicAgents",
-        "html_url": "https://github.com/MythicAgents",
-        "followers_url": "https://api.github.com/users/MythicAgents/followers",
-        "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
-        "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
-        "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
-        "repos_url": "https://api.github.com/users/MythicAgents/repos",
-        "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "network_count": 0,
-      "subscribers_count": 1,
-      "latest": {
-        "branch": "main",
-        "commit_message": "add tags, custom mitre id for test case creation",
-        "commit_date": 1743017460.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/VECTR/main/agent_icons/vectr.svg?token=ABIRF3KZPKGK3U2WMJ5GJ3TH4RQBU"
-      },
-      "metadata": {
-        "os": [
-          "Windows",
-          "Linux",
-          "macOS"
-        ],
-        "languages": [
-          "python"
-        ],
-        "features": {
-          "mythic": [
-            "browser scripts",
-            "docker"
-          ],
-          "custom": []
-        },
-        "payload_output": [],
-        "architectures": [],
-        "c2": [],
-        "mythic_version": "3.3",
-        "agent_version": "0.0.1",
-        "supported_wrappers": []
-      },
-      "remote_images": "",
-      "category": "Service",
-      "clones": {
-        "count": 0,
-        "uniques": 0
-      }
-    },
-    {
       "id": 348458452,
       "node_id": "MDEwOlJlcG9zaXRvcnkzNDg0NTg0NTI=",
       "name": "service_wrapper",
@@ -6209,8 +6031,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.2.12",
       "clones": {
-        "count": 707,
-        "uniques": 496
+        "count": 708,
+        "uniques": 497
       }
     },
     {
@@ -6381,8 +6203,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.8",
       "clones": {
-        "count": 173,
-        "uniques": 125
+        "count": 174,
+        "uniques": 126
       }
     },
     {
@@ -6553,8 +6375,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 124,
-        "uniques": 99
+        "count": 125,
+        "uniques": 100
       }
     },
     {
@@ -6897,8 +6719,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 72,
-        "uniques": 69
+        "count": 73,
+        "uniques": 70
       }
     },
     {
