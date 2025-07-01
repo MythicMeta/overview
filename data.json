@@ -216,8 +216,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.1.12",
       "category": "Agent",
       "clones": {
-        "count": 190,
-        "uniques": 146
+        "count": 181,
+        "uniques": 138
       }
     },
     {
@@ -452,8 +452,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.0.49",
       "category": "Agent",
       "clones": {
-        "count": 776,
-        "uniques": 492
+        "count": 765,
+        "uniques": 481
       }
     },
     {
@@ -694,8 +694,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.2-rc1",
       "category": "Agent",
       "clones": {
-        "count": 303,
-        "uniques": 220
+        "count": 304,
+        "uniques": 214
       }
     },
     {
@@ -916,7 +916,7 @@
       "remote_images": "ghcr.io/mythicagents/freyja:v0.0.1.00",
       "category": "Agent",
       "clones": {
-        "count": 54,
+        "count": 53,
         "uniques": 35
       }
     },
@@ -1268,7 +1268,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 18,
+        "count": 17,
         "uniques": 13
       }
     },
@@ -1441,8 +1441,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 120,
-        "uniques": 63
+        "count": 118,
+        "uniques": 62
       }
     },
     {
@@ -1679,8 +1679,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 200,
-        "uniques": 139
+        "count": 202,
+        "uniques": 142
       }
     },
     {
@@ -1852,8 +1852,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 13,
+        "uniques": 12
       }
     },
     {
@@ -2082,8 +2082,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.2.13",
       "category": "Agent",
       "clones": {
-        "count": 317,
-        "uniques": 228
+        "count": 314,
+        "uniques": 226
       }
     },
     {
@@ -2301,8 +2301,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.13",
       "category": "Agent",
       "clones": {
-        "count": 167,
-        "uniques": 99
+        "count": 166,
+        "uniques": 98
       }
     },
     {
@@ -2474,8 +2474,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 16
+        "count": 13,
+        "uniques": 13
       }
     },
     {
@@ -2659,7 +2659,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 23,
+        "count": 22,
         "uniques": 19
       }
     },
@@ -2838,7 +2838,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 15,
+        "count": 14,
         "uniques": 12
       }
     },
@@ -3017,8 +3017,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 19,
-        "uniques": 15
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -3224,7 +3224,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 20,
+        "count": 19,
         "uniques": 10
       }
     },
@@ -3620,8 +3620,8 @@
       "remote_images": "ghcr.io/mythicagents/arachne:v0.0.0.12",
       "category": "Agent",
       "clones": {
-        "count": 48,
-        "uniques": 33
+        "count": 45,
+        "uniques": 32
       }
     },
     {
@@ -3822,8 +3822,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 68,
-        "uniques": 41
+        "count": 73,
+        "uniques": 43
       }
     },
     {
@@ -4175,8 +4175,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 98,
-        "uniques": 63
+        "count": 96,
+        "uniques": 62
       }
     },
     {
@@ -4535,8 +4535,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 10,
+        "uniques": 9
       }
     },
     {
@@ -4730,8 +4730,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 8,
+        "uniques": 6
       }
     },
     {
@@ -4909,8 +4909,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 18,
-        "uniques": 14
+        "count": 16,
+        "uniques": 13
       }
     },
     {
@@ -5112,8 +5112,8 @@
       "remote_images": "ghcr.io/mythicagents/forge:v0.0.0.13",
       "category": "CommandAugmentation",
       "clones": {
-        "count": 68,
-        "uniques": 53
+        "count": 69,
+        "uniques": 54
       }
     },
     {
@@ -5313,8 +5313,8 @@
       "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 41,
-        "uniques": 36
+        "count": 39,
+        "uniques": 35
       }
     },
     {
@@ -5514,7 +5514,7 @@
       "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 25,
+        "count": 24,
         "uniques": 23
       }
     },
@@ -5715,8 +5715,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 25,
-        "uniques": 22
+        "count": 23,
+        "uniques": 21
       }
     },
     {
@@ -6090,8 +6090,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.5",
       "category": "Wrapper",
       "clones": {
-        "count": 118,
-        "uniques": 81
+        "count": 114,
+        "uniques": 82
       }
     },
     {
@@ -6263,8 +6263,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 157,
-        "uniques": 126
+        "count": 148,
+        "uniques": 121
       }
     },
     {
@@ -6442,8 +6442,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 9,
-        "uniques": 8
+        "count": 7,
+        "uniques": 7
       }
     },
     {
@@ -6765,8 +6765,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.2.12",
       "clones": {
-        "count": 829,
-        "uniques": 574
+        "count": 805,
+        "uniques": 563
       }
     },
     {
@@ -6937,8 +6937,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.8",
       "clones": {
-        "count": 155,
-        "uniques": 89
+        "count": 149,
+        "uniques": 86
       }
     },
     {
@@ -7109,8 +7109,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 100,
-        "uniques": 61
+        "count": 94,
+        "uniques": 59
       }
     },
     {
@@ -7281,8 +7281,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.2.7",
       "clones": {
-        "count": 197,
-        "uniques": 108
+        "count": 192,
+        "uniques": 107
       }
     },
     {
@@ -7625,7 +7625,7 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/tcp:v0.0.0.2",
       "clones": {
-        "count": 121,
+        "count": 120,
         "uniques": 62
       }
     },
@@ -7797,8 +7797,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.4",
       "clones": {
-        "count": 118,
-        "uniques": 68
+        "count": 121,
+        "uniques": 72
       }
     },
     {
@@ -7969,8 +7969,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 94,
-        "uniques": 75
+        "count": 91,
+        "uniques": 73
       }
     },
     {
@@ -8141,8 +8141,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.19",
       "clones": {
-        "count": 137,
-        "uniques": 104
+        "count": 149,
+        "uniques": 109
       }
     },
     {
@@ -8319,8 +8319,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 30,
-        "uniques": 23
+        "count": 31,
+        "uniques": 24
       }
     },
     {
@@ -8670,7 +8670,7 @@
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.10",
       "clones": {
         "count": 42,
-        "uniques": 34
+        "uniques": 35
       }
     },
     {
@@ -8847,8 +8847,186 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.6",
       "clones": {
-        "count": 41,
-        "uniques": 35
+        "count": 42,
+        "uniques": 37
+      }
+    },
+    {
+      "id": 1011445383,
+      "node_id": "R_kgDOPEluhw",
+      "name": "basic_auth_providers",
+      "full_name": "MythicC2Profiles/basic_auth_providers",
+      "private": false,
+      "owner": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/MythicC2Profiles/basic_auth_providers",
+      "description": "A container that brings ADFS SSO to Mythic",
+      "fork": false,
+      "url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers",
+      "forks_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/forks",
+      "keys_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/teams",
+      "hooks_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/hooks",
+      "issue_events_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/events",
+      "assignees_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/tags",
+      "blobs_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/languages",
+      "stargazers_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/stargazers",
+      "contributors_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/contributors",
+      "subscribers_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/subscribers",
+      "subscription_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/subscription",
+      "commits_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/merges",
+      "archive_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/downloads",
+      "issues_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/labels{/name}",
+      "releases_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/MythicC2Profiles/basic_auth_providers/deployments",
+      "created_at": "2025-06-30T20:38:56Z",
+      "updated_at": "2025-07-01T15:23:15Z",
+      "pushed_at": "2025-07-01T15:23:12Z",
+      "git_url": "git://github.com/MythicC2Profiles/basic_auth_providers.git",
+      "ssh_url": "git@github.com:MythicC2Profiles/basic_auth_providers.git",
+      "clone_url": "https://github.com/MythicC2Profiles/basic_auth_providers.git",
+      "svn_url": "https://github.com/MythicC2Profiles/basic_auth_providers",
+      "homepage": null,
+      "size": 23,
+      "stargazers_count": 1,
+      "watchers_count": 1,
+      "language": "Go",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 1,
+      "default_branch": "main",
+      "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+      },
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "allow_auto_merge": false,
+      "delete_branch_on_merge": false,
+      "allow_update_branch": false,
+      "use_squash_pr_title_as_default": false,
+      "squash_merge_commit_message": "COMMIT_MESSAGES",
+      "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+      "merge_commit_message": "PR_TITLE",
+      "merge_commit_title": "MERGE_MESSAGE",
+      "custom_properties": {},
+      "organization": {
+        "login": "MythicC2Profiles",
+        "id": 80980292,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTgwMjky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80980292?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MythicC2Profiles",
+        "html_url": "https://github.com/MythicC2Profiles",
+        "followers_url": "https://api.github.com/users/MythicC2Profiles/followers",
+        "following_url": "https://api.github.com/users/MythicC2Profiles/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MythicC2Profiles/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MythicC2Profiles/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MythicC2Profiles/subscriptions",
+        "organizations_url": "https://api.github.com/users/MythicC2Profiles/orgs",
+        "repos_url": "https://api.github.com/users/MythicC2Profiles/repos",
+        "events_url": "https://api.github.com/users/MythicC2Profiles/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MythicC2Profiles/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "security_and_analysis": {
+        "secret_scanning": {
+          "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+          "status": "disabled"
+        },
+        "dependabot_security_updates": {
+          "status": "disabled"
+        },
+        "secret_scanning_non_provider_patterns": {
+          "status": "disabled"
+        },
+        "secret_scanning_validity_checks": {
+          "status": "disabled"
+        }
+      },
+      "network_count": 0,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "main",
+        "commit_message": "updating comment",
+        "commit_date": 1751383390.0,
+        "icon": "https://avatars.githubusercontent.com/u/80980292?v=4"
+      },
+      "category": "Auth",
+      "remote_images": "ghcr.io/mythicc2profiles/basic_auth_providers:v0.0.3",
+      "clones": {
+        "count": 43,
+        "uniques": 32
       }
     }
   ]
