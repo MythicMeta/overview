@@ -164,7 +164,7 @@
         }
       },
       "network_count": 22,
-      "subscribers_count": 7,
+      "subscribers_count": 6,
       "latest": {
         "branch": "master",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.1.12'",
@@ -217,7 +217,7 @@
       "category": "Agent",
       "clones": {
         "count": 119,
-        "uniques": 94
+        "uniques": 95
       }
     },
     {
@@ -384,7 +384,7 @@
         }
       },
       "network_count": 109,
-      "subscribers_count": 19,
+      "subscribers_count": 18,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #160 from InfamousSYN/master\n\nUpdated mak...",
@@ -452,8 +452,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.0.72",
       "category": "Agent",
       "clones": {
-        "count": 786,
-        "uniques": 430
+        "count": 782,
+        "uniques": 432
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "network_count": 43,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Bump Dockerfile tag to match release 'v2.2.2-rc1'",
@@ -694,8 +694,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.2-rc1",
       "category": "Agent",
       "clones": {
-        "count": 276,
-        "uniques": 148
+        "count": 268,
+        "uniques": 144
       }
     },
     {
@@ -856,7 +856,7 @@
         }
       },
       "network_count": 13,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "master",
         "commit_message": "Merge pull request #10 from MythicAgents/for_Mythic_v3_2\n\nFo...",
@@ -1078,7 +1078,7 @@
         }
       },
       "network_count": 16,
-      "subscribers_count": 9,
+      "subscribers_count": 8,
       "latest": {
         "branch": "main",
         "commit_message": "Added Dockerfile in comments if people want to DIY",
@@ -1089,8 +1089,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 44,
-        "uniques": 33
+        "count": 39,
+        "uniques": 30
       }
     },
     {
@@ -1257,7 +1257,7 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "master",
         "commit_message": "adding license",
@@ -1340,7 +1340,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Medusa/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Medusa/deployments",
       "created_at": "2021-07-15T10:05:23Z",
-      "updated_at": "2025-09-29T11:44:00Z",
+      "updated_at": "2025-10-04T17:41:50Z",
       "pushed_at": "2025-08-01T09:05:26Z",
       "git_url": "git://github.com/MythicAgents/Medusa.git",
       "ssh_url": "git@github.com:MythicAgents/Medusa.git",
@@ -1348,8 +1348,8 @@
       "svn_url": "https://github.com/MythicAgents/Medusa",
       "homepage": "",
       "size": 2180,
-      "stargazers_count": 195,
-      "watchers_count": 195,
+      "stargazers_count": 194,
+      "watchers_count": 194,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -1370,7 +1370,7 @@
       "visibility": "public",
       "forks": 47,
       "open_issues": 8,
-      "watchers": 195,
+      "watchers": 194,
       "default_branch": "master",
       "permissions": {
         "admin": true,
@@ -1430,7 +1430,7 @@
         }
       },
       "network_count": 47,
-      "subscribers_count": 11,
+      "subscribers_count": 10,
       "latest": {
         "branch": "rookuu-py3-bugs",
         "commit_message": "Resolves python2 syntax",
@@ -1442,7 +1442,7 @@
       "category": "Agent",
       "clones": {
         "count": 108,
-        "uniques": 70
+        "uniques": 72
       }
     },
     {
@@ -1609,7 +1609,7 @@
         }
       },
       "network_count": 16,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "dev",
         "commit_message": "Updated Changelog",
@@ -1679,8 +1679,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 239,
-        "uniques": 95
+        "count": 231,
+        "uniques": 93
       }
     },
     {
@@ -1841,7 +1841,7 @@
         }
       },
       "network_count": 15,
-      "subscribers_count": 7,
+      "subscribers_count": 6,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -1852,8 +1852,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 11,
+        "uniques": 9
       }
     },
     {
@@ -2020,7 +2020,7 @@
         }
       },
       "network_count": 47,
-      "subscribers_count": 8,
+      "subscribers_count": 7,
       "latest": {
         "branch": "master",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.2.17'",
@@ -2082,8 +2082,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.2.17",
       "category": "Agent",
       "clones": {
-        "count": 438,
-        "uniques": 284
+        "count": 421,
+        "uniques": 281
       }
     },
     {
@@ -2250,7 +2250,7 @@
         }
       },
       "network_count": 57,
-      "subscribers_count": 10,
+      "subscribers_count": 9,
       "latest": {
         "branch": "main",
         "commit_message": "chore(release): Thanatos release 'v0.1.14'",
@@ -2301,8 +2301,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.14",
       "category": "Agent",
       "clones": {
-        "count": 214,
-        "uniques": 105
+        "count": 213,
+        "uniques": 104
       }
     },
     {
@@ -2463,7 +2463,7 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "main",
         "commit_message": "adding icon back so it appears in overview page",
@@ -2474,8 +2474,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 20
+        "count": 21,
+        "uniques": 19
       }
     },
     {
@@ -2648,7 +2648,7 @@
         }
       },
       "network_count": 9,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "mythic-v3-support",
         "commit_message": "updating to not actually block opsec checks",
@@ -2659,8 +2659,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 27,
-        "uniques": 22
+        "count": 25,
+        "uniques": 20
       }
     },
     {
@@ -2827,7 +2827,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 4,
+      "subscribers_count": 3,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #6 from MythicAgents/dev\n\nadded missing p...",
@@ -2838,8 +2838,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 13
+        "count": 14,
+        "uniques": 11
       }
     },
     {
@@ -3006,7 +3006,7 @@
         }
       },
       "network_count": 24,
-      "subscribers_count": 11,
+      "subscribers_count": 10,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #14 from MythicAgents/v3.0.0\n\nV3.0.0",
@@ -3017,8 +3017,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 20,
-        "uniques": 16
+        "count": 19,
+        "uniques": 15
       }
     },
     {
@@ -3181,7 +3181,7 @@
         }
       },
       "network_count": 7,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "adding agent capabilities json",
@@ -3224,8 +3224,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 13,
+        "uniques": 10
       }
     },
     {
@@ -3395,7 +3395,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #3 from MythicAgents/v3.0.0\n\nupdate merma...",
@@ -3406,8 +3406,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 17,
-        "uniques": 16
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -3574,7 +3574,7 @@
         }
       },
       "network_count": 5,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.12'",
@@ -3620,8 +3620,8 @@
       "remote_images": "ghcr.io/mythicagents/arachne:v0.0.0.12",
       "category": "Agent",
       "clones": {
-        "count": 48,
-        "uniques": 30
+        "count": 46,
+        "uniques": 28
       }
     },
     {
@@ -3822,8 +3822,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 84,
-        "uniques": 41
+        "count": 87,
+        "uniques": 43
       }
     },
     {
@@ -4039,7 +4039,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Xenon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Xenon/deployments",
       "created_at": "2025-03-11T12:34:27Z",
-      "updated_at": "2025-10-01T12:59:22Z",
+      "updated_at": "2025-10-04T14:02:29Z",
       "pushed_at": "2025-09-09T00:40:31Z",
       "git_url": "git://github.com/MythicAgents/Xenon.git",
       "ssh_url": "git@github.com:MythicAgents/Xenon.git",
@@ -4047,8 +4047,8 @@
       "svn_url": "https://github.com/MythicAgents/Xenon",
       "homepage": null,
       "size": 3394,
-      "stargazers_count": 137,
-      "watchers_count": 137,
+      "stargazers_count": 136,
+      "watchers_count": 136,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -4075,7 +4075,7 @@
       "visibility": "public",
       "forks": 7,
       "open_issues": 5,
-      "watchers": 137,
+      "watchers": 136,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -4175,7 +4175,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 84,
+        "count": 82,
         "uniques": 52
       }
     },
@@ -4535,7 +4535,7 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 34,
+        "count": 37,
         "uniques": 22
       }
     },
@@ -4730,8 +4730,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 5,
+        "uniques": 5
       }
     },
     {
@@ -4898,7 +4898,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 6,
+      "subscribers_count": 5,
       "latest": {
         "branch": "main",
         "commit_message": "Create LICENSE",
@@ -4909,8 +4909,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 21,
-        "uniques": 16
+        "count": 23,
+        "uniques": 18
       }
     },
     {
@@ -5280,7 +5280,7 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "main",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.3'",
@@ -5313,8 +5313,8 @@
       "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 18,
-        "uniques": 17
+        "count": 17,
+        "uniques": 16
       }
     },
     {
@@ -5481,7 +5481,7 @@
         }
       },
       "network_count": 3,
-      "subscribers_count": 2,
+      "subscribers_count": 1,
       "latest": {
         "branch": "main",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.3'",
@@ -5682,7 +5682,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 2,
+      "subscribers_count": 1,
       "latest": {
         "branch": "main",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.0.3'",
@@ -5715,8 +5715,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 17,
-        "uniques": 16
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -6056,7 +6056,7 @@
         }
       },
       "network_count": 6,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "master",
         "commit_message": "Bump Dockerfile tag to match release 'v0.0.5'",
@@ -6090,8 +6090,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.5",
       "category": "Wrapper",
       "clones": {
-        "count": 203,
-        "uniques": 99
+        "count": 192,
+        "uniques": 94
       }
     },
     {
@@ -6252,7 +6252,7 @@
         }
       },
       "network_count": 8,
-      "subscribers_count": 5,
+      "subscribers_count": 4,
       "latest": {
         "branch": "main",
         "commit_message": "Merge pull request #11 from MythicAgents/scarecrowv5.1\n\nScar...",
@@ -6263,8 +6263,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 78,
-        "uniques": 48
+        "count": 74,
+        "uniques": 49
       }
     },
     {
@@ -6431,7 +6431,7 @@
         }
       },
       "network_count": 2,
-      "subscribers_count": 3,
+      "subscribers_count": 2,
       "latest": {
         "branch": "main",
         "commit_message": "Update README.md",
@@ -6807,7 +6807,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 183,
+        "count": 184,
         "uniques": 113
       }
     },
@@ -6979,8 +6979,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.2.13",
       "clones": {
-        "count": 903,
-        "uniques": 562
+        "count": 906,
+        "uniques": 571
       }
     },
     {
@@ -7151,8 +7151,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.0.8",
       "clones": {
-        "count": 255,
-        "uniques": 95
+        "count": 257,
+        "uniques": 97
       }
     },
     {
@@ -7323,8 +7323,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dns:v0.0.0.2",
       "clones": {
-        "count": 121,
-        "uniques": 68
+        "count": 120,
+        "uniques": 67
       }
     },
     {
@@ -7495,8 +7495,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.2.7",
       "clones": {
-        "count": 180,
-        "uniques": 92
+        "count": 175,
+        "uniques": 91
       }
     },
     {
@@ -7839,8 +7839,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/tcp:v0.0.0.2",
       "clones": {
-        "count": 96,
-        "uniques": 64
+        "count": 95,
+        "uniques": 63
       }
     },
     {
@@ -8011,8 +8011,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.4",
       "clones": {
-        "count": 107,
-        "uniques": 44
+        "count": 108,
+        "uniques": 45
       }
     },
     {
@@ -8183,8 +8183,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 76,
-        "uniques": 60
+        "count": 72,
+        "uniques": 56
       }
     },
     {
@@ -8355,7 +8355,7 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.19",
       "clones": {
-        "count": 138,
+        "count": 139,
         "uniques": 98
       }
     },
@@ -8533,8 +8533,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 22,
-        "uniques": 20
+        "count": 21,
+        "uniques": 19
       }
     },
     {
@@ -8705,8 +8705,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 31,
-        "uniques": 27
+        "count": 32,
+        "uniques": 28
       }
     },
     {
@@ -9239,8 +9239,8 @@
       "category": "Auth",
       "remote_images": "ghcr.io/mythicc2profiles/basic_auth_providers:v0.0.3",
       "clones": {
-        "count": 15,
-        "uniques": 14
+        "count": 16,
+        "uniques": 15
       }
     }
   ]
