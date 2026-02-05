@@ -238,7 +238,16 @@ with open(c2_repos) as f:
                 "branch": default_branch.name,
                 "commit_message": default_branch.commit.commit.message,
                 "commit_date": default_branch.commit.commit.author.date,
+                "icon": "",
             }
+            try:
+                files = proj.get_contents("agent_icons", ref=default_branch.name)
+                for file in files:
+                    if file.name.lower().startswith(f"{proj.name}".lower()):
+                        latest["icon"] = file.download_url
+                        break
+            except Exception as e:
+                print(f"Failed to find agent_icons folder for {url} - {e}")
             try:
                 for b in proj.get_branches():
                     branch = proj.get_branch(b.name)
@@ -247,13 +256,27 @@ with open(c2_repos) as f:
                             "branch": b.name,
                             "commit_message": branch.commit.commit.message,
                             "commit_date": branch.commit.commit.author.date,
+                            "icon": latest["icon"]
                         }
+                        try:
+                            files = proj.get_contents("agent_icons", ref=b.name)
+                            for file in files:
+                                if file.name.lower().startswith(f"{proj.name}".lower()):
+                                    latest["icon"] = file.download_url
+                                    break
+                        except Exception as e:
+                            print(f"Failed to find agent_icons folder for {url} - {e}")
             except Exception as e:
                 print(f"Failed to get branches: {e}")
             result = requests.get(url, headers=headers)
             if result.status_code == 200:
                 repo_data_json = json.loads(result.text)
-                latest["icon"] = repo_data_json["owner"]["avatar_url"]
+                if latest["icon"] == "":
+                    latest["icon"] = repo_data_json["owner"]["avatar_url"]
+                if len(latest["branch"]) > 20:
+                    latest["branch"] = latest["branch"][:20] + "..."
+                if len(latest["commit_message"]) > 60:
+                    latest["commit_message"] = latest["commit_message"][:60] + "..."
                 repo_data_json["latest"] = latest
                 # Add custom category field to JSON
                 repo_data_json['category'] = category
