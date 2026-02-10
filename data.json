@@ -2155,7 +2155,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/thanatos/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/thanatos/deployments",
       "created_at": "2022-03-07T20:35:33Z",
-      "updated_at": "2026-02-08T21:01:07Z",
+      "updated_at": "2026-02-09T14:43:05Z",
       "pushed_at": "2025-11-26T18:13:38Z",
       "git_url": "git://github.com/MythicAgents/thanatos.git",
       "ssh_url": "git@github.com:MythicAgents/thanatos.git",
@@ -2163,8 +2163,8 @@
       "svn_url": "https://github.com/MythicAgents/thanatos",
       "homepage": null,
       "size": 22361,
-      "stargazers_count": 402,
-      "watchers_count": 402,
+      "stargazers_count": 403,
+      "watchers_count": 403,
       "language": "Rust",
       "has_issues": true,
       "has_projects": true,
@@ -2191,7 +2191,7 @@
       "visibility": "public",
       "forks": 60,
       "open_issues": 20,
-      "watchers": 402,
+      "watchers": 403,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -4040,14 +4040,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Xenon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Xenon/deployments",
       "created_at": "2025-03-11T12:34:27Z",
-      "updated_at": "2026-02-07T15:16:48Z",
-      "pushed_at": "2026-02-07T15:16:43Z",
+      "updated_at": "2026-02-09T20:55:17Z",
+      "pushed_at": "2026-02-09T20:55:13Z",
       "git_url": "git://github.com/MythicAgents/Xenon.git",
       "ssh_url": "git@github.com:MythicAgents/Xenon.git",
       "clone_url": "https://github.com/MythicAgents/Xenon.git",
       "svn_url": "https://github.com/MythicAgents/Xenon",
       "homepage": null,
-      "size": 6723,
+      "size": 6726,
       "stargazers_count": 156,
       "watchers_count": 156,
       "language": "C",
@@ -4139,8 +4139,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "main",
-        "commit_message": "V0.0.4 (#23)\n\nAdditions\n* Added `socks` command with full SO...",
-        "commit_date": 1770477403.0,
+        "commit_message": "Replaced swap_endianess() function due to Yara detection",
+        "commit_date": 1770670506.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Xenon/main/agent_icons/Xenon.png"
       },
       "metadata": {
@@ -4151,11 +4151,18 @@
           "C"
         ],
         "features": {
-          "mythic": [],
+          "mythic": [
+            "file chunking",
+            "file browser",
+            "p2p",
+            "socks"
+          ],
           "custom": [
             "bofs",
-            "donut",
-            "execute assembly"
+            "execute assembly",
+            "inline assembly",
+            "Process Inject Kit",
+            "UDRL"
           ]
         },
         "payload_output": [
@@ -4171,7 +4178,7 @@
           "smb",
           "tcp"
         ],
-        "mythic_version": "3.4.18",
+        "mythic_version": "3.4.22",
         "agent_version": "0.0.4",
         "supported_wrappers": []
       },
@@ -7106,14 +7113,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Poopsie/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Poopsie/deployments",
       "created_at": "2025-12-12T22:34:35Z",
-      "updated_at": "2026-02-08T23:06:35Z",
-      "pushed_at": "2026-02-08T23:06:32Z",
+      "updated_at": "2026-02-09T23:17:13Z",
+      "pushed_at": "2026-02-09T23:17:10Z",
       "git_url": "git://github.com/MythicAgents/Poopsie.git",
       "ssh_url": "git@github.com:MythicAgents/Poopsie.git",
       "clone_url": "https://github.com/MythicAgents/Poopsie.git",
       "svn_url": "https://github.com/MythicAgents/Poopsie",
       "homepage": null,
-      "size": 1062,
+      "size": 1080,
       "stargazers_count": 3,
       "watchers_count": 3,
       "language": "Nim",
@@ -7205,8 +7212,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "Bump Dockerfile tag to match release 'v0.0.14'",
-        "commit_date": 1770591991.0,
+        "commit_message": "Bump Dockerfile tag to match release 'v0.0.15'",
+        "commit_date": 1770679029.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Poopsie/main/agent_icons/poopsie.svg"
       },
       "metadata": {
@@ -7248,7 +7255,7 @@
         "agent_version": "0.0.1",
         "supported_wrappers": []
       },
-      "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.14",
+      "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.15",
       "category": "Agent",
       "clones": {
         "count": 131,
@@ -7323,7 +7330,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Erebus/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Erebus/deployments",
       "created_at": "2025-08-18T20:10:16Z",
-      "updated_at": "2026-02-09T14:29:40Z",
+      "updated_at": "2026-02-10T01:52:45Z",
       "pushed_at": "2026-02-07T15:21:13Z",
       "git_url": "git://github.com/Whispergate/Erebus.git",
       "ssh_url": "git@github.com:Whispergate/Erebus.git",
@@ -7331,8 +7338,8 @@
       "svn_url": "https://github.com/Whispergate/Erebus",
       "homepage": null,
       "size": 3392,
-      "stargazers_count": 59,
-      "watchers_count": 59,
+      "stargazers_count": 65,
+      "watchers_count": 65,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -7366,7 +7373,7 @@
       "visibility": "public",
       "forks": 4,
       "open_issues": 0,
-      "watchers": 59,
+      "watchers": 65,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -7502,7 +7509,7 @@
       "releases_url": "https://api.github.com/repos/0xbbuddha/hermes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/0xbbuddha/hermes/deployments",
       "created_at": "2026-01-29T13:30:57Z",
-      "updated_at": "2026-02-08T07:35:12Z",
+      "updated_at": "2026-02-09T18:36:09Z",
       "pushed_at": "2026-02-07T17:56:20Z",
       "git_url": "git://github.com/0xbbuddha/hermes.git",
       "ssh_url": "git@github.com:0xbbuddha/hermes.git",
@@ -7510,8 +7517,8 @@
       "svn_url": "https://github.com/0xbbuddha/hermes",
       "homepage": null,
       "size": 81,
-      "stargazers_count": 13,
-      "watchers_count": 13,
+      "stargazers_count": 15,
+      "watchers_count": 15,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -7538,7 +7545,7 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
-      "watchers": 13,
+      "watchers": 15,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -7666,14 +7673,14 @@
       "releases_url": "https://api.github.com/repos/galoryber/fawkes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/galoryber/fawkes/deployments",
       "created_at": "2024-11-18T17:14:47Z",
-      "updated_at": "2026-02-07T03:53:22Z",
-      "pushed_at": "2026-02-07T20:14:58Z",
+      "updated_at": "2026-02-09T14:55:39Z",
+      "pushed_at": "2026-02-10T02:47:59Z",
       "git_url": "git://github.com/galoryber/fawkes.git",
       "ssh_url": "git@github.com:galoryber/fawkes.git",
       "clone_url": "https://github.com/galoryber/fawkes.git",
       "svn_url": "https://github.com/galoryber/fawkes",
       "homepage": null,
-      "size": 85024,
+      "size": 85045,
       "stargazers_count": 5,
       "watchers_count": 5,
       "language": "Go",
@@ -7714,10 +7721,10 @@
       "network_count": 1,
       "subscribers_count": 1,
       "latest": {
-        "branch": "dev",
-        "commit_message": "tested, working, docd",
-        "commit_date": 1770495296.0,
-        "icon": "https://raw.githubusercontent.com/galoryber/fawkes/dev/agent_icons/fawkes.svg"
+        "branch": "claude",
+        "commit_message": "fix(start-clr): handle JSON unmarshal error instead of silen...",
+        "commit_date": 1770691675.0,
+        "icon": "https://raw.githubusercontent.com/galoryber/fawkes/claude/agent_icons/fawkes.svg"
       },
       "metadata": {},
       "remote_images": "",
