@@ -8377,8 +8377,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.1.1",
       "clones": {
-        "count": 216,
-        "uniques": 105
+        "count": 229,
+        "uniques": 118
       }
     },
     {
@@ -9247,8 +9247,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.6",
       "clones": {
-        "count": 92,
-        "uniques": 56
+        "count": 89,
+        "uniques": 57
       }
     },
     {
@@ -9422,7 +9422,7 @@
       "remote_images": "",
       "clones": {
         "count": 40,
-        "uniques": 34
+        "uniques": 38
       }
     },
     {
@@ -9595,7 +9595,7 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.20",
       "clones": {
-        "count": 271,
+        "count": 287,
         "uniques": 145
       }
     },
@@ -10971,7 +10971,11 @@
         "icon": "https://avatars.githubusercontent.com/u/90939597?v=4"
       },
       "category": "C2",
-      "remote_images": ""
+      "remote_images": "",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
     }
   ]
 }
