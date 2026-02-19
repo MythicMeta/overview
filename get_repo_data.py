@@ -293,6 +293,10 @@ with open(c2_repos) as f:
                 except Exception as e:
                     print(f"Failed to find config.json file for {url} - {e}")
                     repo_data_json["remote_images"] = ""
+                repo_data_json["clones"] = {
+                    "count": -1,
+                    "uniques": -1
+                }
                 try:
                     clones = proj.get_clones_traffic()
                     repo_data_json["clones"] = {}
