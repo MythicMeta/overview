@@ -457,8 +457,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.1.9",
       "category": "Agent",
       "clones": {
-        "count": 1083,
-        "uniques": 747
+        "count": 970,
+        "uniques": 635
       }
     },
     {
@@ -701,8 +701,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.2-rc1",
       "category": "Agent",
       "clones": {
-        "count": 290,
-        "uniques": 154
+        "count": 313,
+        "uniques": 168
       }
     },
     {
@@ -4097,7 +4097,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 13,
+      "forks_count": 14,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -4116,7 +4116,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 13,
+      "forks": 14,
       "open_issues": 4,
       "watchers": 156,
       "default_branch": "main",
@@ -4177,7 +4177,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 13,
+      "network_count": 14,
       "subscribers_count": 3,
       "latest": {
         "branch": "v0.0.5",
@@ -4402,8 +4402,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 10,
+        "uniques": 7
       }
     },
     {
@@ -4978,7 +4978,7 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 11,
+        "count": 12,
         "uniques": 11
       }
     },
@@ -6752,7 +6752,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Kharon-Mtc/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Kharon-Mtc/deployments",
       "created_at": "2025-07-01T17:06:24Z",
-      "updated_at": "2026-02-18T17:23:02Z",
+      "updated_at": "2026-02-19T15:20:14Z",
       "pushed_at": "2025-12-30T16:11:38Z",
       "git_url": "git://github.com/MythicAgents/Kharon-Mtc.git",
       "ssh_url": "git@github.com:MythicAgents/Kharon-Mtc.git",
@@ -6760,8 +6760,8 @@
       "svn_url": "https://github.com/MythicAgents/Kharon-Mtc",
       "homepage": "",
       "size": 7183,
-      "stargazers_count": 198,
-      "watchers_count": 198,
+      "stargazers_count": 199,
+      "watchers_count": 199,
       "language": "C++",
       "has_issues": true,
       "has_projects": true,
@@ -6784,7 +6784,7 @@
       "visibility": "public",
       "forks": 37,
       "open_issues": 7,
-      "watchers": 198,
+      "watchers": 199,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -7332,8 +7332,8 @@
       "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.21",
       "category": "Agent",
       "clones": {
-        "count": 623,
-        "uniques": 235
+        "count": 381,
+        "uniques": 177
       }
     },
     {
@@ -7404,7 +7404,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Erebus/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Erebus/deployments",
       "created_at": "2025-08-18T20:10:16Z",
-      "updated_at": "2026-02-19T07:29:03Z",
+      "updated_at": "2026-02-19T19:32:11Z",
       "pushed_at": "2026-02-14T09:20:28Z",
       "git_url": "git://github.com/Whispergate/Erebus.git",
       "ssh_url": "git@github.com:Whispergate/Erebus.git",
@@ -7412,8 +7412,8 @@
       "svn_url": "https://github.com/Whispergate/Erebus",
       "homepage": "",
       "size": 3482,
-      "stargazers_count": 95,
-      "watchers_count": 95,
+      "stargazers_count": 100,
+      "watchers_count": 100,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -7449,7 +7449,7 @@
       "visibility": "public",
       "forks": 4,
       "open_issues": 0,
-      "watchers": 95,
+      "watchers": 100,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -7752,13 +7752,13 @@
       "deployments_url": "https://api.github.com/repos/galoryber/fawkes/deployments",
       "created_at": "2024-11-18T17:14:47Z",
       "updated_at": "2026-02-16T17:02:41Z",
-      "pushed_at": "2026-02-17T21:45:48Z",
+      "pushed_at": "2026-02-20T00:51:57Z",
       "git_url": "git://github.com/galoryber/fawkes.git",
       "ssh_url": "git@github.com:galoryber/fawkes.git",
       "clone_url": "https://github.com/galoryber/fawkes.git",
       "svn_url": "https://github.com/galoryber/fawkes",
       "homepage": "",
-      "size": 85409,
+      "size": 85304,
       "stargazers_count": 13,
       "watchers_count": 13,
       "language": "Go",
@@ -7802,8 +7802,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "claude",
-        "commit_message": "fix(hwbp): replace Go VEH callback with native x64 shellcode...",
-        "commit_date": 1771364743.0,
+        "commit_message": "fix(hwbp): revert to gadget redirect - direct RET sim has wo...",
+        "commit_date": 1771548716.0,
         "icon": "https://raw.githubusercontent.com/galoryber/fawkes/claude/agent_icons/fawkes.svg"
       },
       "metadata": {
