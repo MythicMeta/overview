@@ -218,8 +218,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.2.3",
       "category": "Agent",
       "clones": {
-        "count": 201,
-        "uniques": 127
+        "count": 173,
+        "uniques": 123
       }
     },
     {
@@ -457,8 +457,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.1.10",
       "category": "Agent",
       "clones": {
-        "count": 1500,
-        "uniques": 1141
+        "count": 1412,
+        "uniques": 1083
       }
     },
     {
@@ -701,8 +701,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.4",
       "category": "Agent",
       "clones": {
-        "count": 525,
-        "uniques": 210
+        "count": 521,
+        "uniques": 204
       }
     },
     {
@@ -925,8 +925,8 @@
       "remote_images": "ghcr.io/mythicagents/freyja:v0.0.1.00",
       "category": "Agent",
       "clones": {
-        "count": 60,
-        "uniques": 34
+        "count": 63,
+        "uniques": 33
       }
     },
     {
@@ -1100,7 +1100,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 26,
+        "count": 22,
         "uniques": 21
       }
     },
@@ -1456,8 +1456,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 129,
-        "uniques": 77
+        "count": 128,
+        "uniques": 76
       }
     },
     {
@@ -1528,7 +1528,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/merlin/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/merlin/deployments",
       "created_at": "2021-01-25T12:36:46Z",
-      "updated_at": "2026-02-23T09:59:01Z",
+      "updated_at": "2026-03-10T11:04:21Z",
       "pushed_at": "2025-04-16T13:05:47Z",
       "git_url": "git://github.com/MythicAgents/merlin.git",
       "ssh_url": "git@github.com:MythicAgents/merlin.git",
@@ -1536,8 +1536,8 @@
       "svn_url": "https://github.com/MythicAgents/merlin",
       "homepage": null,
       "size": 640,
-      "stargazers_count": 113,
-      "watchers_count": 113,
+      "stargazers_count": 114,
+      "watchers_count": 114,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -1566,7 +1566,7 @@
       "visibility": "public",
       "forks": 17,
       "open_issues": 3,
-      "watchers": 113,
+      "watchers": 114,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -1696,8 +1696,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 128,
-        "uniques": 87
+        "count": 139,
+        "uniques": 98
       }
     },
     {
@@ -1943,7 +1943,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/poseidon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/poseidon/deployments",
       "created_at": "2021-03-16T18:48:43Z",
-      "updated_at": "2026-03-02T20:28:41Z",
+      "updated_at": "2026-03-10T23:48:35Z",
       "pushed_at": "2026-02-27T22:16:02Z",
       "git_url": "git://github.com/MythicAgents/poseidon.git",
       "ssh_url": "git@github.com:MythicAgents/poseidon.git",
@@ -2103,8 +2103,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.3.13",
       "category": "Agent",
       "clones": {
-        "count": 12365,
-        "uniques": 858
+        "count": 12289,
+        "uniques": 863
       }
     },
     {
@@ -2324,7 +2324,7 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.14",
       "category": "Agent",
       "clones": {
-        "count": 126,
+        "count": 125,
         "uniques": 84
       }
     },
@@ -2499,8 +2499,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 15,
-        "uniques": 14
+        "count": 16,
+        "uniques": 15
       }
     },
     {
@@ -3048,7 +3048,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 26,
+        "count": 24,
         "uniques": 18
       }
     },
@@ -3441,8 +3441,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 7,
+        "uniques": 6
       }
     },
     {
@@ -3657,8 +3657,8 @@
       "remote_images": "ghcr.io/mythicagents/arachne:v0.0.1.3",
       "category": "Agent",
       "clones": {
-        "count": 546,
-        "uniques": 537
+        "count": 560,
+        "uniques": 551
       }
     },
     {
@@ -3861,8 +3861,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 70,
-        "uniques": 36
+        "count": 73,
+        "uniques": 39
       }
     },
     {
@@ -4080,7 +4080,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Xenon/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Xenon/deployments",
       "created_at": "2025-03-11T12:34:27Z",
-      "updated_at": "2026-03-06T10:41:35Z",
+      "updated_at": "2026-03-10T18:16:09Z",
       "pushed_at": "2026-03-01T18:11:16Z",
       "git_url": "git://github.com/MythicAgents/Xenon.git",
       "ssh_url": "git@github.com:MythicAgents/Xenon.git",
@@ -4088,8 +4088,8 @@
       "svn_url": "https://github.com/MythicAgents/Xenon",
       "homepage": null,
       "size": 8215,
-      "stargazers_count": 159,
-      "watchers_count": 159,
+      "stargazers_count": 161,
+      "watchers_count": 161,
       "language": "C",
       "has_issues": true,
       "has_projects": true,
@@ -4118,7 +4118,7 @@
       "visibility": "public",
       "forks": 14,
       "open_issues": 4,
-      "watchers": 159,
+      "watchers": 161,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -4227,7 +4227,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 168,
+        "count": 165,
         "uniques": 95
       }
     },
@@ -4402,8 +4402,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 11,
-        "uniques": 7
+        "count": 10,
+        "uniques": 6
       }
     },
     {
@@ -4600,8 +4600,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 22,
-        "uniques": 20
+        "count": 19,
+        "uniques": 18
       }
     },
     {
@@ -4978,8 +4978,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 10,
-        "uniques": 9
+        "count": 8,
+        "uniques": 8
       }
     },
     {
@@ -5183,8 +5183,8 @@
       "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.4",
       "category": "CommandAugmentation",
       "clones": {
-        "count": 180,
-        "uniques": 116
+        "count": 172,
+        "uniques": 111
       }
     },
     {
@@ -5386,8 +5386,8 @@
       "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 26,
-        "uniques": 20
+        "count": 30,
+        "uniques": 23
       }
     },
     {
@@ -5589,7 +5589,7 @@
       "remote_images": "ghcr.io/mythicagents/ghostwriter:v0.0.0.5",
       "category": "Service",
       "clones": {
-        "count": 57,
+        "count": 58,
         "uniques": 37
       }
     },
@@ -5792,8 +5792,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.4",
       "category": "Service",
       "clones": {
-        "count": 21,
-        "uniques": 17
+        "count": 23,
+        "uniques": 18
       }
     },
     {
@@ -5974,7 +5974,7 @@
       "category": "Eventing",
       "clones": {
         "count": 22,
-        "uniques": 19
+        "uniques": 18
       }
     },
     {
@@ -6171,8 +6171,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.5",
       "category": "Wrapper",
       "clones": {
-        "count": 210,
-        "uniques": 171
+        "count": 136,
+        "uniques": 99
       }
     },
     {
@@ -6346,7 +6346,7 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 84,
+        "count": 82,
         "uniques": 39
       }
     },
@@ -6896,8 +6896,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 89,
-        "uniques": 66
+        "count": 84,
+        "uniques": 64
       }
     },
     {
@@ -7113,8 +7113,8 @@
       "remote_images": "ghcr.io/mythicagents/woopsie:v0.0.7",
       "category": "Agent",
       "clones": {
-        "count": 18,
-        "uniques": 16
+        "count": 20,
+        "uniques": 17
       }
     },
     {
@@ -7332,8 +7332,8 @@
       "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.22",
       "category": "Agent",
       "clones": {
-        "count": 297,
-        "uniques": 129
+        "count": 288,
+        "uniques": 123
       }
     },
     {
@@ -7752,14 +7752,14 @@
       "releases_url": "https://api.github.com/repos/galoryber/fawkes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/galoryber/fawkes/deployments",
       "created_at": "2024-11-18T17:14:47Z",
-      "updated_at": "2026-03-08T18:07:15Z",
-      "pushed_at": "2026-03-09T22:46:37Z",
+      "updated_at": "2026-03-10T13:36:21Z",
+      "pushed_at": "2026-03-11T01:25:19Z",
       "git_url": "git://github.com/galoryber/fawkes.git",
       "ssh_url": "git@github.com:galoryber/fawkes.git",
       "clone_url": "https://github.com/galoryber/fawkes.git",
       "svn_url": "https://github.com/galoryber/fawkes",
       "homepage": "",
-      "size": 116843,
+      "size": 117053,
       "stargazers_count": 20,
       "watchers_count": 20,
       "language": "Go",
@@ -7803,8 +7803,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "claude",
-        "commit_message": "refactor: replace errorResult(fmt.Sprintf) with errorf in ar...",
-        "commit_date": 1773096391.0,
+        "commit_message": "opsec: zero decrypted plaintext buffers and check cgroup Wri...",
+        "commit_date": 1773192314.0,
         "icon": "https://raw.githubusercontent.com/galoryber/fawkes/claude/agent_icons/fawkes.svg"
       },
       "metadata": {
@@ -8204,8 +8204,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.3.2",
       "clones": {
-        "count": 1593,
-        "uniques": 1243
+        "count": 1523,
+        "uniques": 1184
       }
     },
     {
@@ -8378,8 +8378,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.1.1",
       "clones": {
-        "count": 180,
-        "uniques": 119
+        "count": 183,
+        "uniques": 122
       }
     },
     {
@@ -8552,8 +8552,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dns:v0.0.0.8",
       "clones": {
-        "count": 109,
-        "uniques": 94
+        "count": 112,
+        "uniques": 96
       }
     },
     {
@@ -8726,8 +8726,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.3.1",
       "clones": {
-        "count": 248,
-        "uniques": 142
+        "count": 245,
+        "uniques": 139
       }
     },
     {
@@ -8900,8 +8900,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 15,
-        "uniques": 15
+        "count": 17,
+        "uniques": 17
       }
     },
     {
@@ -9074,8 +9074,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/tcp:v0.0.0.3",
       "clones": {
-        "count": 130,
-        "uniques": 80
+        "count": 127,
+        "uniques": 78
       }
     },
     {
@@ -9248,8 +9248,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.6",
       "clones": {
-        "count": 61,
-        "uniques": 45
+        "count": 58,
+        "uniques": 44
       }
     },
     {
@@ -9422,8 +9422,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 60,
-        "uniques": 40
+        "count": 65,
+        "uniques": 42
       }
     },
     {
@@ -9596,8 +9596,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.20",
       "clones": {
-        "count": 233,
-        "uniques": 154
+        "count": 221,
+        "uniques": 150
       }
     },
     {
@@ -9950,8 +9950,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 11,
+        "uniques": 11
       }
     },
     {
@@ -10043,7 +10043,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 1,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -10059,7 +10059,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 7,
-      "open_issues": 0,
+      "open_issues": 1,
       "watchers": 8,
       "default_branch": "main",
       "permissions": {
@@ -10130,8 +10130,8 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.14",
       "clones": {
-        "count": 73,
-        "uniques": 61
+        "count": 71,
+        "uniques": 58
       }
     },
     {
@@ -10310,8 +10310,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.8",
       "clones": {
-        "count": 56,
-        "uniques": 48
+        "count": 50,
+        "uniques": 41
       }
     },
     {
@@ -10490,8 +10490,8 @@
       "category": "Auth",
       "remote_images": "ghcr.io/mythicc2profiles/basic_auth_providers:v0.0.4",
       "clones": {
-        "count": 14,
-        "uniques": 14
+        "count": 10,
+        "uniques": 10
       }
     },
     {
@@ -10670,8 +10670,8 @@
       "category": "Browser",
       "remote_images": "ghcr.io/mythicc2profiles/registry_browser:v0.0.1.1",
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 13,
+        "uniques": 11
       }
     },
     {
@@ -10844,8 +10844,8 @@
       "category": "Browser",
       "remote_images": "ghcr.io/mythicc2profiles/ldap_browser:v0.0.1",
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 10,
+        "uniques": 8
       }
     },
     {
