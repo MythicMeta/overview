@@ -307,11 +307,11 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 122,
+      "forks_count": 124,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 14,
+      "open_issues_count": 15,
       "license": {
         "key": "other",
         "name": "Other",
@@ -326,8 +326,8 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 122,
-      "open_issues": 14,
+      "forks": 124,
+      "open_issues": 15,
       "watchers": 538,
       "default_branch": "master",
       "permissions": {
@@ -387,7 +387,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 122,
+      "network_count": 124,
       "subscribers_count": 18,
       "latest": {
         "branch": "master",
@@ -4082,13 +4082,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/Xenon/deployments",
       "created_at": "2025-03-11T12:34:27Z",
       "updated_at": "2026-04-24T01:05:53Z",
-      "pushed_at": "2026-04-09T01:38:55Z",
+      "pushed_at": "2026-05-06T21:12:45Z",
       "git_url": "git://github.com/MythicAgents/Xenon.git",
       "ssh_url": "git@github.com:MythicAgents/Xenon.git",
       "clone_url": "https://github.com/MythicAgents/Xenon.git",
       "svn_url": "https://github.com/MythicAgents/Xenon",
       "homepage": null,
-      "size": 7303,
+      "size": 7306,
       "stargazers_count": 162,
       "watchers_count": 162,
       "language": "C",
@@ -4182,8 +4182,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "v0.0.6",
-        "commit_message": "readme",
-        "commit_date": 1775698732.0,
+        "commit_message": "Fixed memory leak in checkin data",
+        "commit_date": 1778101962.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/Xenon/v0.0.6/agent_icons/Xenon.png"
       },
       "metadata": {
@@ -4475,7 +4475,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/sage/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/sage/deployments",
       "created_at": "2025-04-03T20:56:26Z",
-      "updated_at": "2026-03-23T22:03:26Z",
+      "updated_at": "2026-05-06T22:19:59Z",
       "pushed_at": "2026-04-23T19:58:35Z",
       "git_url": "git://github.com/MythicAgents/sage.git",
       "ssh_url": "git@github.com:MythicAgents/sage.git",
@@ -4483,8 +4483,8 @@
       "svn_url": "https://github.com/MythicAgents/sage",
       "homepage": "",
       "size": 682,
-      "stargazers_count": 13,
-      "watchers_count": 13,
+      "stargazers_count": 14,
+      "watchers_count": 14,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -4522,7 +4522,7 @@
       "visibility": "public",
       "forks": 3,
       "open_issues": 3,
-      "watchers": 13,
+      "watchers": 14,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -5051,14 +5051,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/forge/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/forge/deployments",
       "created_at": "2025-01-29T22:05:31Z",
-      "updated_at": "2026-05-05T05:30:19Z",
-      "pushed_at": "2026-03-17T16:11:44Z",
+      "updated_at": "2026-05-06T23:22:37Z",
+      "pushed_at": "2026-05-06T23:22:33Z",
       "git_url": "git://github.com/MythicAgents/forge.git",
       "ssh_url": "git@github.com:MythicAgents/forge.git",
       "clone_url": "https://github.com/MythicAgents/forge.git",
       "svn_url": "https://github.com/MythicAgents/forge",
       "homepage": null,
-      "size": 80,
+      "size": 84,
       "stargazers_count": 44,
       "watchers_count": 44,
       "language": "Go",
@@ -5152,8 +5152,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "main",
-        "commit_message": "Bump config.json tag to match release 'v0.0.1.6'",
-        "commit_date": 1773763901.0,
+        "commit_message": "Bump config.json tag to match release 'v0.0.1.7'",
+        "commit_date": 1778109752.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/forge/main/agent_icons/forge.svg"
       },
       "metadata": {
@@ -5181,7 +5181,7 @@
         "agent_version": "0.0.7",
         "supported_wrappers": []
       },
-      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.6",
+      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.7",
       "category": "CommandAugmentation",
       "clones": {
         "count": 112,
@@ -7754,13 +7754,13 @@
       "deployments_url": "https://api.github.com/repos/galoryber/fawkes/deployments",
       "created_at": "2024-11-18T17:14:47Z",
       "updated_at": "2026-05-03T00:15:30Z",
-      "pushed_at": "2026-05-06T17:18:10Z",
+      "pushed_at": "2026-05-06T21:15:27Z",
       "git_url": "git://github.com/galoryber/fawkes.git",
       "ssh_url": "git@github.com:galoryber/fawkes.git",
       "clone_url": "https://github.com/galoryber/fawkes.git",
       "svn_url": "https://github.com/galoryber/fawkes",
       "homepage": "",
-      "size": 121528,
+      "size": 121551,
       "stargazers_count": 33,
       "watchers_count": 33,
       "language": "Go",
@@ -7804,8 +7804,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "claude",
-        "commit_message": "feat(etw): add blind-all action to disable a provider across...",
-        "commit_date": 1778087885.0,
+        "commit_message": "feat(credman): add vault action for Windows Vault credential...",
+        "commit_date": 1778102122.0,
         "icon": "https://raw.githubusercontent.com/galoryber/fawkes/claude/agent_icons/fawkes.svg"
       },
       "metadata": {
@@ -9526,7 +9526,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 5,
+      "forks_count": 6,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -9539,7 +9539,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 5,
+      "forks": 6,
       "open_issues": 2,
       "watchers": 28,
       "default_branch": "main",
@@ -9600,7 +9600,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 5,
+      "network_count": 6,
       "subscribers_count": 2,
       "latest": {
         "branch": "main",
