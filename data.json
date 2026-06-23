@@ -219,7 +219,7 @@
       "category": "Agent",
       "clones": {
         "count": 136,
-        "uniques": 91
+        "uniques": 89
       }
     },
     {
@@ -458,8 +458,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.1.15",
       "category": "Agent",
       "clones": {
-        "count": 1650,
-        "uniques": 1297
+        "count": 1689,
+        "uniques": 1301
       }
     },
     {
@@ -702,8 +702,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.4",
       "category": "Agent",
       "clones": {
-        "count": 204,
-        "uniques": 108
+        "count": 209,
+        "uniques": 113
       }
     },
     {
@@ -926,7 +926,7 @@
       "remote_images": "ghcr.io/mythicagents/freyja:v0.0.1.00",
       "category": "Agent",
       "clones": {
-        "count": 57,
+        "count": 59,
         "uniques": 28
       }
     },
@@ -1101,8 +1101,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 19
+        "count": 24,
+        "uniques": 20
       }
     },
     {
@@ -1282,8 +1282,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 25,
-        "uniques": 21
+        "count": 26,
+        "uniques": 22
       }
     },
     {
@@ -1457,8 +1457,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 376,
-        "uniques": 146
+        "count": 375,
+        "uniques": 141
       }
     },
     {
@@ -1697,8 +1697,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 114,
-        "uniques": 67
+        "count": 109,
+        "uniques": 65
       }
     },
     {
@@ -2104,8 +2104,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.3.18",
       "category": "Agent",
       "clones": {
-        "count": 1294,
-        "uniques": 1168
+        "count": 1289,
+        "uniques": 1154
       }
     },
     {
@@ -2325,8 +2325,8 @@
       "remote_images": "ghcr.io/mythicagents/thanatos:v0.1.14",
       "category": "Agent",
       "clones": {
-        "count": 135,
-        "uniques": 83
+        "count": 140,
+        "uniques": 81
       }
     },
     {
@@ -2868,8 +2868,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 19
+        "count": 22,
+        "uniques": 18
       }
     },
     {
@@ -3049,8 +3049,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 17
+        "count": 22,
+        "uniques": 16
       }
     },
     {
@@ -3658,8 +3658,8 @@
       "remote_images": "ghcr.io/mythicagents/arachne:v0.0.1.3",
       "category": "Agent",
       "clones": {
-        "count": 956,
-        "uniques": 936
+        "count": 942,
+        "uniques": 918
       }
     },
     {
@@ -3862,8 +3862,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 71,
-        "uniques": 35
+        "count": 67,
+        "uniques": 33
       }
     },
     {
@@ -4228,7 +4228,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 195,
+        "count": 193,
         "uniques": 115
       }
     },
@@ -4403,7 +4403,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 16,
+        "count": 17,
         "uniques": 12
       }
     },
@@ -4601,8 +4601,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 130,
-        "uniques": 50
+        "count": 108,
+        "uniques": 42
       }
     },
     {
@@ -4798,8 +4798,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 13,
-        "uniques": 9
+        "count": 12,
+        "uniques": 8
       }
     },
     {
@@ -4979,8 +4979,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 23,
-        "uniques": 18
+        "count": 22,
+        "uniques": 17
       }
     },
     {
@@ -5051,14 +5051,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/forge/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/forge/deployments",
       "created_at": "2025-01-29T22:05:31Z",
-      "updated_at": "2026-06-14T12:36:40Z",
-      "pushed_at": "2026-06-18T22:03:45Z",
+      "updated_at": "2026-06-23T15:56:25Z",
+      "pushed_at": "2026-06-23T16:09:58Z",
       "git_url": "git://github.com/MythicAgents/forge.git",
       "ssh_url": "git@github.com:MythicAgents/forge.git",
       "clone_url": "https://github.com/MythicAgents/forge.git",
       "svn_url": "https://github.com/MythicAgents/forge",
       "homepage": null,
-      "size": 86,
+      "size": 118,
       "stargazers_count": 47,
       "watchers_count": 47,
       "language": "Go",
@@ -5151,10 +5151,10 @@
       "network_count": 12,
       "subscribers_count": 3,
       "latest": {
-        "branch": "Mythic-v4.0.0",
-        "commit_message": "initial updates",
-        "commit_date": 1781820222.0,
-        "icon": "https://raw.githubusercontent.com/MythicAgents/forge/Mythic-v4.0.0/agent_icons/forge.svg"
+        "branch": "main",
+        "commit_message": "Bump config.json tag to match release 'v0.0.1.8'",
+        "commit_date": 1782230179.0,
+        "icon": "https://raw.githubusercontent.com/MythicAgents/forge/main/agent_icons/forge.svg"
       },
       "metadata": {
         "os": [
@@ -5181,11 +5181,11 @@
         "agent_version": "0.0.7",
         "supported_wrappers": []
       },
-      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.7",
+      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.8",
       "category": "CommandAugmentation",
       "clones": {
-        "count": 106,
-        "uniques": 66
+        "count": 118,
+        "uniques": 70
       }
     },
     {
@@ -5387,8 +5387,8 @@
       "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 39,
-        "uniques": 32
+        "count": 38,
+        "uniques": 31
       }
     },
     {
@@ -5793,8 +5793,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.4",
       "category": "Service",
       "clones": {
-        "count": 22,
-        "uniques": 18
+        "count": 24,
+        "uniques": 20
       }
     },
     {
@@ -5974,8 +5974,8 @@
       "remote_images": "ghcr.io/mythicagents/hydra:v0.0.1",
       "category": "Eventing",
       "clones": {
-        "count": 29,
-        "uniques": 26
+        "count": 25,
+        "uniques": 22
       }
     },
     {
@@ -6172,8 +6172,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.5",
       "category": "Wrapper",
       "clones": {
-        "count": 87,
-        "uniques": 55
+        "count": 103,
+        "uniques": 69
       }
     },
     {
@@ -6347,7 +6347,7 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 44,
+        "count": 46,
         "uniques": 26
       }
     },
@@ -6528,8 +6528,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 14,
-        "uniques": 13
+        "count": 15,
+        "uniques": 14
       }
     },
     {
@@ -6897,8 +6897,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 89,
-        "uniques": 77
+        "count": 87,
+        "uniques": 74
       }
     },
     {
@@ -7114,8 +7114,8 @@
       "remote_images": "ghcr.io/mythicagents/woopsie:v0.0.8",
       "category": "Agent",
       "clones": {
-        "count": 21,
-        "uniques": 15
+        "count": 24,
+        "uniques": 18
       }
     },
     {
@@ -7333,8 +7333,8 @@
       "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.23",
       "category": "Agent",
       "clones": {
-        "count": 84,
-        "uniques": 54
+        "count": 91,
+        "uniques": 55
       }
     },
     {
@@ -7586,7 +7586,7 @@
       "releases_url": "https://api.github.com/repos/0xbbuddha/hermes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/0xbbuddha/hermes/deployments",
       "created_at": "2026-01-29T13:30:57Z",
-      "updated_at": "2026-04-02T14:29:40Z",
+      "updated_at": "2026-06-23T15:03:50Z",
       "pushed_at": "2026-03-06T17:06:52Z",
       "git_url": "git://github.com/0xbbuddha/hermes.git",
       "ssh_url": "git@github.com:0xbbuddha/hermes.git",
@@ -7605,7 +7605,7 @@
       "has_discussions": false,
       "forks_count": 1,
       "mirror_url": null,
-      "archived": false,
+      "archived": true,
       "disabled": false,
       "open_issues_count": 1,
       "license": {
@@ -8050,6 +8050,485 @@
       }
     },
     {
+      "id": 1133546740,
+      "node_id": "R_kgDOQ5CM9A",
+      "name": "container_wrapper",
+      "full_name": "elreydetoda/container_wrapper",
+      "private": false,
+      "owner": {
+        "login": "elreydetoda",
+        "id": 10230166,
+        "node_id": "MDQ6VXNlcjEwMjMwMTY2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10230166?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elreydetoda",
+        "html_url": "https://github.com/elreydetoda",
+        "followers_url": "https://api.github.com/users/elreydetoda/followers",
+        "following_url": "https://api.github.com/users/elreydetoda/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elreydetoda/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elreydetoda/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elreydetoda/subscriptions",
+        "organizations_url": "https://api.github.com/users/elreydetoda/orgs",
+        "repos_url": "https://api.github.com/users/elreydetoda/repos",
+        "events_url": "https://api.github.com/users/elreydetoda/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elreydetoda/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/elreydetoda/container_wrapper",
+      "description": "Container image wrapper for Mythic payloads: https://specterops.io/blog/2026/06/16/mythic-embarking-on-the-open-seas-containerized-payload-delivery-for-kubernetes-assessments/",
+      "fork": true,
+      "url": "https://api.github.com/repos/elreydetoda/container_wrapper",
+      "forks_url": "https://api.github.com/repos/elreydetoda/container_wrapper/forks",
+      "keys_url": "https://api.github.com/repos/elreydetoda/container_wrapper/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/elreydetoda/container_wrapper/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/elreydetoda/container_wrapper/teams",
+      "hooks_url": "https://api.github.com/repos/elreydetoda/container_wrapper/hooks",
+      "issue_events_url": "https://api.github.com/repos/elreydetoda/container_wrapper/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/elreydetoda/container_wrapper/events",
+      "assignees_url": "https://api.github.com/repos/elreydetoda/container_wrapper/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/elreydetoda/container_wrapper/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/elreydetoda/container_wrapper/tags",
+      "blobs_url": "https://api.github.com/repos/elreydetoda/container_wrapper/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/elreydetoda/container_wrapper/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/elreydetoda/container_wrapper/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/elreydetoda/container_wrapper/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/elreydetoda/container_wrapper/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/elreydetoda/container_wrapper/languages",
+      "stargazers_url": "https://api.github.com/repos/elreydetoda/container_wrapper/stargazers",
+      "contributors_url": "https://api.github.com/repos/elreydetoda/container_wrapper/contributors",
+      "subscribers_url": "https://api.github.com/repos/elreydetoda/container_wrapper/subscribers",
+      "subscription_url": "https://api.github.com/repos/elreydetoda/container_wrapper/subscription",
+      "commits_url": "https://api.github.com/repos/elreydetoda/container_wrapper/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/elreydetoda/container_wrapper/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/elreydetoda/container_wrapper/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/elreydetoda/container_wrapper/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/elreydetoda/container_wrapper/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/elreydetoda/container_wrapper/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/elreydetoda/container_wrapper/merges",
+      "archive_url": "https://api.github.com/repos/elreydetoda/container_wrapper/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/elreydetoda/container_wrapper/downloads",
+      "issues_url": "https://api.github.com/repos/elreydetoda/container_wrapper/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/elreydetoda/container_wrapper/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/elreydetoda/container_wrapper/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/elreydetoda/container_wrapper/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/elreydetoda/container_wrapper/labels{/name}",
+      "releases_url": "https://api.github.com/repos/elreydetoda/container_wrapper/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/elreydetoda/container_wrapper/deployments",
+      "created_at": "2026-01-13T13:52:36Z",
+      "updated_at": "2026-06-23T18:53:58Z",
+      "pushed_at": "2026-05-21T15:16:27Z",
+      "git_url": "git://github.com/elreydetoda/container_wrapper.git",
+      "ssh_url": "git@github.com:elreydetoda/container_wrapper.git",
+      "clone_url": "https://github.com/elreydetoda/container_wrapper.git",
+      "svn_url": "https://github.com/elreydetoda/container_wrapper",
+      "homepage": "",
+      "size": 1505,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Python",
+      "has_issues": false,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+      },
+      "parent": {
+        "id": 348458452,
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNDg0NTg0NTI=",
+        "name": "service_wrapper",
+        "full_name": "MythicAgents/service_wrapper",
+        "private": false,
+        "owner": {
+          "login": "MythicAgents",
+          "id": 73145583,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+          "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/MythicAgents",
+          "html_url": "https://github.com/MythicAgents",
+          "followers_url": "https://api.github.com/users/MythicAgents/followers",
+          "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+          "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+          "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+          "repos_url": "https://api.github.com/users/MythicAgents/repos",
+          "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+          "type": "Organization",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/MythicAgents/service_wrapper",
+        "description": ".NET Service EXE wrapper for shellcode payloads",
+        "fork": false,
+        "url": "https://api.github.com/repos/MythicAgents/service_wrapper",
+        "forks_url": "https://api.github.com/repos/MythicAgents/service_wrapper/forks",
+        "keys_url": "https://api.github.com/repos/MythicAgents/service_wrapper/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/MythicAgents/service_wrapper/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/MythicAgents/service_wrapper/teams",
+        "hooks_url": "https://api.github.com/repos/MythicAgents/service_wrapper/hooks",
+        "issue_events_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/MythicAgents/service_wrapper/events",
+        "assignees_url": "https://api.github.com/repos/MythicAgents/service_wrapper/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/MythicAgents/service_wrapper/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/MythicAgents/service_wrapper/tags",
+        "blobs_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/MythicAgents/service_wrapper/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/MythicAgents/service_wrapper/languages",
+        "stargazers_url": "https://api.github.com/repos/MythicAgents/service_wrapper/stargazers",
+        "contributors_url": "https://api.github.com/repos/MythicAgents/service_wrapper/contributors",
+        "subscribers_url": "https://api.github.com/repos/MythicAgents/service_wrapper/subscribers",
+        "subscription_url": "https://api.github.com/repos/MythicAgents/service_wrapper/subscription",
+        "commits_url": "https://api.github.com/repos/MythicAgents/service_wrapper/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/MythicAgents/service_wrapper/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/MythicAgents/service_wrapper/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/MythicAgents/service_wrapper/merges",
+        "archive_url": "https://api.github.com/repos/MythicAgents/service_wrapper/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/MythicAgents/service_wrapper/downloads",
+        "issues_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/MythicAgents/service_wrapper/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/MythicAgents/service_wrapper/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/MythicAgents/service_wrapper/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/MythicAgents/service_wrapper/labels{/name}",
+        "releases_url": "https://api.github.com/repos/MythicAgents/service_wrapper/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/deployments",
+        "created_at": "2021-03-16T18:51:15Z",
+        "updated_at": "2025-06-26T00:20:58Z",
+        "pushed_at": "2025-04-10T18:42:33Z",
+        "git_url": "git://github.com/MythicAgents/service_wrapper.git",
+        "ssh_url": "git@github.com:MythicAgents/service_wrapper.git",
+        "clone_url": "https://github.com/MythicAgents/service_wrapper.git",
+        "svn_url": "https://github.com/MythicAgents/service_wrapper",
+        "homepage": "",
+        "size": 70,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "C#",
+        "has_issues": true,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 6,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": null,
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
+        "topics": [],
+        "visibility": "public",
+        "forks": 6,
+        "open_issues": 0,
+        "watchers": 9,
+        "default_branch": "master"
+      },
+      "source": {
+        "id": 348458452,
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNDg0NTg0NTI=",
+        "name": "service_wrapper",
+        "full_name": "MythicAgents/service_wrapper",
+        "private": false,
+        "owner": {
+          "login": "MythicAgents",
+          "id": 73145583,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjczMTQ1NTgz",
+          "avatar_url": "https://avatars.githubusercontent.com/u/73145583?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/MythicAgents",
+          "html_url": "https://github.com/MythicAgents",
+          "followers_url": "https://api.github.com/users/MythicAgents/followers",
+          "following_url": "https://api.github.com/users/MythicAgents/following{/other_user}",
+          "gists_url": "https://api.github.com/users/MythicAgents/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/MythicAgents/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/MythicAgents/subscriptions",
+          "organizations_url": "https://api.github.com/users/MythicAgents/orgs",
+          "repos_url": "https://api.github.com/users/MythicAgents/repos",
+          "events_url": "https://api.github.com/users/MythicAgents/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/MythicAgents/received_events",
+          "type": "Organization",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/MythicAgents/service_wrapper",
+        "description": ".NET Service EXE wrapper for shellcode payloads",
+        "fork": false,
+        "url": "https://api.github.com/repos/MythicAgents/service_wrapper",
+        "forks_url": "https://api.github.com/repos/MythicAgents/service_wrapper/forks",
+        "keys_url": "https://api.github.com/repos/MythicAgents/service_wrapper/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/MythicAgents/service_wrapper/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/MythicAgents/service_wrapper/teams",
+        "hooks_url": "https://api.github.com/repos/MythicAgents/service_wrapper/hooks",
+        "issue_events_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/MythicAgents/service_wrapper/events",
+        "assignees_url": "https://api.github.com/repos/MythicAgents/service_wrapper/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/MythicAgents/service_wrapper/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/MythicAgents/service_wrapper/tags",
+        "blobs_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/MythicAgents/service_wrapper/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/MythicAgents/service_wrapper/languages",
+        "stargazers_url": "https://api.github.com/repos/MythicAgents/service_wrapper/stargazers",
+        "contributors_url": "https://api.github.com/repos/MythicAgents/service_wrapper/contributors",
+        "subscribers_url": "https://api.github.com/repos/MythicAgents/service_wrapper/subscribers",
+        "subscription_url": "https://api.github.com/repos/MythicAgents/service_wrapper/subscription",
+        "commits_url": "https://api.github.com/repos/MythicAgents/service_wrapper/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/MythicAgents/service_wrapper/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/MythicAgents/service_wrapper/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/MythicAgents/service_wrapper/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/MythicAgents/service_wrapper/merges",
+        "archive_url": "https://api.github.com/repos/MythicAgents/service_wrapper/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/MythicAgents/service_wrapper/downloads",
+        "issues_url": "https://api.github.com/repos/MythicAgents/service_wrapper/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/MythicAgents/service_wrapper/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/MythicAgents/service_wrapper/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/MythicAgents/service_wrapper/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/MythicAgents/service_wrapper/labels{/name}",
+        "releases_url": "https://api.github.com/repos/MythicAgents/service_wrapper/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/MythicAgents/service_wrapper/deployments",
+        "created_at": "2021-03-16T18:51:15Z",
+        "updated_at": "2025-06-26T00:20:58Z",
+        "pushed_at": "2025-04-10T18:42:33Z",
+        "git_url": "git://github.com/MythicAgents/service_wrapper.git",
+        "ssh_url": "git@github.com:MythicAgents/service_wrapper.git",
+        "clone_url": "https://github.com/MythicAgents/service_wrapper.git",
+        "svn_url": "https://github.com/MythicAgents/service_wrapper",
+        "homepage": "",
+        "size": 70,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "C#",
+        "has_issues": true,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 6,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": null,
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
+        "topics": [],
+        "visibility": "public",
+        "forks": 6,
+        "open_issues": 0,
+        "watchers": 9,
+        "default_branch": "master"
+      },
+      "network_count": 6,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "master",
+        "commit_message": "updating favicon",
+        "commit_date": 1779376581.0,
+        "icon": "https://raw.githubusercontent.com/elreydetoda/container_wrapper/master/agent_icons/container_wrapper.svg"
+      },
+      "metadata": {
+        "os": [
+          "Windows"
+        ],
+        "languages": [
+          ".NET Framework"
+        ],
+        "features": {
+          "mythic": [
+            "wrapper"
+          ],
+          "custom": []
+        },
+        "payload_output": [
+          "service exe"
+        ],
+        "architectures": [
+          "x86_64"
+        ],
+        "c2": [],
+        "mythic_version": "3.3",
+        "agent_version": "",
+        "supported_wrappers": []
+      },
+      "remote_images": "",
+      "category": "Wrapper",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
+    },
+    {
+      "id": 1139377580,
+      "node_id": "R_kgDOQ-mFrA",
+      "name": "container_registry",
+      "full_name": "elreydetoda/container_registry",
+      "private": false,
+      "owner": {
+        "login": "elreydetoda",
+        "id": 10230166,
+        "node_id": "MDQ6VXNlcjEwMjMwMTY2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10230166?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elreydetoda",
+        "html_url": "https://github.com/elreydetoda",
+        "followers_url": "https://api.github.com/users/elreydetoda/followers",
+        "following_url": "https://api.github.com/users/elreydetoda/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elreydetoda/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elreydetoda/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elreydetoda/subscriptions",
+        "organizations_url": "https://api.github.com/users/elreydetoda/orgs",
+        "repos_url": "https://api.github.com/users/elreydetoda/repos",
+        "events_url": "https://api.github.com/users/elreydetoda/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elreydetoda/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/elreydetoda/container_registry",
+      "description": "3rd party agent for Mythic to interact with container registries: https://specterops.io/blog/2026/06/16/mythic-embarking-on-the-open-seas-containerized-payload-delivery-for-kubernetes-assessments/",
+      "fork": false,
+      "url": "https://api.github.com/repos/elreydetoda/container_registry",
+      "forks_url": "https://api.github.com/repos/elreydetoda/container_registry/forks",
+      "keys_url": "https://api.github.com/repos/elreydetoda/container_registry/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/elreydetoda/container_registry/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/elreydetoda/container_registry/teams",
+      "hooks_url": "https://api.github.com/repos/elreydetoda/container_registry/hooks",
+      "issue_events_url": "https://api.github.com/repos/elreydetoda/container_registry/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/elreydetoda/container_registry/events",
+      "assignees_url": "https://api.github.com/repos/elreydetoda/container_registry/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/elreydetoda/container_registry/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/elreydetoda/container_registry/tags",
+      "blobs_url": "https://api.github.com/repos/elreydetoda/container_registry/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/elreydetoda/container_registry/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/elreydetoda/container_registry/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/elreydetoda/container_registry/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/elreydetoda/container_registry/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/elreydetoda/container_registry/languages",
+      "stargazers_url": "https://api.github.com/repos/elreydetoda/container_registry/stargazers",
+      "contributors_url": "https://api.github.com/repos/elreydetoda/container_registry/contributors",
+      "subscribers_url": "https://api.github.com/repos/elreydetoda/container_registry/subscribers",
+      "subscription_url": "https://api.github.com/repos/elreydetoda/container_registry/subscription",
+      "commits_url": "https://api.github.com/repos/elreydetoda/container_registry/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/elreydetoda/container_registry/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/elreydetoda/container_registry/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/elreydetoda/container_registry/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/elreydetoda/container_registry/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/elreydetoda/container_registry/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/elreydetoda/container_registry/merges",
+      "archive_url": "https://api.github.com/repos/elreydetoda/container_registry/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/elreydetoda/container_registry/downloads",
+      "issues_url": "https://api.github.com/repos/elreydetoda/container_registry/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/elreydetoda/container_registry/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/elreydetoda/container_registry/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/elreydetoda/container_registry/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/elreydetoda/container_registry/labels{/name}",
+      "releases_url": "https://api.github.com/repos/elreydetoda/container_registry/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/elreydetoda/container_registry/deployments",
+      "created_at": "2026-01-21T22:06:14Z",
+      "updated_at": "2026-06-23T18:53:27Z",
+      "pushed_at": "2026-05-21T15:15:51Z",
+      "git_url": "git://github.com/elreydetoda/container_registry.git",
+      "ssh_url": "git@github.com:elreydetoda/container_registry.git",
+      "clone_url": "https://github.com/elreydetoda/container_registry.git",
+      "svn_url": "https://github.com/elreydetoda/container_registry",
+      "homepage": "",
+      "size": 1945,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+      },
+      "network_count": 0,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "main",
+        "commit_message": "updating favicon",
+        "commit_date": 1779376547.0,
+        "icon": "https://raw.githubusercontent.com/elreydetoda/container_registry/main/agent_icons/container_registry.svg"
+      },
+      "metadata": {},
+      "remote_images": "",
+      "category": "Agent",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
+    },
+    {
       "id": 349516522,
       "node_id": "MDEwOlJlcG9zaXRvcnkzNDk1MTY1MjI=",
       "name": "http",
@@ -8219,8 +8698,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.3.2",
       "clones": {
-        "count": 1566,
-        "uniques": 1320
+        "count": 1605,
+        "uniques": 1316
       }
     },
     {
@@ -8393,7 +8872,7 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.1.1",
       "clones": {
-        "count": 120,
+        "count": 121,
         "uniques": 72
       }
     },
@@ -8741,8 +9220,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.3.1",
       "clones": {
-        "count": 165,
-        "uniques": 86
+        "count": 176,
+        "uniques": 88
       }
     },
     {
@@ -9089,8 +9568,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/tcp:v0.0.0.4",
       "clones": {
-        "count": 113,
-        "uniques": 60
+        "count": 111,
+        "uniques": 59
       }
     },
     {
@@ -9263,8 +9742,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.6",
       "clones": {
-        "count": 62,
-        "uniques": 40
+        "count": 61,
+        "uniques": 39
       }
     },
     {
@@ -9437,8 +9916,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 35,
-        "uniques": 29
+        "count": 37,
+        "uniques": 31
       }
     },
     {
@@ -9611,8 +10090,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.20",
       "clones": {
-        "count": 413,
-        "uniques": 151
+        "count": 411,
+        "uniques": 156
       }
     },
     {
@@ -9791,8 +10270,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 73,
-        "uniques": 28
+        "count": 69,
+        "uniques": 29
       }
     },
     {
@@ -9965,8 +10444,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 16,
+        "uniques": 14
       }
     },
     {
@@ -10145,8 +10624,8 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.14",
       "clones": {
-        "count": 43,
-        "uniques": 39
+        "count": 45,
+        "uniques": 41
       }
     },
     {
@@ -10859,8 +11338,8 @@
       "category": "Browser",
       "remote_images": "ghcr.io/mythicc2profiles/ldap_browser:v0.0.1",
       "clones": {
-        "count": 23,
-        "uniques": 17
+        "count": 25,
+        "uniques": 19
       }
     },
     {
