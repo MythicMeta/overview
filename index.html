@@ -1,105 +1,208 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+    <script>
+        (function () {
+            var preference = localStorage.getItem('mythic-theme') || 'system';
+            var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            document.documentElement.dataset.themePreference = preference;
+            document.documentElement.dataset.theme = preference === 'dark' || (preference === 'system' && prefersDark) ? 'dark' : 'light';
+        })();
+    </script>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-
-    
-    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
-    
-    <link href="css/style.css" rel="stylesheet">
-
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-1.13.8/r-2.5.0/datatables.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="dist/uPlot.min.css">
-    
-    <title>Mythic Community Overview</title>
+    <link href="css/style.css?cb=20260623-compat-tight" rel="stylesheet">
 
+    <title>Mythic Community Overview</title>
 </head>
 
 <body>
 <script defer data-domain="mythicmeta.github.io" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
 <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
-        <div class="container" id="cckitContent">
 
-            <h3>Mythic Community Overview</h3>
-                
-            <p><i class="fas fa-star fa-lg"></i> indicates update in the last 30 days.</p>
-            <p>
-                For agent comparison, check out the <a href="/overview/agent_matrix.html">Agent Capability Matrix</a>.
-            </p>
-            <hr/>
+<div class="app-shell">
+    <header class="site-header">
+        <div class="site-title">
+            <span class="eyebrow">Mythic Community</span>
+            <h1>Project Explorer</h1>
+            <p>Public agents, C2 profiles, wrappers, services, and supporting Mythic tooling.</p>
+        </div>
+        <div class="site-actions" aria-label="Site navigation">
+            <a class="nav-pill active" href="/overview/" aria-current="page">
+                <i class="fas fa-table" aria-hidden="true"></i>
+                Overview
+            </a>
+            <a class="nav-pill" href="/overview/agent_matrix.html">
+                <i class="fas fa-th" aria-hidden="true"></i>
+                Agent Matrix
+            </a>
+            <label class="visually-hidden" for="themeSelect">Theme</label>
+            <select id="themeSelect" class="form-select theme-select" aria-label="Theme">
+                <option value="system">System</option>
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+            </select>
+        </div>
+    </header>
 
-            <table id="cckit_table" class="display stripe my_table_layout" >
-                <thead>
-                    <tr>
-                        <th data-toggle="tooltip" data-placement="top" title="Date the project was last updated">Last Update</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Last updated branch">Branch</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Category of the project">Category</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Latest Image">Docker Image</th>
-                        <th></th>
-                        <th data-toggle="tooltip" data-placement="top" title="Project name">Name</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Project description">Description</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Latest Commit Message">Commit Message</th>
-                        <th data-toggle="tooltip" data-placement="top" title="GitHub stars are used to highlight popularity">Stars</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Clone Count the last two weeks.">Clones</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Project link">URL</th>
-                        <th data-toggle="tooltip" data-placement="top" title="Project Stats"></th>
-                    </tr>
-                </thead>
+    <section class="summary-grid" aria-label="Project summary">
+        <article class="metric-card">
+            <span class="metric-label">Projects</span>
+            <strong id="metricProjects">--</strong>
+        </article>
+        <article class="metric-card">
+            <span class="metric-label">Agents &amp; Wrappers</span>
+            <strong id="metricAgents">--</strong>
+        </article>
+        <article class="metric-card">
+            <span class="metric-label">C2 &amp; Services</span>
+            <strong id="metricC2">--</strong>
+        </article>
+        <article class="metric-card accent">
+            <span class="metric-label">Updated 30d</span>
+            <strong id="metricRecent">--</strong>
+        </article>
+        <article class="metric-card">
+            <span class="metric-label">Docker Images</span>
+            <strong id="metricDocker">--</strong>
+        </article>
+        <article class="metric-card">
+            <span class="metric-label">Stars / Clones</span>
+            <strong id="metricStarsClones">--</strong>
+        </article>
+    </section>
 
-                <tfoot>
-                    <tr>
-                        <th>Last Update</th>
-                        <th>Branch</th>
-                        <th>Category</th>
-                        <th>Docker Image</th>
-                        <th></th>
-                        <th>Name</th>
-                        <th>Description</th>
-                        <th>Commit Message</th>
-                        <th>Stars</th>
-                        <th>Clones</th>
-                        <th>URL</th>
-                        <th></th>
-                    </tr>
-                </tfoot>
-            </table>
-
+    <section class="explorer-toolbar" aria-label="Repository filters">
+        <div class="search-row">
+            <div class="search-box">
+                <i class="fas fa-search" aria-hidden="true"></i>
+                <label class="visually-hidden" for="projectSearch">Search projects</label>
+                <input id="projectSearch" class="form-control" type="search" placeholder="Search names, owners, descriptions, metadata" autocomplete="off">
+            </div>
+            <div class="sort-box">
+                <label for="sortFilter">Sort</label>
+                <select id="sortFilter" class="form-select">
+                    <option value="updated_desc">Newest update</option>
+                    <option value="updated_asc">Oldest update</option>
+                    <option value="stars_desc">Most stars</option>
+                    <option value="clones_desc">Most clones</option>
+                    <option value="name_asc">Name A-Z</option>
+                </select>
+            </div>
+            <button id="clearFilters" class="btn btn-outline-secondary clear-button" type="button">
+                <i class="fas fa-times" aria-hidden="true"></i>
+                Clear
+            </button>
         </div>
 
-    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/hyperLink.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/ellipsis.js"></script>
-
-    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/datetime.js"></script>
-
-    <!-- The Modal -->
-    <div id="myModal" class="modal">
-
-        <!-- Modal content -->
-        <div class="modal-content">
-            <div class="modal-header">
-
-                <h2 id="modal_header">Modal Header</h2>
-                <span class="close">&times;</span>
-            </div>
-            <div class="modal-body">
-                <div id="mygraph_clones" style="width: 100%"></div>
-                <div id="mygraph_views" style="width: 100%"></div>
-            </div>
+        <div class="filter-grid">
+            <label>
+                <span>Category</span>
+                <select id="categoryFilter" class="form-select" data-filter-key="category"></select>
+            </label>
+            <label>
+                <span>Language</span>
+                <select id="languageFilter" class="form-select" data-filter-key="language"></select>
+            </label>
+            <label>
+                <span>Operating System</span>
+                <select id="osFilter" class="form-select" data-filter-key="os"></select>
+            </label>
+            <label>
+                <span>C2 Profile</span>
+                <select id="c2Filter" class="form-select" data-filter-key="c2"></select>
+            </label>
+            <label>
+                <span>Mythic Feature</span>
+                <select id="featureFilter" class="form-select" data-filter-key="feature"></select>
+            </label>
+            <label>
+                <span>Docker</span>
+                <select id="dockerFilter" class="form-select" data-filter-key="docker">
+                    <option value="">Any Docker status</option>
+                    <option value="yes">Image available</option>
+                    <option value="no">No image listed</option>
+                </select>
+            </label>
+            <label>
+                <span>Update Window</span>
+                <select id="updatedFilter" class="form-select" data-filter-key="updated">
+                    <option value="">Any update age</option>
+                    <option value="30">Updated in 30 days</option>
+                    <option value="180">Stale 180+ days</option>
+                    <option value="365">Stale 365+ days</option>
+                </select>
+            </label>
         </div>
 
-    </div>
+        <div id="activeFilters" class="active-filters" aria-live="polite"></div>
+    </section>
 
-    <script src="dist/uPlot.iife.js"></script>
-    <script src="js/cckit_table.js?cb=20221103"></script>
+    <main class="table-surface">
+        <div class="section-heading">
+            <div>
+                <h2>Repositories</h2>
+                <p id="resultCount">Loading projects...</p>
+            </div>
+            <span class="recent-key">
+                <i class="fas fa-star" aria-hidden="true"></i>
+                Updated in the last 30 days
+            </span>
+        </div>
 
+        <table id="cckit_table" class="table table-hover align-middle mythic-table" style="width:100%">
+            <thead>
+            <tr>
+                <th>Project</th>
+                <th>Category</th>
+                <th>Compatibility</th>
+                <th>Docker</th>
+                <th>Updated</th>
+                <th>Activity</th>
+                <th>Updated sort</th>
+                <th>Stars sort</th>
+                <th>Clones sort</th>
+                <th>Name sort</th>
+            </tr>
+            </thead>
+        </table>
+    </main>
+
+    <footer class="site-footer">
+        Forked from Cobalt Strike's Community Kit
+        <a href="https://cobalt-strike.github.io/community_kit/" target="_blank" rel="noopener">Community Kit</a>
+    </footer>
+</div>
+
+<aside id="detailPanel" class="detail-panel" aria-hidden="true">
+    <div class="detail-backdrop" data-close-detail></div>
+    <section class="detail-card" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+        <button class="detail-close" type="button" data-close-detail aria-label="Close details">
+            <i class="fas fa-times" aria-hidden="true"></i>
+        </button>
+        <div id="detailContent" class="detail-content"></div>
+        <div class="detail-charts" id="detailCharts">
+            <div class="chart-panel">
+                <div id="mygraph_clones"></div>
+            </div>
+            <div class="chart-panel">
+                <div id="mygraph_views"></div>
+            </div>
+        </div>
+    </section>
+</aside>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-1.13.8/r-2.5.0/datatables.min.js"></script>
+<script src="dist/uPlot.iife.js"></script>
+<script src="js/cckit_table.js?cb=20260623-project-actions"></script>
 </body>
-Forked from Cobalt Strike's Community Kit (<a href="https://cobalt-strike.github.io/community_kit/" target="_blank">Community Kit</a>)
 </html>

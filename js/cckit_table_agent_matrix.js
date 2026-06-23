@@ -1,4 +1,56 @@
 var textRenderer = $.fn.dataTable.render.text().display;
+function escape_attr(value) {
+    return String(value == null ? "" : value).replace(/[&<>"']/g, function (character) {
+        return {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+            "'": "&#39;",
+        }[character];
+    });
+}
+function set_theme(preference) {
+    let prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    let effective = preference === "dark" || (preference === "system" && prefersDark) ? "dark" : "light";
+    document.documentElement.dataset.themePreference = preference;
+    document.documentElement.dataset.theme = effective;
+}
+function initialize_theme_control() {
+    let themeSelect = document.getElementById("themeSelect");
+    if (!themeSelect) {
+        return;
+    }
+    let stored = localStorage.getItem("mythic-theme") || "system";
+    let preference = ["light", "dark", "system"].includes(stored) ? stored : "system";
+    themeSelect.value = preference;
+    set_theme(preference);
+    themeSelect.addEventListener("change", function () {
+        localStorage.setItem("mythic-theme", themeSelect.value);
+        set_theme(themeSelect.value);
+    });
+    if (window.matchMedia) {
+        window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+            if ((localStorage.getItem("mythic-theme") || "system") === "system") {
+                set_theme("system");
+            }
+        });
+    }
+}
+function initialize_tooltips(root) {
+    let base = root || document;
+    if (window.bootstrap && window.bootstrap.Tooltip) {
+        base.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(function (element) {
+            let existing = window.bootstrap.Tooltip.getInstance(element);
+            if (existing) {
+                existing.dispose();
+            }
+            new window.bootstrap.Tooltip(element);
+        });
+    } else if ($.fn.tooltip) {
+        $('[data-toggle="tooltip"]', base).tooltip();
+    }
+}
 // Datatables.net table
 function bool_render (data, type, row, meta) {
     if(data === null) {
@@ -26,6 +78,7 @@ function feature_render(data, type, row, meta){
     return textRenderer(data);
 }
 $(document).ready(function() {
+    initialize_theme_control();
     fetch('./data.json')
         .then((response) => response.json())
         .then((json) => {
@@ -63,9 +116,11 @@ $(document).ready(function() {
             };
             // go through all agents and get an aggregate list of all features
             for(let i = 0; i < jsonData.length; i++){
+                let agentName = escape_attr(jsonData[i]["name"]);
+                let iconUrl = escape_attr(jsonData[i]["latest"]["icon"]);
                 columns.push({
                     data: `${jsonData[i]["name"]}`,
-                    title: '<img height="40px" width="40px" src="' + jsonData[i]["latest"]["icon"] + '"/>',
+                    title: '<img height="40px" width="40px" src="' + iconUrl + '" alt="' + agentName + '" data-agent="' + agentName + '"/>',
                     render: bool_render,
                     orderable: false
                 })
@@ -239,23 +294,23 @@ $(document).ready(function() {
                     },
                 ],
                 headerCallback: function( thead, data, start, end, display ) {
-                    //console.log(thead, data, start, end, display);
-                    for(let i = 1; i < end-start; i++){
-                        let th = $(thead).find('th').eq(i);
+                    $(thead).find('th').each(function () {
+                        let th = $(this);
                         let img = th.find('img')[0];
-                        if(img){
-                            if(img.src){
-                                let pieces = img.src.split("/");
-                                let agent = pieces[pieces.length-1].split(".");
-                                if(agent.length === 2 && agent[1] === "svg"){
-                                    th.attr("data-toggle", "tooltip");
-                                    th.attr("data-placement", "top");
-                                    th.attr("title", agent[0]);
-                                }
+                        if (img) {
+                            img.removeAttribute("title");
+                            img.removeAttribute("data-bs-toggle");
+                            img.removeAttribute("data-bs-placement");
+                            img.removeAttribute("data-bs-original-title");
+                            let agent = img.getAttribute("data-agent") || img.getAttribute("alt") || img.getAttribute("title");
+                            if (agent) {
+                                th.attr("data-bs-toggle", "tooltip");
+                                th.attr("data-bs-placement", "top");
+                                th.attr("title", agent);
                             }
                         }
-                    }
-                    $('[data-toggle="tooltip"]').tooltip()
+                    });
+                    initialize_tooltips(thead);
                 }
             } )
             table.on('mouseenter', 'td', function () {

@@ -1,26 +1,57 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
     <link rel="shortcut icon" href="favicon.ico">
+    <script>
+        (function () {
+            var preference = localStorage.getItem('mythic-theme') || 'system';
+            var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            document.documentElement.dataset.themePreference = preference;
+            document.documentElement.dataset.theme = preference === 'dark' || (preference === 'system' && prefersDark) ? 'dark' : 'light';
+        })();
+    </script>
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-1.13.8/fc-4.3.0/fh-3.4.0/r-2.5.0/datatables.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
     
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css?cb=20260623-compat-tight" rel="stylesheet">
 
     <title>Mythic Community Feature Matrix</title>
 </head>
 
-<body>
-<div style="display: flex; flex-direction: column; height: 100%">
-        <div class="container" id="cckitContent" >
-            <h3>Mythic Community Agent Feature Matrix</h3>
-            <p>
-                For agent overview and update frequency, check out the <a href="/overview">Overview Matrix</a>.
-                Mythic feature descriptions and documentation is at the bottom of the page.
-            </p>
-            <hr/>
-            <table id="cckit_table_agent_matrix" class="display border-top table-hover table my_table_layout" >
+<body class="matrix-page">
+<div class="matrix-shell">
+    <div class="app-shell">
+        <header class="site-header">
+            <div class="site-title">
+                <span class="eyebrow">Mythic Community</span>
+                <h1>Agent Matrix</h1>
+                <p>Capability coverage across public Mythic agents and wrappers.</p>
+            </div>
+            <div class="site-actions" aria-label="Site navigation">
+                <a class="nav-pill" href="/overview/">
+                    <i class="fas fa-table" aria-hidden="true"></i>
+                    Overview
+                </a>
+                <a class="nav-pill active" href="/overview/agent_matrix.html" aria-current="page">
+                    <i class="fas fa-th" aria-hidden="true"></i>
+                    Agent Matrix
+                </a>
+                <label class="visually-hidden" for="themeSelect">Theme</label>
+                <select id="themeSelect" class="form-select theme-select" aria-label="Theme">
+                    <option value="system">System</option>
+                    <option value="light">Light</option>
+                    <option value="dark">Dark</option>
+                </select>
+            </div>
+        </header>
+
+        <main class="matrix-table-surface matrix-intro">
+            <table id="cckit_table_agent_matrix" class="display border-top table-hover table my_table_layout mythic-table matrix-table" style="width:100%">
                 <thead class="thead-light">
                 </thead>
 
@@ -28,9 +59,10 @@
 
                 </tfoot>
             </table>
-        </div>
-    <div style="overflow: auto">
-        <p><b>Mythic Feature Descriptions:</b></p>
+        </main>
+
+    <section class="matrix-docs">
+        <h2>Mythic Feature Descriptions</h2>
         <ul>
             <li><b>adjust commands</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/commands">Docs</a> - The agent can load/unload commands dynamically and report back these adjustments to Mythic to properly update Mythic's tab-complete functionality</li>
             <li><b>alerts</b>: <a href="https://docs.mythic-c2.net/customizing/hooking-features/alerts">Docs</a> - The agent can report back alerts or events into the operational event log</li>
@@ -57,6 +89,7 @@
             <li><b>translation containers</b>: <a href="https://docs.mythic-c2.net/customizing/payload-type-development/translation-containers">Docs</a> - The agent uses translation containers to add more customization to the agent's C2 messages and/or encryption</li>
             <li><b>wrapper</b>: The agent is a "wrapper" payload type which means it takes another agent or wrapper as input and wraps the payload into another payload type.</li>
         </ul>
+    </section>
     </div>
 </div>
 
@@ -66,7 +99,7 @@
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/hyperLink.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.10.25/dataRender/ellipsis.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
-    <script src="js/cckit_table_agent_matrix.js?cb=20221103"></script>
+    <script src="js/cckit_table_agent_matrix.js?cb=20260623-tooltip-single"></script>
 
 </body>
 </html>
