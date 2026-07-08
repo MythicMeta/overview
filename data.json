@@ -4098,7 +4098,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 19,
+      "forks_count": 20,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -4117,7 +4117,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 19,
+      "forks": 20,
       "open_issues": 1,
       "watchers": 167,
       "default_branch": "main",
@@ -4178,7 +4178,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 19,
+      "network_count": 20,
       "subscribers_count": 3,
       "latest": {
         "branch": "main",
@@ -5051,14 +5051,14 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/forge/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/forge/deployments",
       "created_at": "2025-01-29T22:05:31Z",
-      "updated_at": "2026-07-06T02:20:33Z",
-      "pushed_at": "2026-06-23T16:09:58Z",
+      "updated_at": "2026-07-07T17:44:25Z",
+      "pushed_at": "2026-07-07T17:44:18Z",
       "git_url": "git://github.com/MythicAgents/forge.git",
       "ssh_url": "git@github.com:MythicAgents/forge.git",
       "clone_url": "https://github.com/MythicAgents/forge.git",
       "svn_url": "https://github.com/MythicAgents/forge",
       "homepage": null,
-      "size": 118,
+      "size": 121,
       "stargazers_count": 49,
       "watchers_count": 49,
       "language": "Go",
@@ -5072,7 +5072,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 3,
+      "open_issues_count": 2,
       "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -5088,7 +5088,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 13,
-      "open_issues": 3,
+      "open_issues": 2,
       "watchers": 49,
       "default_branch": "main",
       "permissions": {
@@ -5152,8 +5152,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "main",
-        "commit_message": "Bump config.json tag to match release 'v0.0.1.8'",
-        "commit_date": 1782230179.0,
+        "commit_message": "Bump config.json tag to match release 'v0.0.1.9'",
+        "commit_date": 1783446256.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/forge/main/agent_icons/forge.svg"
       },
       "metadata": {
@@ -5181,7 +5181,7 @@
         "agent_version": "0.0.7",
         "supported_wrappers": []
       },
-      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.8",
+      "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.9",
       "category": "CommandAugmentation",
       "clones": {
         "count": 169,
@@ -6770,7 +6770,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 38,
+      "forks_count": 39,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -6783,7 +6783,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 38,
+      "forks": 39,
       "open_issues": 7,
       "watchers": 211,
       "default_branch": "main",
@@ -6844,7 +6844,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 38,
+      "network_count": 39,
       "subscribers_count": 8,
       "latest": {
         "branch": "main",
@@ -7596,16 +7596,16 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Starburst/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Starburst/deployments",
       "created_at": "2026-07-05T03:36:09Z",
-      "updated_at": "2026-07-07T14:05:36Z",
-      "pushed_at": "2026-07-07T11:22:36Z",
+      "updated_at": "2026-07-08T02:06:09Z",
+      "pushed_at": "2026-07-08T02:06:05Z",
       "git_url": "git://github.com/Whispergate/Starburst.git",
       "ssh_url": "git@github.com:Whispergate/Starburst.git",
       "clone_url": "https://github.com/Whispergate/Starburst.git",
       "svn_url": "https://github.com/Whispergate/Starburst",
       "homepage": "",
-      "size": 5786,
-      "stargazers_count": 3,
-      "watchers_count": 3,
+      "size": 5883,
+      "stargazers_count": 6,
+      "watchers_count": 6,
       "language": "C",
       "has_issues": true,
       "has_projects": true,
@@ -7634,7 +7634,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 3,
+      "watchers": 6,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -7668,12 +7668,51 @@
       "network_count": 0,
       "subscribers_count": 0,
       "latest": {
-        "branch": "dev",
-        "commit_message": "Updated capabilities matrix",
-        "commit_date": 1783423346.0,
-        "icon": "https://raw.githubusercontent.com/Whispergate/Starburst/dev/agent_icons/Starburst.png"
+        "branch": "main",
+        "commit_message": "Fix cross-compilation errors for Mythic Docker builds\n- Conv...",
+        "commit_date": 1783476357.0,
+        "icon": "https://raw.githubusercontent.com/Whispergate/Starburst/main/agent_icons/Starburst.png"
       },
-      "metadata": {},
+      "metadata": {
+        "os": [
+          "Windows",
+          "Linux"
+        ],
+        "languages": [
+          "C"
+        ],
+        "features": {
+          "mythic": [
+            "agent"
+          ],
+          "custom": [
+            "bofs",
+            "key exchange",
+            "killdate",
+            "execute pic",
+            "execute assembly",
+            "shellcode injection"
+          ]
+        },
+        "payload_output": [
+          "bin",
+          "shellcode",
+          "exe",
+          "dll",
+          "service_exe"
+        ],
+        "architectures": [
+          "x86_64"
+        ],
+        "c2": [],
+        "mythic_version": "3.4.13",
+        "agent_version": "1.0.0",
+        "supported_wrappers": [
+          "erebus_wrapper",
+          "service_wrapper",
+          "scarecrow_wrapper"
+        ]
+      },
       "remote_images": "",
       "category": "Agent",
       "clones": {
@@ -8759,7 +8798,7 @@
       "releases_url": "https://api.github.com/repos/ZZ0R0/Proteus/releases{/id}",
       "deployments_url": "https://api.github.com/repos/ZZ0R0/Proteus/deployments",
       "created_at": "2026-04-25T10:00:20Z",
-      "updated_at": "2026-07-05T12:54:01Z",
+      "updated_at": "2026-07-07T18:14:45Z",
       "pushed_at": "2026-05-13T23:34:01Z",
       "git_url": "git://github.com/ZZ0R0/Proteus.git",
       "ssh_url": "git@github.com:ZZ0R0/Proteus.git",
@@ -8767,8 +8806,8 @@
       "svn_url": "https://github.com/ZZ0R0/Proteus",
       "homepage": null,
       "size": 353,
-      "stargazers_count": 68,
-      "watchers_count": 68,
+      "stargazers_count": 67,
+      "watchers_count": 67,
       "language": "Rust",
       "has_issues": true,
       "has_projects": true,
@@ -8808,7 +8847,7 @@
       "visibility": "public",
       "forks": 8,
       "open_issues": 0,
-      "watchers": 68,
+      "watchers": 67,
       "default_branch": "main",
       "permissions": {
         "admin": false,
