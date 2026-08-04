@@ -2104,8 +2104,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.3.18",
       "category": "Agent",
       "clones": {
-        "count": 709,
-        "uniques": 356
+        "count": 723,
+        "uniques": 366
       }
     },
     {
@@ -2193,7 +2193,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 59,
+      "forks_count": 60,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -2212,7 +2212,7 @@
       "pull_request_creation_policy": "all",
       "topics": [],
       "visibility": "public",
-      "forks": 59,
+      "forks": 60,
       "open_issues": 19,
       "watchers": 409,
       "default_branch": "main",
@@ -2273,7 +2273,7 @@
           "status": "disabled"
         }
       },
-      "network_count": 59,
+      "network_count": 60,
       "subscribers_count": 10,
       "latest": {
         "branch": "main",
@@ -3442,8 +3442,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 22,
-        "uniques": 16
+        "count": 23,
+        "uniques": 18
       }
     },
     {
@@ -4476,13 +4476,13 @@
       "deployments_url": "https://api.github.com/repos/MythicAgents/sage/deployments",
       "created_at": "2025-04-03T20:56:26Z",
       "updated_at": "2026-07-29T19:06:00Z",
-      "pushed_at": "2026-08-02T17:22:28Z",
+      "pushed_at": "2026-08-03T13:45:09Z",
       "git_url": "git://github.com/MythicAgents/sage.git",
       "ssh_url": "git@github.com:MythicAgents/sage.git",
       "clone_url": "https://github.com/MythicAgents/sage.git",
       "svn_url": "https://github.com/MythicAgents/sage",
       "homepage": "",
-      "size": 10525,
+      "size": 10550,
       "stargazers_count": 17,
       "watchers_count": 17,
       "language": "Python",
@@ -4585,8 +4585,8 @@
       "subscribers_count": 3,
       "latest": {
         "branch": "dev",
-        "commit_message": "feat: add new images and GIFs to enhance README documentatio...",
-        "commit_date": 1785691338.0,
+        "commit_message": "feat: add callback dispatch probe for LangChain to log trace...",
+        "commit_date": 1785764700.0,
         "icon": "https://raw.githubusercontent.com/MythicAgents/sage/dev/agent_icons/sage.svg"
       },
       "metadata": {
@@ -4979,8 +4979,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 17,
-        "uniques": 14
+        "count": 19,
+        "uniques": 16
       }
     },
     {
@@ -6753,7 +6753,7 @@
       "releases_url": "https://api.github.com/repos/MythicAgents/Kharon-Mtc/releases{/id}",
       "deployments_url": "https://api.github.com/repos/MythicAgents/Kharon-Mtc/deployments",
       "created_at": "2025-07-01T17:06:24Z",
-      "updated_at": "2026-08-02T17:12:22Z",
+      "updated_at": "2026-08-03T15:50:12Z",
       "pushed_at": "2025-12-30T16:11:38Z",
       "git_url": "git://github.com/MythicAgents/Kharon-Mtc.git",
       "ssh_url": "git@github.com:MythicAgents/Kharon-Mtc.git",
@@ -6761,8 +6761,8 @@
       "svn_url": "https://github.com/MythicAgents/Kharon-Mtc",
       "homepage": "",
       "size": 7183,
-      "stargazers_count": 214,
-      "watchers_count": 214,
+      "stargazers_count": 216,
+      "watchers_count": 216,
       "language": "C++",
       "has_issues": true,
       "has_projects": true,
@@ -6785,7 +6785,7 @@
       "visibility": "public",
       "forks": 39,
       "open_issues": 7,
-      "watchers": 214,
+      "watchers": 216,
       "default_branch": "main",
       "permissions": {
         "admin": true,
@@ -7596,14 +7596,14 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Starburst/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Starburst/deployments",
       "created_at": "2026-07-05T03:36:09Z",
-      "updated_at": "2026-08-02T15:06:24Z",
-      "pushed_at": "2026-07-29T00:29:16Z",
+      "updated_at": "2026-08-03T20:10:29Z",
+      "pushed_at": "2026-08-03T20:10:04Z",
       "git_url": "git://github.com/Whispergate/Starburst.git",
       "ssh_url": "git@github.com:Whispergate/Starburst.git",
       "clone_url": "https://github.com/Whispergate/Starburst.git",
       "svn_url": "https://github.com/Whispergate/Starburst",
       "homepage": "",
-      "size": 6270,
+      "size": 6272,
       "stargazers_count": 14,
       "watchers_count": 14,
       "language": "C++",
@@ -7669,8 +7669,8 @@
       "subscribers_count": 1,
       "latest": {
         "branch": "main",
-        "commit_message": "Added linux agent support\n- Added linux support\n- Updated ro...",
-        "commit_date": 1785284951.0,
+        "commit_message": "Switched to async subprocesses to prevent rabbitmq timeouts ...",
+        "commit_date": 1785787797.0,
         "icon": "https://raw.githubusercontent.com/Whispergate/Starburst/main/agent_icons/Starburst.png"
       },
       "metadata": {
@@ -8940,16 +8940,16 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Sphinx/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Sphinx/deployments",
       "created_at": "2026-05-31T17:08:24Z",
-      "updated_at": "2026-08-02T19:51:46Z",
-      "pushed_at": "2026-07-29T20:49:32Z",
+      "updated_at": "2026-08-03T22:18:30Z",
+      "pushed_at": "2026-08-03T22:18:12Z",
       "git_url": "git://github.com/Whispergate/Sphinx.git",
       "ssh_url": "git@github.com:Whispergate/Sphinx.git",
       "clone_url": "https://github.com/Whispergate/Sphinx.git",
       "svn_url": "https://github.com/Whispergate/Sphinx",
       "homepage": "",
-      "size": 62,
-      "stargazers_count": 16,
-      "watchers_count": 16,
+      "size": 75,
+      "stargazers_count": 17,
+      "watchers_count": 17,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -8978,7 +8978,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 16,
+      "watchers": 17,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -9013,8 +9013,8 @@
       "subscribers_count": 0,
       "latest": {
         "branch": "main",
-        "commit_message": "Update 'holygrail' description in README.md",
-        "commit_date": 1785358171.0,
+        "commit_message": "Small bugfix for dynamic analysis",
+        "commit_date": 1785795489.0,
         "icon": "https://avatars.githubusercontent.com/u/143597543?v=4"
       },
       "metadata": {},
@@ -9369,8 +9369,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.1.1",
       "clones": {
-        "count": 277,
-        "uniques": 136
+        "count": 291,
+        "uniques": 139
       }
     },
     {
@@ -10239,8 +10239,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.6",
       "clones": {
-        "count": 47,
-        "uniques": 40
+        "count": 53,
+        "uniques": 43
       }
     },
     {
@@ -11301,8 +11301,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.8",
       "clones": {
-        "count": 80,
-        "uniques": 60
+        "count": 76,
+        "uniques": 56
       }
     },
     {
