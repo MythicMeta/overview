@@ -218,8 +218,8 @@
       "remote_images": "ghcr.io/mythicagents/apfell:v0.0.2.5",
       "category": "Agent",
       "clones": {
-        "count": 183,
-        "uniques": 130
+        "count": 193,
+        "uniques": 139
       }
     },
     {
@@ -458,8 +458,8 @@
       "remote_images": "ghcr.io/mythicagents/apollo:v0.0.1.19",
       "category": "Agent",
       "clones": {
-        "count": 1558,
-        "uniques": 717
+        "count": 1615,
+        "uniques": 753
       }
     },
     {
@@ -703,8 +703,8 @@
       "remote_images": "ghcr.io/mythicagents/athena:v2.2.4",
       "category": "Agent",
       "clones": {
-        "count": 416,
-        "uniques": 203
+        "count": 426,
+        "uniques": 212
       }
     },
     {
@@ -927,8 +927,8 @@
       "remote_images": "ghcr.io/mythicagents/freyja:v0.0.1.00",
       "category": "Agent",
       "clones": {
-        "count": 57,
-        "uniques": 37
+        "count": 58,
+        "uniques": 38
       }
     },
     {
@@ -1102,8 +1102,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 33,
-        "uniques": 26
+        "count": 32,
+        "uniques": 25
       }
     },
     {
@@ -1283,8 +1283,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 14,
+        "uniques": 13
       }
     },
     {
@@ -1458,8 +1458,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 237,
-        "uniques": 107
+        "count": 238,
+        "uniques": 110
       }
     },
     {
@@ -1698,8 +1698,8 @@
       "remote_images": "docker.io/ne0nd0g/merlin-mythic:v1.0.3",
       "category": "Agent",
       "clones": {
-        "count": 149,
-        "uniques": 104
+        "count": 152,
+        "uniques": 107
       }
     },
     {
@@ -2105,8 +2105,8 @@
       "remote_images": "ghcr.io/mythicagents/poseidon:v0.0.3.18",
       "category": "Agent",
       "clones": {
-        "count": 651,
-        "uniques": 387
+        "count": 659,
+        "uniques": 397
       }
     },
     {
@@ -2327,7 +2327,7 @@
       "category": "Agent",
       "clones": {
         "count": 202,
-        "uniques": 104
+        "uniques": 105
       }
     },
     {
@@ -2688,8 +2688,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 25,
-        "uniques": 23
+        "count": 27,
+        "uniques": 25
       }
     },
     {
@@ -2869,8 +2869,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -3050,7 +3050,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 25,
+        "count": 31,
         "uniques": 21
       }
     },
@@ -3259,8 +3259,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 16,
-        "uniques": 12
+        "count": 17,
+        "uniques": 13
       }
     },
     {
@@ -3660,7 +3660,7 @@
       "category": "Agent",
       "clones": {
         "count": 103,
-        "uniques": 43
+        "uniques": 44
       }
     },
     {
@@ -3863,7 +3863,7 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 67,
+        "count": 66,
         "uniques": 28
       }
     },
@@ -4229,8 +4229,8 @@
       "remote_images": "ghcr.io/mythicagents/xenon:latest",
       "category": "Agent",
       "clones": {
-        "count": 216,
-        "uniques": 103
+        "count": 218,
+        "uniques": 106
       }
     },
     {
@@ -4404,8 +4404,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 9,
+        "uniques": 6
       }
     },
     {
@@ -4602,8 +4602,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 324,
-        "uniques": 69
+        "count": 310,
+        "uniques": 64
       }
     },
     {
@@ -4799,8 +4799,8 @@
       "remote_images": "",
       "category": "Service",
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       }
     },
     {
@@ -4980,8 +4980,8 @@
       "remote_images": "ghcr.io/mythicagents/sliver:sliverapi.v0.0.0.16\nghcr.io/mythicagents/sliver:sliverimplant.v0.0.0.16",
       "category": "ExternalAgent",
       "clones": {
-        "count": 21,
-        "uniques": 15
+        "count": 22,
+        "uniques": 16
       }
     },
     {
@@ -5185,8 +5185,8 @@
       "remote_images": "ghcr.io/mythicagents/forge:v0.0.1.9",
       "category": "CommandAugmentation",
       "clones": {
-        "count": 171,
-        "uniques": 74
+        "count": 181,
+        "uniques": 79
       }
     },
     {
@@ -5388,8 +5388,8 @@
       "remote_images": "ghcr.io/mythicagents/bloodhound:v0.0.0.3",
       "category": "Service",
       "clones": {
-        "count": 29,
-        "uniques": 23
+        "count": 30,
+        "uniques": 25
       }
     },
     {
@@ -5592,7 +5592,7 @@
       "category": "Service",
       "clones": {
         "count": 36,
-        "uniques": 27
+        "uniques": 28
       }
     },
     {
@@ -5794,8 +5794,8 @@
       "remote_images": "ghcr.io/mythicagents/nemesis:v0.0.0.4",
       "category": "Service",
       "clones": {
-        "count": 22,
-        "uniques": 21
+        "count": 24,
+        "uniques": 23
       }
     },
     {
@@ -5975,8 +5975,8 @@
       "remote_images": "ghcr.io/mythicagents/hydra:v0.0.1",
       "category": "Eventing",
       "clones": {
-        "count": 15,
-        "uniques": 11
+        "count": 18,
+        "uniques": 14
       }
     },
     {
@@ -6173,8 +6173,8 @@
       "remote_images": "ghcr.io/mythicagents/service_wrapper:v0.0.5",
       "category": "Wrapper",
       "clones": {
-        "count": 218,
-        "uniques": 91
+        "count": 222,
+        "uniques": 90
       }
     },
     {
@@ -6348,8 +6348,8 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 87,
-        "uniques": 41
+        "count": 88,
+        "uniques": 43
       }
     },
     {
@@ -6529,7 +6529,7 @@
       "remote_images": "",
       "category": "Wrapper",
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 3
       }
     },
@@ -6898,8 +6898,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 87,
-        "uniques": 36
+        "count": 93,
+        "uniques": 43
       }
     },
     {
@@ -7115,8 +7115,8 @@
       "remote_images": "ghcr.io/mythicagents/woopsie:v0.0.8",
       "category": "Agent",
       "clones": {
-        "count": 23,
-        "uniques": 14
+        "count": 21,
+        "uniques": 13
       }
     },
     {
@@ -7334,8 +7334,8 @@
       "remote_images": "ghcr.io/mythicagents/poopsie:v0.0.23",
       "category": "Agent",
       "clones": {
-        "count": 71,
-        "uniques": 49
+        "count": 72,
+        "uniques": 51
       }
     },
     {
@@ -7406,7 +7406,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Erebus/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Erebus/deployments",
       "created_at": "2025-08-18T20:10:16Z",
-      "updated_at": "2026-09-13T12:58:32Z",
+      "updated_at": "2026-09-14T12:07:24Z",
       "pushed_at": "2026-09-13T12:58:28Z",
       "git_url": "git://github.com/Whispergate/Erebus.git",
       "ssh_url": "git@github.com:Whispergate/Erebus.git",
@@ -7414,8 +7414,8 @@
       "svn_url": "https://github.com/Whispergate/Erebus",
       "homepage": "",
       "size": 4263,
-      "stargazers_count": 222,
-      "watchers_count": 222,
+      "stargazers_count": 223,
+      "watchers_count": 223,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -7451,7 +7451,7 @@
       "visibility": "public",
       "forks": 19,
       "open_issues": 0,
-      "watchers": 222,
+      "watchers": 223,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -7597,7 +7597,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Starburst/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Starburst/deployments",
       "created_at": "2026-07-05T03:36:09Z",
-      "updated_at": "2026-09-13T18:47:30Z",
+      "updated_at": "2026-09-14T10:59:47Z",
       "pushed_at": "2026-09-13T18:53:41Z",
       "git_url": "git://github.com/Whispergate/Starburst.git",
       "ssh_url": "git@github.com:Whispergate/Starburst.git",
@@ -7605,8 +7605,8 @@
       "svn_url": "https://github.com/Whispergate/Starburst",
       "homepage": "",
       "size": 6633,
-      "stargazers_count": 46,
-      "watchers_count": 46,
+      "stargazers_count": 47,
+      "watchers_count": 47,
       "language": "C++",
       "has_issues": true,
       "has_projects": true,
@@ -7635,7 +7635,7 @@
       "visibility": "public",
       "forks": 4,
       "open_issues": 0,
-      "watchers": 46,
+      "watchers": 47,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -8941,14 +8941,14 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Sphinx/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Sphinx/deployments",
       "created_at": "2026-05-31T17:08:24Z",
-      "updated_at": "2026-09-12T18:23:05Z",
-      "pushed_at": "2026-08-03T22:18:12Z",
+      "updated_at": "2026-09-14T09:44:39Z",
+      "pushed_at": "2026-09-14T09:44:35Z",
       "git_url": "git://github.com/Whispergate/Sphinx.git",
       "ssh_url": "git@github.com:Whispergate/Sphinx.git",
       "clone_url": "https://github.com/Whispergate/Sphinx.git",
       "svn_url": "https://github.com/Whispergate/Sphinx",
       "homepage": "",
-      "size": 75,
+      "size": 76,
       "stargazers_count": 21,
       "watchers_count": 21,
       "language": "Python",
@@ -9014,8 +9014,8 @@
       "subscribers_count": 0,
       "latest": {
         "branch": "main",
-        "commit_message": "Small bugfix for dynamic analysis",
-        "commit_date": 1785795489.0,
+        "commit_message": "Fixed event templates",
+        "commit_date": 1789379071.0,
         "icon": "https://avatars.githubusercontent.com/u/143597543?v=4"
       },
       "metadata": {},
@@ -9197,8 +9197,8 @@
       "remote_images": "",
       "category": "Agent",
       "clones": {
-        "count": 41,
-        "uniques": 35
+        "count": 43,
+        "uniques": 36
       }
     },
     {
@@ -9605,6 +9605,345 @@
       }
     },
     {
+      "id": 1367188083,
+      "node_id": "R_kgDOUX2icw",
+      "name": "Ariadne",
+      "full_name": "Whispergate/Ariadne",
+      "private": false,
+      "owner": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Whispergate/Ariadne",
+      "description": "Web Shells for Mythic C2",
+      "fork": false,
+      "url": "https://api.github.com/repos/Whispergate/Ariadne",
+      "forks_url": "https://api.github.com/repos/Whispergate/Ariadne/forks",
+      "keys_url": "https://api.github.com/repos/Whispergate/Ariadne/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Whispergate/Ariadne/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Whispergate/Ariadne/teams",
+      "hooks_url": "https://api.github.com/repos/Whispergate/Ariadne/hooks",
+      "issue_events_url": "https://api.github.com/repos/Whispergate/Ariadne/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Whispergate/Ariadne/events",
+      "assignees_url": "https://api.github.com/repos/Whispergate/Ariadne/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Whispergate/Ariadne/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Whispergate/Ariadne/tags",
+      "blobs_url": "https://api.github.com/repos/Whispergate/Ariadne/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Whispergate/Ariadne/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Whispergate/Ariadne/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Whispergate/Ariadne/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Whispergate/Ariadne/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Whispergate/Ariadne/languages",
+      "stargazers_url": "https://api.github.com/repos/Whispergate/Ariadne/stargazers",
+      "contributors_url": "https://api.github.com/repos/Whispergate/Ariadne/contributors",
+      "subscribers_url": "https://api.github.com/repos/Whispergate/Ariadne/subscribers",
+      "subscription_url": "https://api.github.com/repos/Whispergate/Ariadne/subscription",
+      "commits_url": "https://api.github.com/repos/Whispergate/Ariadne/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Whispergate/Ariadne/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Whispergate/Ariadne/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Whispergate/Ariadne/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Whispergate/Ariadne/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Whispergate/Ariadne/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Whispergate/Ariadne/merges",
+      "archive_url": "https://api.github.com/repos/Whispergate/Ariadne/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Whispergate/Ariadne/downloads",
+      "issues_url": "https://api.github.com/repos/Whispergate/Ariadne/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Whispergate/Ariadne/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Whispergate/Ariadne/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Whispergate/Ariadne/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Whispergate/Ariadne/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Whispergate/Ariadne/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Whispergate/Ariadne/deployments",
+      "created_at": "2026-09-12T10:25:45Z",
+      "updated_at": "2026-09-14T12:40:57Z",
+      "pushed_at": "2026-09-14T07:05:54Z",
+      "git_url": "git://github.com/Whispergate/Ariadne.git",
+      "ssh_url": "git@github.com:Whispergate/Ariadne.git",
+      "clone_url": "https://github.com/Whispergate/Ariadne.git",
+      "svn_url": "https://github.com/Whispergate/Ariadne",
+      "homepage": null,
+      "size": 5100,
+      "stargazers_count": 3,
+      "watchers_count": 3,
+      "language": "ASP.NET",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 3,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+      },
+      "custom_properties": {},
+      "organization": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "network_count": 0,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "main",
+        "commit_message": "Fixed bug in execute_assembly command",
+        "commit_date": 1789369538.0,
+        "icon": "https://raw.githubusercontent.com/Whispergate/Ariadne/main/agent_icons/ariadne.png"
+      },
+      "metadata": {
+        "name": "ariadne",
+        "version": "1.0.0",
+        "author": "@Lavender-exe",
+        "description": "Webshell agent for PHP, ASPX, ASHX, JSP, JSPX, and Go with SOCKS5 tunneling and P2P.",
+        "supported_os": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "features": [
+          "PHP, ASPX, ASHX, JSP, JSPX, Go webshell templates",
+          "Deformed base64 encoding with per-deployment unique alphabet",
+          "AES-256-CBC encryption with HMAC-SHA256 integrity",
+          "Configurable authentication (cookie, header, parameter)",
+          "Request template injection (form, JSON, image data, SOAP XML)",
+          "Camouflage pages for unauthenticated requests",
+          "SOCKS5 proxy tunneling through the webshell",
+          "P2P agent linking (HTTP, SMB named pipes, TCP sockets)",
+          "Active beacon mode with configurable interval and jitter"
+        ],
+        "commands": [
+          "shell",
+          "ls",
+          "cd",
+          "pwd",
+          "download",
+          "upload",
+          "rm",
+          "socks",
+          "link",
+          "sleep"
+        ]
+      },
+      "remote_images": "",
+      "category": "Agent",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
+    },
+    {
+      "id": 1367712935,
+      "node_id": "R_kgDOUYWkpw",
+      "name": "Daedalus",
+      "full_name": "Whispergate/Daedalus",
+      "private": false,
+      "owner": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Whispergate/Daedalus",
+      "description": "Mythic Eventing Container to interact with CI/CD servers",
+      "fork": false,
+      "url": "https://api.github.com/repos/Whispergate/Daedalus",
+      "forks_url": "https://api.github.com/repos/Whispergate/Daedalus/forks",
+      "keys_url": "https://api.github.com/repos/Whispergate/Daedalus/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Whispergate/Daedalus/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Whispergate/Daedalus/teams",
+      "hooks_url": "https://api.github.com/repos/Whispergate/Daedalus/hooks",
+      "issue_events_url": "https://api.github.com/repos/Whispergate/Daedalus/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Whispergate/Daedalus/events",
+      "assignees_url": "https://api.github.com/repos/Whispergate/Daedalus/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Whispergate/Daedalus/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Whispergate/Daedalus/tags",
+      "blobs_url": "https://api.github.com/repos/Whispergate/Daedalus/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Whispergate/Daedalus/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Whispergate/Daedalus/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Whispergate/Daedalus/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Whispergate/Daedalus/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Whispergate/Daedalus/languages",
+      "stargazers_url": "https://api.github.com/repos/Whispergate/Daedalus/stargazers",
+      "contributors_url": "https://api.github.com/repos/Whispergate/Daedalus/contributors",
+      "subscribers_url": "https://api.github.com/repos/Whispergate/Daedalus/subscribers",
+      "subscription_url": "https://api.github.com/repos/Whispergate/Daedalus/subscription",
+      "commits_url": "https://api.github.com/repos/Whispergate/Daedalus/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Whispergate/Daedalus/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Whispergate/Daedalus/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Whispergate/Daedalus/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Whispergate/Daedalus/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Whispergate/Daedalus/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Whispergate/Daedalus/merges",
+      "archive_url": "https://api.github.com/repos/Whispergate/Daedalus/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Whispergate/Daedalus/downloads",
+      "issues_url": "https://api.github.com/repos/Whispergate/Daedalus/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Whispergate/Daedalus/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Whispergate/Daedalus/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Whispergate/Daedalus/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Whispergate/Daedalus/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Whispergate/Daedalus/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Whispergate/Daedalus/deployments",
+      "created_at": "2026-09-12T21:40:32Z",
+      "updated_at": "2026-09-14T12:57:10Z",
+      "pushed_at": "2026-09-14T12:57:06Z",
+      "git_url": "git://github.com/Whispergate/Daedalus.git",
+      "ssh_url": "git@github.com:Whispergate/Daedalus.git",
+      "clone_url": "https://github.com/Whispergate/Daedalus.git",
+      "svn_url": "https://github.com/Whispergate/Daedalus",
+      "homepage": "",
+      "size": 432,
+      "stargazers_count": 2,
+      "watchers_count": 2,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 2,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+      },
+      "custom_properties": {},
+      "organization": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "network_count": 0,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "main",
+        "commit_message": "Added workflow diagram",
+        "commit_date": 1789390614.0,
+        "icon": "https://avatars.githubusercontent.com/u/143597543?v=4"
+      },
+      "metadata": {},
+      "remote_images": "",
+      "category": "Eventing",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
+    },
+    {
       "id": 349516522,
       "node_id": "MDEwOlJlcG9zaXRvcnkzNDk1MTY1MjI=",
       "name": "http",
@@ -9774,8 +10113,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/http:v0.0.3.2",
       "clones": {
-        "count": 1229,
-        "uniques": 709
+        "count": 1261,
+        "uniques": 727
       }
     },
     {
@@ -9948,8 +10287,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/smb:v0.1.1",
       "clones": {
-        "count": 302,
-        "uniques": 144
+        "count": 314,
+        "uniques": 151
       }
     },
     {
@@ -10122,8 +10461,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dns:v0.0.0.8",
       "clones": {
-        "count": 123,
-        "uniques": 81
+        "count": 124,
+        "uniques": 83
       }
     },
     {
@@ -10296,8 +10635,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/websocket:v0.0.3.1",
       "clones": {
-        "count": 225,
-        "uniques": 121
+        "count": 232,
+        "uniques": 125
       }
     },
     {
@@ -10470,8 +10809,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 17,
-        "uniques": 17
+        "count": 18,
+        "uniques": 18
       }
     },
     {
@@ -10644,8 +10983,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/tcp:v0.0.0.4",
       "clones": {
-        "count": 180,
-        "uniques": 93
+        "count": 183,
+        "uniques": 98
       }
     },
     {
@@ -10818,8 +11157,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/dynamichttp:v0.0.1.6",
       "clones": {
-        "count": 72,
-        "uniques": 44
+        "count": 75,
+        "uniques": 47
       }
     },
     {
@@ -10992,8 +11331,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 33,
-        "uniques": 29
+        "count": 38,
+        "uniques": 34
       }
     },
     {
@@ -11166,8 +11505,8 @@
       "category": "C2",
       "remote_images": "ghcr.io/mythicc2profiles/httpx:v0.0.0.20",
       "clones": {
-        "count": 295,
-        "uniques": 159
+        "count": 304,
+        "uniques": 163
       }
     },
     {
@@ -11346,8 +11685,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 73,
-        "uniques": 24
+        "count": 75,
+        "uniques": 26
       }
     },
     {
@@ -11520,8 +11859,8 @@
       "category": "C2",
       "remote_images": "",
       "clones": {
-        "count": 29,
-        "uniques": 15
+        "count": 30,
+        "uniques": 17
       }
     },
     {
@@ -11700,8 +12039,8 @@
       "category": "Webhook",
       "remote_images": "ghcr.io/mythicc2profiles/basic_webhook:v0.0.14",
       "clones": {
-        "count": 47,
-        "uniques": 39
+        "count": 48,
+        "uniques": 40
       }
     },
     {
@@ -11880,8 +12219,8 @@
       "category": "Logger",
       "remote_images": "ghcr.io/mythicc2profiles/basic_logger:v0.0.8",
       "clones": {
-        "count": 83,
-        "uniques": 54
+        "count": 80,
+        "uniques": 53
       }
     },
     {
@@ -12060,8 +12399,8 @@
       "category": "Auth",
       "remote_images": "ghcr.io/mythicc2profiles/basic_auth_providers:v0.0.4",
       "clones": {
-        "count": 14,
-        "uniques": 14
+        "count": 16,
+        "uniques": 16
       }
     },
     {
@@ -12240,7 +12579,7 @@
       "category": "Browser",
       "remote_images": "ghcr.io/mythicc2profiles/registry_browser:v0.0.1.1",
       "clones": {
-        "count": 27,
+        "count": 26,
         "uniques": 16
       }
     },
@@ -12415,7 +12754,7 @@
       "remote_images": "ghcr.io/mythicc2profiles/ldap_browser:v0.0.2",
       "clones": {
         "count": 22,
-        "uniques": 13
+        "uniques": 14
       }
     },
     {
@@ -12616,7 +12955,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Tyche/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Tyche/deployments",
       "created_at": "2026-02-26T05:10:56Z",
-      "updated_at": "2026-09-09T13:52:06Z",
+      "updated_at": "2026-09-14T13:49:09Z",
       "pushed_at": "2026-03-28T03:25:57Z",
       "git_url": "git://github.com/Whispergate/Tyche.git",
       "ssh_url": "git@github.com:Whispergate/Tyche.git",
@@ -12624,8 +12963,8 @@
       "svn_url": "https://github.com/Whispergate/Tyche",
       "homepage": "",
       "size": 186,
-      "stargazers_count": 54,
-      "watchers_count": 54,
+      "stargazers_count": 56,
+      "watchers_count": 56,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -12654,7 +12993,7 @@
       "visibility": "public",
       "forks": 2,
       "open_issues": 0,
-      "watchers": 54,
+      "watchers": 56,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -13174,6 +13513,158 @@
         "branch": "main",
         "commit_message": "Updated documentation",
         "commit_date": 1787211753.0,
+        "icon": "https://avatars.githubusercontent.com/u/143597543?v=4"
+      },
+      "category": "C2",
+      "remote_images": "",
+      "clones": {
+        "count": -1,
+        "uniques": -1
+      }
+    },
+    {
+      "id": 1368513273,
+      "node_id": "R_kgDOUZHa-Q",
+      "name": "msteams",
+      "full_name": "Whispergate/msteams",
+      "private": false,
+      "owner": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Whispergate/msteams",
+      "description": "Mythic C2 MSTeams Communication Channel",
+      "fork": false,
+      "url": "https://api.github.com/repos/Whispergate/msteams",
+      "forks_url": "https://api.github.com/repos/Whispergate/msteams/forks",
+      "keys_url": "https://api.github.com/repos/Whispergate/msteams/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Whispergate/msteams/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Whispergate/msteams/teams",
+      "hooks_url": "https://api.github.com/repos/Whispergate/msteams/hooks",
+      "issue_events_url": "https://api.github.com/repos/Whispergate/msteams/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Whispergate/msteams/events",
+      "assignees_url": "https://api.github.com/repos/Whispergate/msteams/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Whispergate/msteams/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Whispergate/msteams/tags",
+      "blobs_url": "https://api.github.com/repos/Whispergate/msteams/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Whispergate/msteams/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Whispergate/msteams/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Whispergate/msteams/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Whispergate/msteams/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Whispergate/msteams/languages",
+      "stargazers_url": "https://api.github.com/repos/Whispergate/msteams/stargazers",
+      "contributors_url": "https://api.github.com/repos/Whispergate/msteams/contributors",
+      "subscribers_url": "https://api.github.com/repos/Whispergate/msteams/subscribers",
+      "subscription_url": "https://api.github.com/repos/Whispergate/msteams/subscription",
+      "commits_url": "https://api.github.com/repos/Whispergate/msteams/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Whispergate/msteams/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Whispergate/msteams/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Whispergate/msteams/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Whispergate/msteams/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Whispergate/msteams/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Whispergate/msteams/merges",
+      "archive_url": "https://api.github.com/repos/Whispergate/msteams/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Whispergate/msteams/downloads",
+      "issues_url": "https://api.github.com/repos/Whispergate/msteams/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Whispergate/msteams/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Whispergate/msteams/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Whispergate/msteams/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Whispergate/msteams/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Whispergate/msteams/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Whispergate/msteams/deployments",
+      "created_at": "2026-09-13T15:27:48Z",
+      "updated_at": "2026-09-14T15:29:10Z",
+      "pushed_at": "2026-09-13T18:51:54Z",
+      "git_url": "git://github.com/Whispergate/msteams.git",
+      "ssh_url": "git@github.com:Whispergate/msteams.git",
+      "clone_url": "https://github.com/Whispergate/msteams.git",
+      "svn_url": "https://github.com/Whispergate/msteams",
+      "homepage": null,
+      "size": 27,
+      "stargazers_count": 17,
+      "watchers_count": 17,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 1,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 1,
+      "open_issues": 0,
+      "watchers": 17,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+      },
+      "custom_properties": {},
+      "organization": {
+        "login": "Whispergate",
+        "id": 143597543,
+        "node_id": "O_kgDOCI8f5w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Whispergate",
+        "html_url": "https://github.com/Whispergate",
+        "followers_url": "https://api.github.com/users/Whispergate/followers",
+        "following_url": "https://api.github.com/users/Whispergate/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Whispergate/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Whispergate/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Whispergate/subscriptions",
+        "organizations_url": "https://api.github.com/users/Whispergate/orgs",
+        "repos_url": "https://api.github.com/users/Whispergate/repos",
+        "events_url": "https://api.github.com/users/Whispergate/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Whispergate/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "network_count": 1,
+      "subscribers_count": 0,
+      "latest": {
+        "branch": "main",
+        "commit_message": "Updated Readme\n\nUpdated README to reflect changes in transpo...",
+        "commit_date": 1789325513.0,
         "icon": "https://avatars.githubusercontent.com/u/143597543?v=4"
       },
       "category": "C2",
