@@ -7956,7 +7956,7 @@
       "releases_url": "https://api.github.com/repos/galoryber/fawkes/releases{/id}",
       "deployments_url": "https://api.github.com/repos/galoryber/fawkes/deployments",
       "created_at": "2024-11-18T17:14:47Z",
-      "updated_at": "2026-08-16T08:56:11Z",
+      "updated_at": "2026-09-17T23:56:01Z",
       "pushed_at": "2026-07-21T13:56:41Z",
       "git_url": "git://github.com/galoryber/fawkes.git",
       "ssh_url": "git@github.com:galoryber/fawkes.git",
@@ -7964,8 +7964,8 @@
       "svn_url": "https://github.com/galoryber/fawkes",
       "homepage": "",
       "size": 122286,
-      "stargazers_count": 36,
-      "watchers_count": 36,
+      "stargazers_count": 37,
+      "watchers_count": 37,
       "language": "Go",
       "has_issues": true,
       "has_projects": true,
@@ -7994,7 +7994,7 @@
       "visibility": "public",
       "forks": 6,
       "open_issues": 0,
-      "watchers": 36,
+      "watchers": 37,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -8155,8 +8155,8 @@
       "releases_url": "https://api.github.com/repos/grampae/tyche/releases{/id}",
       "deployments_url": "https://api.github.com/repos/grampae/tyche/deployments",
       "created_at": "2026-02-06T21:36:08Z",
-      "updated_at": "2026-08-21T21:03:24Z",
-      "pushed_at": "2026-03-15T16:43:08Z",
+      "updated_at": "2026-09-17T19:06:19Z",
+      "pushed_at": "2026-09-17T19:06:14Z",
       "git_url": "git://github.com/grampae/tyche.git",
       "ssh_url": "git@github.com:grampae/tyche.git",
       "clone_url": "https://github.com/grampae/tyche.git",
@@ -8200,8 +8200,8 @@
       "subscribers_count": 0,
       "latest": {
         "branch": "main",
-        "commit_message": "Tag changelog as v2.0.0",
-        "commit_date": 1773592910.0,
+        "commit_message": "Declare Mythic 3.4.36 support",
+        "commit_date": 1789671973.0,
         "icon": "https://raw.githubusercontent.com/grampae/tyche/main/agent_icons/tyche.svg"
       },
       "metadata": {
@@ -8241,7 +8241,7 @@
         "c2": [
           "mqtt"
         ],
-        "mythic_version": "",
+        "mythic_version": "3.4.36",
         "agent_version": "",
         "supported_wrappers": []
       },
@@ -9269,7 +9269,7 @@
       "releases_url": "https://api.github.com/repos/ServiceNow/Dark-Agent/releases{/id}",
       "deployments_url": "https://api.github.com/repos/ServiceNow/Dark-Agent/deployments",
       "created_at": "2026-08-12T19:50:46Z",
-      "updated_at": "2026-09-17T12:38:23Z",
+      "updated_at": "2026-09-17T19:56:13Z",
       "pushed_at": "2026-09-16T14:07:41Z",
       "git_url": "git://github.com/ServiceNow/Dark-Agent.git",
       "ssh_url": "git@github.com:ServiceNow/Dark-Agent.git",
@@ -9277,8 +9277,8 @@
       "svn_url": "https://github.com/ServiceNow/Dark-Agent",
       "homepage": "",
       "size": 338,
-      "stargazers_count": 103,
-      "watchers_count": 103,
+      "stargazers_count": 104,
+      "watchers_count": 104,
       "language": "Crystal",
       "has_issues": true,
       "has_projects": true,
@@ -9290,7 +9290,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 3,
+      "open_issues_count": 4,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -9300,8 +9300,8 @@
       "topics": [],
       "visibility": "public",
       "forks": 13,
-      "open_issues": 3,
-      "watchers": 103,
+      "open_issues": 4,
+      "watchers": 104,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -9714,7 +9714,7 @@
       "releases_url": "https://api.github.com/repos/Whispergate/Ariadne/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Whispergate/Ariadne/deployments",
       "created_at": "2026-09-12T10:25:45Z",
-      "updated_at": "2026-09-15T05:31:05Z",
+      "updated_at": "2026-09-17T17:07:26Z",
       "pushed_at": "2026-09-14T07:05:54Z",
       "git_url": "git://github.com/Whispergate/Ariadne.git",
       "ssh_url": "git@github.com:Whispergate/Ariadne.git",
@@ -9722,8 +9722,8 @@
       "svn_url": "https://github.com/Whispergate/Ariadne",
       "homepage": null,
       "size": 5100,
-      "stargazers_count": 5,
-      "watchers_count": 5,
+      "stargazers_count": 6,
+      "watchers_count": 6,
       "language": "ASP.NET",
       "has_issues": true,
       "has_projects": true,
@@ -9752,7 +9752,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 5,
+      "watchers": 6,
       "default_branch": "main",
       "permissions": {
         "admin": false,
@@ -10013,7 +10013,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/grampae/epona",
-      "description": null,
+      "description": "Epona is a cross-platform native agent written in Zig. It communicates over MQTT and HTTP.",
       "fork": false,
       "url": "https://api.github.com/repos/grampae/epona",
       "forks_url": "https://api.github.com/repos/grampae/epona/forks",
@@ -10053,16 +10053,16 @@
       "releases_url": "https://api.github.com/repos/grampae/epona/releases{/id}",
       "deployments_url": "https://api.github.com/repos/grampae/epona/deployments",
       "created_at": "2026-09-16T18:32:40Z",
-      "updated_at": "2026-09-16T20:15:43Z",
-      "pushed_at": "2026-09-16T20:15:39Z",
+      "updated_at": "2026-09-17T19:04:24Z",
+      "pushed_at": "2026-09-17T19:04:21Z",
       "git_url": "git://github.com/grampae/epona.git",
       "ssh_url": "git@github.com:grampae/epona.git",
       "clone_url": "https://github.com/grampae/epona.git",
       "svn_url": "https://github.com/grampae/epona",
-      "homepage": null,
-      "size": 2728,
-      "stargazers_count": 0,
-      "watchers_count": 0,
+      "homepage": "",
+      "size": 2729,
+      "stargazers_count": 1,
+      "watchers_count": 1,
       "language": "Zig",
       "has_issues": true,
       "has_projects": true,
@@ -10091,7 +10091,7 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 0,
+      "watchers": 1,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -10104,11 +10104,52 @@
       "subscribers_count": 0,
       "latest": {
         "branch": "master",
-        "commit_message": "Update README to remove restart instruction\n\nRemove instruct...",
-        "commit_date": 1789589738.0,
+        "commit_message": "Declare Mythic 3.4.36 support",
+        "commit_date": 1789671859.0,
         "icon": "https://raw.githubusercontent.com/grampae/epona/master/agent_icons/epona.png"
       },
-      "metadata": {},
+      "metadata": {
+        "os": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "languages": [
+          "zig"
+        ],
+        "features": {
+          "mythic": [
+            "docker",
+            "file chunking",
+            "file browser",
+            "process browser",
+            "process responses",
+            "socks"
+          ],
+          "custom": [
+            "key exchange",
+            "multiple egress",
+            "killdate"
+          ]
+        },
+        "payload_output": [
+          "elf",
+          "macho",
+          "pe",
+          "shellcode"
+        ],
+        "architectures": [
+          "x86_64",
+          "arm_64"
+        ],
+        "c2": [
+          "mqtt",
+          "http"
+        ],
+        "mythic_version": "3.4.36",
+        "agent_version": "0.1.0",
+        "supported_wrappers": []
+      },
       "remote_images": "",
       "category": "Agent",
       "clones": {
